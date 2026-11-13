@@ -71,7 +71,7 @@ Please consult each project's documentation and licensing terms before reusing i
 - Zhang, Longyu (Ghent University)
 - Zheng, Yuxi (Peking University)
 
-We welcome collaborations! For inquiries or contributions, please contact:
+We welcome collaborations! For inquiries or joining us, please contact:
 
 wh583 AT georgetown DOT edu
 
