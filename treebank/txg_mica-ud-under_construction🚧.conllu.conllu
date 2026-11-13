@@ -1,0 +1,2919 @@
+# sent_id = monthly_pleasures_title.s01.c01
+# text = 𗼑𗼑𗫉𗊱𘈩𗱊
+# section = 篇首题名 · 小节 1
+# text_zh = 月 · 月 · 乐 · 诗 · 一 · 卷
+# text_en = Ode on Monthly Pleasures, in one scroll.
+# reference_zh = 月月乐诗一卷
+# text_ja = 月月楽詩一巻
+# nishida_page = 39
+1	𗼑	𗼑	NOUN	_	_	2	compound	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	3	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗫉	𗫉	NOUN	_	_	4	nmod	_	Gloss=amusement, happy|LTranslit=mbae̱¹|SpaceAfter=No
+4	𗊱	𗊱	NOUN	_	_	6	nmod	_	Gloss=poetry, poem|LTranslit=dzo²|SpaceAfter=No
+5	𘈩	𘈩	NUM	_	_	6	nummod	_	Gloss=one|LTranslit=li̱w¹|SpaceAfter=No
+6	𗱊	𗱊	NOUN	_	_	0	root	_	Gloss=roll|LTranslit=thjɨ̣2
+
+# sent_id = monthly_pleasures_preface_01_I.s01.c01
+# text = 𘘞𗳝𘛮𗫉𗥦𗤄
+# section = 引子 1 · A / I · 小节 1
+# text_zh = 月 · 月 · 欢快 · 乐 · 头 · 问
+# text_en = If one asks where the pleasures of the month begin—
+# reference_zh = 问月月快乐的源头，
+# text_ja = 月の楽しみの根源を問うならば
+# nishida_page = 39
+1	𘘞	𘘞	NOUN	_	_	2	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+2	𗳝	𗳝	NOUN	_	_	4	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+3	𘛮	𘛮	ADJ	_	_	4	compound	_	Gloss=happy, cheerful|LTranslit=khe²|SpaceAfter=No
+4	𗫉	𗫉	NOUN	_	_	5	nmod	_	Gloss=amusement, happy|LTranslit=mbae̱¹|SpaceAfter=No
+5	𗥦	𗥦	NOUN	_	_	6	obj	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+6	𗤄	𗤄	VERB	_	_	0	root	_	Gloss=ask, inquire|LTranslit=ryər¹
+
+# sent_id = monthly_pleasures_preface_01_II.s01.c01
+# text = 𗼑𗼑𗫉𗰜𗰓𗨛
+# section = 引子 1 · B / II · 小节 1
+# text_zh = 月 · 月 · 乐 · 根本 · 如何 · 去
+# text_en = Where does the joy of each month take root?
+# reference_zh = 何去月月乐的根？
+# text_ja = 月々の楽しみの根はいずこに生る
+# nishida_page = 39
+1	𗼑	𗼑	NOUN	_	_	2	compound	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	3	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗫉	𗫉	NOUN	_	_	4	nmod	_	Gloss=amusement, happy|LTranslit=mbae̱¹|SpaceAfter=No
+4	𗰜	𗰜	NOUN	_	_	6	nsubj	_	Gloss=basic, cardinal|LTranslit=rmə̱r²|SpaceAfter=No
+5	𗰓	𗰓	ADV	_	_	6	advmod	_	Gloss=how, where; rhetorical question particle|LTranslit=lloh²|SpaceAfter=No
+6	𗨛	𗨛	VERB	_	_	0	root	_	Gloss=go, go out|LTranslit=rər²
+
+# sent_id = monthly_pleasures_preface_02_I.s01.c01
+# text = 𘘞𗳝𘛮𗫉𗥦𗑲
+# section = 引子 2 · A / I · 小节 1
+# text_zh = 月 · 月 · 欢快 · 乐 · 头 · 说
+# text_en = If one tells of the source of the month's pleasures—
+# reference_zh = 说月月快乐的源头。
+# text_ja = 月の楽しみの根源を述べるなら
+# nishida_page = 39
+1	𘘞	𘘞	NOUN	_	_	2	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+2	𗳝	𗳝	NOUN	_	_	4	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+3	𘛮	𘛮	ADJ	_	_	4	compound	_	Gloss=happy, cheerful|LTranslit=khe²|SpaceAfter=No
+4	𗫉	𗫉	NOUN	_	_	5	nmod	_	Gloss=amusement, happy|LTranslit=mbae̱¹|SpaceAfter=No
+5	𗥦	𗥦	NOUN	_	_	6	obj	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+6	𗑲	𗑲	VERB	_	_	0	root	_	Gloss=speak, say|LTranslit=ntśhiw¹
+
+# sent_id = monthly_pleasures_preface_02_II.s01.c01
+# text = 𗼑𗼑𗫉𗰜𗓱𘀼
+# section = 引子 2 · B / II · 小节 1
+# text_zh = 月 · 月 · 乐 · 根本 · 若 · 宣说
+# text_en = If one proclaims the source of the joy of each month—
+# reference_zh = 宣月月乐的根。
+# text_ja = 月々の楽しみの根をもし述べるなら
+# nishida_page = 39
+1	𗼑	𗼑	NOUN	_	_	2	compound	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	3	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗫉	𗫉	NOUN	_	_	4	nmod	_	Gloss=amusement, happy|LTranslit=mbae̱¹|SpaceAfter=No
+4	𗰜	𗰜	NOUN	_	_	6	obj	_	Gloss=basic, cardinal|LTranslit=rmə̱r²|SpaceAfter=No
+5	𗓱	𗓱	ADV	_	_	6	advmod	_	Gloss=if, perhaps|LTranslit=te¹|SpaceAfter=No
+6	𘀼	𘀼	VERB	_	_	0	root	_	Gloss=proclaim, publicise|LTranslit=ni̱h¹
+
+# sent_id = monthly_pleasures_01_I.s01.c01
+# text = 𗤒𗆧𘘞𗳝𗴵𘀎𗣿𘁻𗩟𘖀𘁶𗴴𗊪𘋂𘒜
+# section = 1月 · A / I · 小节 1
+# text_zh = 年 · 新 · 月 · 月 · 脑 · 暗 · 面 · 绯红 · 年 · 年 · 齐备 · 安乐 · 国 · 宴 · 宴
+# text_en = In the first month of the new year, the Black Heads and the Red Faces alike are at peace, and the realm holds a feast.
+# reference_zh = 新年月份，黑头赤面，新年齐乐国筵席。
+# text_ja = 新年の月は、黒頭も赤面も、年の始めは安楽にて、国は祝宴を開く
+# nishida_page = 39
+1	𗤒	𗤒	NOUN	_	_	4	nmod	_	Gloss=year|LTranslit=kiw¹|SpaceAfter=No
+2	𗆧	𗆧	ADJ	_	_	1	amod	_	Gloss=new, fresh|LTranslit=siw¹|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	15	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𗴵	𗴵	NOUN	_	_	12	nsubj	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+6	𘀎	𘀎	ADJ	_	_	5	amod	_	Gloss=dark, dim|LTranslit=rmu̱r¹|SpaceAfter=No
+7	𗣿	𗣿	NOUN	_	_	5	conj	_	Gloss=face|LTranslit=lhweh¹|SpaceAfter=No
+8	𘁻	𘁻	ADJ	_	_	7	amod	_	Gloss=crimson|LTranslit=nśi²|SpaceAfter=No
+9	𗩟	𗩟	NOUN	_	_	10	compound	_	Gloss=year|LTranslit=tśeh¹|SpaceAfter=No
+10	𘖀	𘖀	NOUN	_	_	12	obl	_	Gloss=year|LTranslit=si²|SpaceAfter=No
+11	𘁶	𘁶	ADV	_	_	12	advmod	_	Gloss=complete, all ready|LTranslit=dzə¹|SpaceAfter=No
+12	𗴴	𗴴	NOUN	_	_	15	advcl	_	Gloss=peace and happiness|LTranslit=re̱r²|SpaceAfter=No
+13	𗊪	𗊪	NOUN	_	_	15	nsubj	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+14	𘋂	𘋂	NOUN	_	_	15	obj	_	Gloss=feast, banquet|LTranslit=phu¹|SpaceAfter=No
+15	𘒜	𘒜	VERB	_	_	0	root	_	Gloss=feast, banquet|LTranslit=the¹
+
+# sent_id = monthly_pleasures_01_I.s02.c01
+# text = 𘙮𗴀𘚶𘐯𘍂𗄷𘎳
+# section = 1月 · A / I · 小节 2
+# text_zh = 白 · 高 · 风 · 阻挡 · 羊 · 生育 · 生育
+# text_en = In the wind shelter of the White Heights, the ewes give birth.
+# reference_zh = 白高避风羊生产，
+# text_ja = 白上の風よけでは、羊が子を生む
+# nishida_page = 40
+1	𘙮	𘙮	ADJ	_	_	2	compound	_	Gloss=white|LTranslit=li̱w²|SpaceAfter=No
+2	𗴀	𗴀	ADJ	_	_	4	nmod	_	Gloss=tall, high|LTranslit=so̱²|SpaceAfter=No
+3	𘚶	𘚶	NOUN	_	_	4	obj	_	Gloss=wind|LTranslit=lə¹|SpaceAfter=No
+4	𘐯	𘐯	VERB	_	_	7	obl	_	Gloss=check, containment, prohibit|LTranslit=rir²|SpaceAfter=No
+5	𘍂	𘍂	NOUN	_	_	7	nsubj	_	Gloss=sheep|LTranslit=mo²|SpaceAfter=No
+6	𗄷	𗄷	VERB	_	_	7	compound	_	Gloss=give birth to, bear|LTranslit=mə̱²|SpaceAfter=No
+7	𘎳	𘎳	VERB	_	_	0	root	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹
+
+# sent_id = monthly_pleasures_01_I.s03.c01
+# text = 𘚶𘐯𗾔𗿐𘍂𗸱𘃊
+# section = 1月 · A / I · 小节 3
+# text_zh = 风 · 阻挡 · 日 · 黄 · 羊 · 子 · 困倦
+# text_en = When the sun turns yellow, the lambs sleep in the wind shelter.
+# reference_zh = 避风黄日羊羔眠。
+# text_ja = 風よけで、日が黄くなれば、羊の子は睡る
+# nishida_page = 40
+1	𘚶	𘚶	NOUN	_	_	2	obj	_	Gloss=wind|LTranslit=lə¹|SpaceAfter=No
+2	𘐯	𘐯	VERB	_	_	7	obl	_	Gloss=check, containment, prohibit|LTranslit=rir²|SpaceAfter=No
+3	𗾔	𗾔	NOUN	_	_	4	nsubj	_	Gloss=sun|LTranslit=bi̱²|SpaceAfter=No
+4	𗿐	𗿐	ADJ	_	_	7	advcl	_	Gloss=yellow|LTranslit=tświw²|SpaceAfter=No
+5	𘍂	𘍂	NOUN	_	_	6	nmod	_	Gloss=sheep|LTranslit=mo²|SpaceAfter=No
+6	𗸱	𗸱	NOUN	_	_	7	nsubj	_	Gloss=son|LTranslit=no̱²|SpaceAfter=No
+7	𘃊	𘃊	ADJ	_	_	0	root	_	Gloss=sleepy|LTranslit=yə²
+
+# sent_id = monthly_pleasures_01_I.s04.c01
+# text = 𗼑𘕕𗬥𗦗𘆈𗬃𗥔
+# section = 1月 · A / I · 小节 4
+# text_zh = 月 · 三 · 日 · 人 · 人 · 计 · 有
+# text_en = Once the third day of the month has passed, if a man has the mind to do so,
+# reference_zh = 月三日君子有计。
+# text_ja = 月の三日（をすぎ）、君子に意志があれば
+# nishida_page = 40
+1	𗼑	𗼑	NOUN	_	_	3	nmod	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+2	𘕕	𘕕	NUM	_	_	3	nummod	_	Gloss=three|LTranslit=so̱ṃh¹|SpaceAfter=No
+3	𗬥	𗬥	NOUN	_	_	7	obl	_	Gloss=sun, day|LTranslit=de¹|SpaceAfter=No
+4	𗦗	𗦗	NOUN	_	_	5	compound	_	Gloss=man|LTranslit=so̱²|SpaceAfter=No
+5	𘆈	𘆈	NOUN	_	_	7	nsubj	_	Gloss=man|LTranslit=llu̱h¹|SpaceAfter=No
+6	𗬃	𗬃	NOUN	_	_	7	obj	_	Gloss=plan, design|LTranslit=si̱¹|SpaceAfter=No
+7	𗥔	𗥔	VERB	_	_	0	root	_	Gloss=have, exist|LTranslit=nlhi̱w²
+
+# sent_id = monthly_pleasures_01_I.s05.c01
+# text = 𘁔𘍂𘙮𗛝𗇄𗻬𘂩𘛔𗏡𗆑
+# section = 1月 · A / I · 小节 5
+# text_zh = 大牛 · 羊 · 白 · 梅／树林 · 洒 · 薄 · 浅 · 放牧 · 后 · 吞
+# text_en = he feeds the oxen and the white sheep the tender leaves of the pasture.
+# reference_zh = 牛白羊，苑散细浅牧吃后。
+# text_ja = 牛と白羊に、牧草の薄い葉を与え飼う
+# nishida_page = 41
+# analysis_note = 牧草名与末尾动作的解释有分歧。
+1	𘁔	𘁔	NOUN	_	_	10	iobj	_	Gloss=big ox|LTranslit=re̱r²|SpaceAfter=No
+2	𘍂	𘍂	NOUN	_	_	1	conj	_	Gloss=sheep|LTranslit=mo²|SpaceAfter=No
+3	𘙮	𘙮	ADJ	_	_	2	amod	_	Gloss=white|LTranslit=li̱w²|SpaceAfter=No
+4	𗛝	𗛝	NOUN	_	_	5	compound	_	Gloss=plum, woods|LTranslit=re̱r²|SpaceAfter=No
+5	𗇄	𗇄	VERB	_	_	7	nmod	_	Gloss=sprinkle|LTranslit=mi̱h²|SpaceAfter=No
+6	𗻬	𗻬	ADJ	_	_	7	amod	_	Gloss=thin, rare|LTranslit=rźər¹|SpaceAfter=No
+7	𘂩	𘂩	ADJ	_	_	10	obj	_	Gloss=shallow, superficial|LTranslit=śi²|SpaceAfter=No
+8	𘛔	𘛔	VERB	_	_	10	advcl	_	Gloss=herd, tend|LTranslit=nwə̱²|SpaceAfter=No
+9	𗏡	𗏡	ADP	_	_	8	case	_	Gloss=behind|LTranslit=qu̱h¹|SpaceAfter=No
+10	𗆑	𗆑	VERB	_	_	0	root	_	Gloss=swallow|LTranslit=ŋga²
+
+# sent_id = monthly_pleasures_01_I.s06.c01
+# text = 𘍂𗸱𗑲𗫶𘛔𗄖𗆮
+# section = 1月 · A / I · 小节 6
+# text_zh = 羊 · 子 · 说 · 〔现在标记／但〕 · 放牧 · 去 · 返
+# text_en = The lambs walk home from pasture, calling as they go.
+# reference_zh = 羊羔正叫牧归来。
+# text_ja = 羊の子は、語りながら、牧（地）より歩いて帰る
+# nishida_page = 41
+1	𘍂	𘍂	NOUN	_	_	2	nmod	_	Gloss=sheep|LTranslit=mo²|SpaceAfter=No
+2	𗸱	𗸱	NOUN	_	_	7	nsubj	_	Gloss=son|LTranslit=no̱²|SpaceAfter=No
+3	𗑲	𗑲	VERB	_	_	7	advcl	_	Gloss=speak, say|LTranslit=ntśhiw¹|SpaceAfter=No
+4	𗫶	𗫶	PART	_	_	3	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+5	𘛔	𘛔	VERB	_	_	7	obl	_	Gloss=herd, tend|LTranslit=nwə̱²|SpaceAfter=No
+6	𗄖	𗄖	VERB	_	_	7	compound	_	Gloss=go|LTranslit=dźa?|SpaceAfter=No
+7	𗆮	𗆮	VERB	_	_	0	root	_	Gloss=return, retreat|LTranslit=lhow¹
+
+# sent_id = monthly_pleasures_01_II.s01.c01
+# text = 𗩭𗼑𗅁𗥦𗰞𘅞𘔚𗤒𗪟𘔪𗼟𗂧𘛡𘃡
+# section = 1月 · B / II · 小节 1
+# text_zh = 正月 · 月 · 内 · 头 · 黑 · 面 · 红 · 年 · 开始 · 静 · 〔姓氏〕 · 国 · 宴 · 作
+# text_en = In the first month, the year opens peacefully for the Black Heads and the Red Faces alike, and the realm lays out a feast.
+# reference_zh = 一月里，黑头赤面，岁始静好做国宴。
+# text_ja = 正月の中は、黒頭も赤面も、年の初めは安楽にて、国は筵をなす
+# nishida_page = 39
+1	𗩭	𗩭	NUM	_	_	2	nummod	_	Gloss=the first moon|LTranslit=tśoṃ¹|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	14	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗅁	𗅁	ADP	_	_	2	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+4	𗥦	𗥦	NOUN	_	_	10	nsubj	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+5	𗰞	𗰞	ADJ	_	_	4	amod	_	Gloss=dark; black|LTranslit=naw¹|SpaceAfter=No
+6	𘅞	𘅞	ADJ	_	_	4	conj	_	Gloss=face|LTranslit=rner²|SpaceAfter=No
+7	𘔚	𘔚	ADJ	_	_	6	amod	_	Gloss=red|LTranslit=ne¹|SpaceAfter=No
+8	𗤒	𗤒	NOUN	_	_	9	nmod	_	Gloss=year|LTranslit=kiw¹|SpaceAfter=No
+9	𗪟	𗪟	NOUN	_	_	10	obl	_	Gloss=beginning|LTranslit=ġhu̱¹|SpaceAfter=No
+10	𘔪	𘔪	ADJ	_	_	14	advcl	_	Gloss=quiet|LTranslit=dzeṃ¹|SpaceAfter=No
+11	𗼟	𗼟	ADJ	_	_	10	compound	_	Gloss=surname|LTranslit=śwu²|SpaceAfter=No
+12	𗂧	𗂧	NOUN	_	_	14	nsubj	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+13	𘛡	𘛡	NOUN	_	_	14	obj	_	Gloss=fete, feast, banquet|LTranslit=dźih¹|SpaceAfter=No
+14	𘃡	𘃡	VERB	_	_	0	root	_	Gloss=do, make; ergative marker|LTranslit=vi¹
+
+# sent_id = monthly_pleasures_01_II.s02.c01
+# text = 𗴂𗹭𗽷𗵝𗂽𗱢𗧐
+# section = 1月 · B / II · 小节 2
+# text_zh = 白 · 高 · 房 · 热 · 羊 · 〔向下〕 · 解开
+# text_en = In the warm fold of the White Heights, the ewes open up and give birth.
+# reference_zh = 白高暖舍羊下开，
+# text_ja = 白上の暖舎では、羊が開く（子を生む）
+# nishida_page = 40
+1	𗴂	𗴂	ADJ	_	_	2	compound	_	Gloss=white|LTranslit=phao̱ṃ¹|SpaceAfter=No
+2	𗹭	𗹭	ADJ	_	_	3	nmod	_	Gloss=tall|LTranslit=be²|SpaceAfter=No
+3	𗽷	𗽷	NOUN	_	_	7	obl	_	Gloss=room|LTranslit=ryawr²|SpaceAfter=No
+4	𗵝	𗵝	ADJ	_	_	3	amod	_	Gloss=heat|LTranslit=llo̱ṃ²|SpaceAfter=No
+5	𗂽	𗂽	NOUN	_	_	7	nsubj	_	Gloss=sheep|LTranslit=ye²|SpaceAfter=No
+6	𗱢	𗱢	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+7	𗧐	𗧐	VERB	_	_	0	root	_	Gloss=untie|LTranslit=bai̱²
+
+# sent_id = monthly_pleasures_01_II.s03.c01
+# text = 𗽷𗅁𗬚𗘩𘄃𗱢𗒾
+# section = 1月 · B / II · 小节 3
+# text_zh = 房 · 内 · 日晒 · 黄 · 羊 · 〔向下〕 · 睡
+# text_en = When the sunshine turns yellow, the lambs fall asleep inside the little fold.
+# reference_zh = 舍内曛黄羔下眠。
+# text_ja = 小舎の中で、太陽が黄くなれば、小羊は眠りにつく
+# nishida_page = 40
+1	𗽷	𗽷	NOUN	_	_	7	obl	_	Gloss=room|LTranslit=ryawr²|SpaceAfter=No
+2	𗅁	𗅁	ADP	_	_	1	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+3	𗬚	𗬚	VERB	_	_	4	nsubj	_	Gloss=bask, (of the sun) shine upon|LTranslit=nnə¹|SpaceAfter=No
+4	𗘩	𗘩	ADJ	_	_	7	advcl	_	Gloss=yellow, sallow|LTranslit=rnə̱r²|SpaceAfter=No
+5	𘄃	𘄃	NOUN	_	_	7	nsubj	_	Gloss=sheep, lamb|LTranslit=llih²|SpaceAfter=No
+6	𗱢	𗱢	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+7	𗒾	𗒾	VERB	_	_	0	root	_	Gloss=sleep|LTranslit=mi̱²
+
+# sent_id = monthly_pleasures_01_II.s04.c01
+# text = 𘍞𘆗𘚢𗫶𗾖𘄄𗉣𘟣
+# section = 1月 · B / II · 小节 4
+# text_zh = 圆 · 轮回 · 轮 · 〔现在标记／但〕 · 男 · 男 · 意 · 有
+# text_en = As the wheel turns, if a man has the will,
+# reference_zh = 绕轮回而丈夫有意。
+# text_ja = 円輪が廻り、丈夫に意志があれば
+# nishida_page = 40
+1	𘍞	𘍞	ADJ	_	_	2	amod	_	Gloss=round, ring, courtyard, all|LTranslit=wo̱h¹|SpaceAfter=No
+2	𘆗	𘆗	VERB	_	_	3	nsubj	_	Gloss=samsara, transmigration|LTranslit=dẓaə̱²|SpaceAfter=No
+3	𘚢	𘚢	VERB	_	_	8	advcl	_	Gloss=wheel|LTranslit=dẓae̱²|SpaceAfter=No
+4	𗫶	𗫶	PART	_	_	3	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+5	𗾖	𗾖	NOUN	_	_	6	compound	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
+6	𘄄	𘄄	NOUN	_	_	8	nsubj	_	Gloss=man, male|LTranslit=zi¹|SpaceAfter=No
+7	𗉣	𗉣	NOUN	_	_	8	obj	_	Gloss=meaning, idea|LTranslit=phi¹|SpaceAfter=No
+8	𘟣	𘟣	VERB	_	_	0	root	_	Gloss=have, possess|LTranslit=du¹
+
+# sent_id = monthly_pleasures_01_II.s05.c01
+# text = 𗗵𗂽𗴂𗝀𗛀𗟛𘞆𗺡𗪟𘃡
+# section = 1月 · B / II · 小节 5
+# text_zh = 牦牛 · 羊 · 白 · 〔树名〕 · 〔树名〕 · 叶 · 薄 · 放牧 · 开始 · 作
+# text_en = he begins feeding the yaks and the white sheep the thin leaves of [an unidentified tree].
+# reference_zh = [牦]牛白羊，梫果细叶始做牧。
+# text_ja = 犛や白羊に、□□の薄葉を与え始める
+# nishida_page = 41
+1	𗗵	𗗵	NOUN	_	_	10	iobj	_	Gloss=yak|LTranslit=qhai̱²|SpaceAfter=No
+2	𗂽	𗂽	NOUN	_	_	1	conj	_	Gloss=sheep|LTranslit=ye²|SpaceAfter=No
+3	𗴂	𗴂	ADJ	_	_	2	amod	_	Gloss=white|LTranslit=phao̱ṃ¹|SpaceAfter=No
+4	𗝀	𗝀	NOUN	_	_	5	compound	_	Gloss=tree name|LTranslit=tshe²|SpaceAfter=No
+5	𗛀	𗛀	NOUN	_	_	6	nmod	_	Gloss=tree name|LTranslit=qwo̱¹|SpaceAfter=No
+6	𗟛	𗟛	NOUN	_	_	8	obj	_	Gloss=leaf|LTranslit=ba̱h²|SpaceAfter=No
+7	𘞆	𘞆	ADJ	_	_	6	amod	_	Gloss=thin, light|LTranslit=bi¹|SpaceAfter=No
+8	𗺡	𗺡	VERB	_	_	10	xcomp	_	Gloss=graze, herd|LTranslit=ndẓaa̱²|SpaceAfter=No
+9	𗪟	𗪟	VERB	_	_	10	xcomp	_	Gloss=beginning|LTranslit=ġhu̱¹|SpaceAfter=No
+10	𘃡	𘃡	VERB	_	_	0	root	_	Gloss=do, make; ergative marker|LTranslit=vi¹
+
+# sent_id = monthly_pleasures_01_II.s06.c01
+# text = 𗂽𗠜𘄃𗤪𗘨𗱢𘆏
+# section = 1月 · B / II · 小节 6
+# text_zh = 羊 · 喊 · 羊 · 响 · 〔姓氏〕 · 〔向下〕 · 压制
+# text_en = The black sheep bleat, the lambs ring their bells, and they come home from pasture.
+# reference_zh = 羊啼羔噪牧来归。
+# text_ja = 黒羊は鳴き、小羊は鈴を鳴らし、牧（地）より還り来る
+# nishida_page = 41
+1	𗂽	𗂽	NOUN	_	_	2	nsubj	_	Gloss=sheep|LTranslit=ye²|SpaceAfter=No
+2	𗠜	𗠜	VERB	_	_	7	advcl	_	Gloss=shout, cry|LTranslit=bi²|SpaceAfter=No
+3	𘄃	𘄃	NOUN	_	_	4	nsubj	_	Gloss=sheep, lamb|LTranslit=llih²|SpaceAfter=No
+4	𗤪	𗤪	VERB	_	_	7	advcl	_	Gloss=ring, sound|LTranslit=rŋi̱wr¹|SpaceAfter=No
+5	𗘨	𗘨	NOUN	_	_	7	obl	_	Gloss=surname|LTranslit=ndẓae̱¹|SpaceAfter=No
+6	𗱢	𗱢	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+7	𘆏	𘆏	VERB	_	_	0	root	_	Gloss=suppress|LTranslit=nllaə̱¹
+
+# sent_id = monthly_pleasures_02_I.s01.c01
+# text = 𘙇𘂚𘘞𗳝𗚩𗎘𗘚𘗽𘙲𘛂
+# section = 2月 · A / I · 小节 1
+# text_zh = 〔趋向未详〕 · 二 · 月 · 月 · 路 · 边 · 深绿 · 寿 · 长 · 去
+# text_en = In the double month, the roadside is green and long life passes away.
+# reference_zh = 第二月份绿路畔长寿逝。
+# text_ja = 双重の月は、路辺は青く、長寿は逝く
+# nishida_page = 42
+1	𘙇	𘙇	ADV	_	_	2	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
+2	𘂚	𘂚	NUM	_	_	4	nummod	_	Gloss=two, twin, both|LTranslit=llo̱ṃh²|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	10	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𗚩	𗚩	NOUN	_	_	6	nmod	_	Gloss=road, way|LTranslit=re̱r²|SpaceAfter=No
+6	𗎘	𗎘	NOUN	_	_	7	nsubj	_	Gloss=border|LTranslit=bau̱²|SpaceAfter=No
+7	𗘚	𗘚	ADJ	_	_	10	advcl	_	Gloss=dark green|LTranslit=tshwu¹|SpaceAfter=No
+8	𘗽	𘗽	NOUN	_	_	10	nsubj	_	Gloss=longevity; life|LTranslit=zoh²|SpaceAfter=No
+9	𘙲	𘙲	ADJ	_	_	8	amod	_	Gloss=long|LTranslit=dźo¹|SpaceAfter=No
+10	𘛂	𘛂	VERB	_	_	0	root	_	Gloss=post, go|LTranslit=mbe²
+
+# sent_id = monthly_pleasures_02_I.s02.c01
+# text = 𘅁𗀄𗭞𗓓𗓈𗅋𗊬
+# section = 2月 · A / I · 小节 2
+# text_zh = 缘／去 · 颈／界 · 步 · 去 · 衣 · 不 · 衬里
+# text_en = The kindred households go on their way, but put on no clothes.
+# reference_zh = 缘程步行衣不裹。
+# text_ja = 縁家は歩を進めるが、衣を着けず
+# nishida_page = 42
+1	𘅁	𘅁	VERB	_	_	2	compound	_	Gloss=reason, go|LTranslit=ri̱r²|SpaceAfter=No
+2	𗀄	𗀄	NOUN	_	_	4	nsubj	_	Gloss=neck; territory; limit|LTranslit=ŋwu̱²|SpaceAfter=No
+3	𗭞	𗭞	NOUN	_	_	4	obj	_	Gloss=step, pace|LTranslit=bi²|SpaceAfter=No
+4	𗓓	𗓓	VERB	_	_	7	advcl	_	Gloss=go|LTranslit=tśhe¹|SpaceAfter=No
+5	𗓈	𗓈	NOUN	_	_	7	obj	_	Gloss=clothes, clothing|LTranslit=lhwu̱¹|SpaceAfter=No
+6	𗅋	𗅋	PART	_	_	7	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+7	𗊬	𗊬	VERB	_	_	0	root	_	Gloss=lining, inside, answer|LTranslit=qu̱h²
+
+# sent_id = monthly_pleasures_02_I.s03.c01
+# text = 𗌽𗎓𗌜𘙮𘍯𗄣𘛤
+# section = 2月 · A / I · 小节 3
+# text_zh = 〔向说话人〕 · 冷 · 水 · 白 · 姨 · 坩埚 · 坩埚
+# text_en = Cold white water is a crucible for riches.
+# reference_zh = 那冷白水融坩埚。
+# text_ja = 冷たく白い水は、資財のるつぼ
+# nishida_page = 43
+1	𗌽	𗌽	AUX	_	_	2	aux	_	Gloss=verb prefix directional marker - toward the speaker|LTranslit=də²|SpaceAfter=No
+2	𗎓	𗎓	ADJ	_	_	3	amod	_	Gloss=cold, frigid|LTranslit=rkiwr¹|SpaceAfter=No
+3	𗌜	𗌜	NOUN	_	_	7	nsubj	_	Gloss=water, river|LTranslit=rnor¹|SpaceAfter=No
+4	𘙮	𘙮	ADJ	_	_	3	amod	_	Gloss=white|LTranslit=li̱w²|SpaceAfter=No
+5	𘍯	𘍯	NOUN	_	_	7	nmod	_	Gloss=aunt|LTranslit=swi²|SpaceAfter=No
+6	𗄣	𗄣	NOUN	_	_	7	compound	_	Gloss=crucible|LTranslit=ŋqo̱²|SpaceAfter=No
+7	𘛤	𘛤	NOUN	_	_	0	root	_	Gloss=crucible|LTranslit=rur¹
+
+# sent_id = monthly_pleasures_02_I.s04.c01
+# text = 𗵍𗘥𗈋𘍴𗂒𗳎𗴂
+# section = 2月 · A / I · 小节 4
+# text_zh = 混 · 杂 · 冬 · 沉入 · 观 · 察 · 白
+# text_en = All manner of things sink into winter; what can be seen is white.
+# reference_zh = 混杂冬藏观察白。
+# text_ja = 諸々（の物）は、冬に入り、見えるものは白い
+# nishida_page = 43
+1	𗵍	𗵍	ADJ	_	_	2	compound	_	Gloss=mix|LTranslit=lluh²|SpaceAfter=No
+2	𗘥	𗘥	ADJ	_	_	4	nsubj	_	Gloss=miscellaneous, mixed|LTranslit=lhi̱w¹|SpaceAfter=No
+3	𗈋	𗈋	NOUN	_	_	4	obl	_	Gloss=winter|LTranslit=rtsu̱r¹|SpaceAfter=No
+4	𘍴	𘍴	VERB	_	_	7	advcl	_	Gloss=sink (lapse) into|LTranslit=llih¹|SpaceAfter=No
+5	𗂒	𗂒	VERB	_	_	6	compound	_	Gloss=observe, watch|LTranslit=rqwa̱r¹|SpaceAfter=No
+6	𗳎	𗳎	VERB	_	_	7	nsubj	_	Gloss=examine, look into|LTranslit=si¹|SpaceAfter=No
+7	𗴂	𗴂	ADJ	_	_	0	root	_	Gloss=white|LTranslit=phao̱ṃ¹
+
+# sent_id = monthly_pleasures_02_I.s05.c01
+# text = 𗛊𗳇𘘞𗳝𗾨𗾏𗑲𗫶𗌜𘆡𗤄
+# section = 2月 · A / I · 小节 5
+# text_zh = 西 · 丘 · 月 · 月 · 鹤 · 鹤 · 说 · 〔现在标记／但〕 · 水 · 华美 · 问
+# text_en = The moon over the western hill speaks to the crane: “Is the water beautiful?”
+# reference_zh = 西陵月份，鹤鸟正说，问美水。
+# text_ja = 西丘の月は、鶴に語る、水は美しいかと問う
+# nishida_page = 43
+1	𗛊	𗛊	ADJ	_	_	2	amod	_	Gloss=west|LTranslit=śah¹|SpaceAfter=No
+2	𗳇	𗳇	NOUN	_	_	4	nmod	_	Gloss=mound, mausoleum|LTranslit=dzuh²|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	11	nsubj	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𗾨	𗾨	NOUN	_	_	6	compound	_	Gloss=crane|LTranslit=rmə̱r²|SpaceAfter=No
+6	𗾏	𗾏	NOUN	_	_	7	iobj	_	Gloss=crane|LTranslit=rvwi̱r¹|SpaceAfter=No
+7	𗑲	𗑲	VERB	_	_	11	advcl	_	Gloss=speak, say|LTranslit=ntśhiw¹|SpaceAfter=No
+8	𗫶	𗫶	PART	_	_	7	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+9	𗌜	𗌜	NOUN	_	_	10	nsubj	_	Gloss=water, river|LTranslit=rnor¹|SpaceAfter=No
+10	𘆡	𘆡	ADJ	_	_	11	ccomp	_	Gloss=gorgeous|LTranslit=tsheh²|SpaceAfter=No
+11	𗤄	𗤄	VERB	_	_	0	root	_	Gloss=ask, inquire|LTranslit=ryər¹
+
+# sent_id = monthly_pleasures_02_I.s06.c01
+# text = 𗾨𗾏𗌜𘆡𘘞𗳝𗛊
+# section = 2月 · A / I · 小节 6
+# text_zh = 鹤 · 鹤 · 水 · 华美 · 月 · 月 · 西
+# text_en = The crane replies, “The water is beautiful, and the moon is in the west.”
+# reference_zh = 鹤鸟：秀水，月份西，
+# text_ja = 鶴は、水が美しく、月は西（方にと）
+# nishida_page = 44
+1	𗾨	𗾨	NOUN	_	_	2	compound	_	Gloss=crane|LTranslit=rmə̱r²|SpaceAfter=No
+2	𗾏	𗾏	NOUN	_	_	7	dislocated	_	Gloss=crane|LTranslit=rvwi̱r¹|SpaceAfter=No
+3	𗌜	𗌜	NOUN	_	_	4	nsubj	_	Gloss=water, river|LTranslit=rnor¹|SpaceAfter=No
+4	𘆡	𘆡	ADJ	_	_	7	advcl	_	Gloss=gorgeous|LTranslit=tsheh²|SpaceAfter=No
+5	𘘞	𘘞	NOUN	_	_	6	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+6	𗳝	𗳝	NOUN	_	_	7	nsubj	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+7	𗛊	𗛊	NOUN	_	_	0	root	_	Gloss=west|LTranslit=śah¹
+
+# sent_id = monthly_pleasures_02_I.s07.c01
+# text = 𗾨𗾏𗣿𗦵𗌜𗅋𗁐
+# section = 2月 · A / I · 小节 7
+# text_zh = 鹤 · 鹤 · 面 · 大 · 水 · 不 · 尽
+# text_en = Though the crane's face is broad, the water does not run dry.
+# reference_zh = 鹤鸟大脸水不竭。
+# text_ja = 鶴の面が大きくとも、水は尽きず
+# nishida_page = 44
+1	𗾨	𗾨	NOUN	_	_	2	compound	_	Gloss=crane|LTranslit=rmə̱r²|SpaceAfter=No
+2	𗾏	𗾏	NOUN	_	_	3	nmod	_	Gloss=crane|LTranslit=rvwi̱r¹|SpaceAfter=No
+3	𗣿	𗣿	NOUN	_	_	4	nsubj	_	Gloss=face|LTranslit=lhweh¹|SpaceAfter=No
+4	𗦵	𗦵	ADJ	_	_	7	advcl	_	Gloss=big, thick|LTranslit=pə̱¹|SpaceAfter=No
+5	𗌜	𗌜	NOUN	_	_	7	nsubj	_	Gloss=water, river|LTranslit=rnor¹|SpaceAfter=No
+6	𗅋	𗅋	PART	_	_	7	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+7	𗁐	𗁐	ADJ	_	_	0	root	_	Gloss=exhausted|LTranslit=moh²
+
+# sent_id = monthly_pleasures_02_II.s01.c01
+# text = 𗍫𗼑𗅁𗵘𗛲𗋚𗞤𗿝𗰞𗿼𗫶
+# section = 2月 · B / II · 小节 1
+# text_zh = 二 · 月 · 内 · 路 · 边界 · 〔向外〕 · 苗 · 雁 · 黑 · 鸟 · 〔现在标记／但〕
+# text_en = In the second month, plants bloom by the roadside and black geese fly to and fro.
+# reference_zh = 二月里，路边过苗黑雁正飞。
+# text_ja = 二月中は、道端に花が咲き、黒い雁は飛びかう
+# nishida_page = 42
+1	𗍫	𗍫	NUM	_	_	2	nummod	_	Gloss=two|LTranslit=nnə¹|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	10	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗅁	𗅁	ADP	_	_	2	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+4	𗵘	𗵘	NOUN	_	_	5	nmod	_	Gloss=road; way|LTranslit=tśa¹|SpaceAfter=No
+5	𗛲	𗛲	NOUN	_	_	7	obl	_	Gloss=boundary, limit|LTranslit=loṃ²|SpaceAfter=No
+6	𗋚	𗋚	AUX	_	_	7	aux	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=və²|SpaceAfter=No
+7	𗞤	𗞤	VERB	_	_	10	advcl	_	Gloss=seedling, young plant|LTranslit=rŋwi̱r²|SpaceAfter=No
+8	𗿝	𗿝	NOUN	_	_	10	nsubj	_	Gloss=wild goose|LTranslit=dzi̱¹|SpaceAfter=No
+9	𗰞	𗰞	ADJ	_	_	8	amod	_	Gloss=dark; black|LTranslit=naw¹|SpaceAfter=No
+10	𗿼	𗿼	VERB	_	_	0	root	_	Gloss=bird|LTranslit=dźwoṃ¹|SpaceAfter=No
+11	𗫶	𗫶	PART	_	_	10	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²
+
+# sent_id = monthly_pleasures_02_II.s02.c01
+# text = 𗦎𗇋𘙇𘞓𘋳𘅗𘞆
+# section = 2月 · B / II · 小节 2
+# text_zh = 流 · 〔……者〕 · 〔趋向未详〕 · 去 · 衣 · 靴 · 薄
+# text_en = Travellers go on their way in thin clothes and boots.
+# reference_zh = 流人行，衣鞋薄。
+# text_ja = 流者は往き去るが、着物や履物は薄い
+# nishida_page = 42
+1	𗦎	𗦎	VERB	_	_	2	compound	_	Gloss=flow|LTranslit=ra̱r²|SpaceAfter=No
+2	𗇋	𗇋	PRON	_	_	4	nsubj	_	Gloss=S/A nominalizer, usually human; -er; the one/those who ...; s/he who ...|LTranslit=rmer²|SpaceAfter=No
+3	𘙇	𘙇	ADV	_	_	4	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
+4	𘞓	𘞓	VERB	_	_	7	advcl	_	Gloss=go|LTranslit=ve¹|SpaceAfter=No
+5	𘋳	𘋳	NOUN	_	_	7	nsubj	_	Gloss=clothing, clothes, garment|LTranslit=gwi²|SpaceAfter=No
+6	𘅗	𘅗	NOUN	_	_	5	conj	_	Gloss=boots|LTranslit=zih¹|SpaceAfter=No
+7	𘞆	𘞆	ADJ	_	_	0	root	_	Gloss=thin, light|LTranslit=bi¹
+
+# sent_id = monthly_pleasures_02_II.s03.c01
+# text = 𗈋𗎈𗴂𗸴𗱢𘋁
+# section = 2月 · B / II · 小节 3
+# text_zh = 冬 · 冰 · 白 · 春 · 〔向下〕 · 融
+# text_en = Spring melts the white ice of winter.
+# reference_zh = 冬白冰春下融。
+# text_ja = 冬の白い水を、春がとかす
+# nishida_page = 43
+1	𗈋	𗈋	NOUN	_	_	2	nmod	_	Gloss=winter|LTranslit=rtsu̱r¹|SpaceAfter=No
+2	𗎈	𗎈	NOUN	_	_	6	obj	_	Gloss=ice|LTranslit=ġhwo̱ṃh¹|SpaceAfter=No
+3	𗴂	𗴂	ADJ	_	_	2	amod	_	Gloss=white|LTranslit=phao̱ṃ¹|SpaceAfter=No
+4	𗸴	𗸴	NOUN	_	_	6	nsubj	_	Gloss=spring|LTranslit=nwə²|SpaceAfter=No
+5	𗱢	𗱢	AUX	_	_	6	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+6	𘋁	𘋁	VERB	_	_	0	root	_	Gloss=melt, fuse, thaw|LTranslit=dźwi¹
+
+# sent_id = monthly_pleasures_02_II.s04.c01
+# text = 𘋠𘋠𗒿𗶷𗙼𗋚𗧊
+# section = 2月 · B / II · 小节 4
+# text_zh = 种类 · 种类 · 库 · 往 · 前 · 〔向外〕 · 出生／生长／升起
+# text_en = All the things put away in store are brought out.
+# reference_zh = 种种藏向前出。
+# text_ja = 種々の貯え去るものを、前に出す
+# nishida_page = 43
+1	𘋠	𘋠	NOUN	_	_	2	compound	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+2	𘋠	𘋠	NOUN	_	_	3	nmod	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+3	𗒿	𗒿	NOUN	_	_	4	obl	_	Gloss=storehouse, warehouse|LTranslit=lu̱¹|SpaceAfter=No
+4	𗶷	𗶷	VERB	_	_	7	acl	_	Gloss=go, toward|LTranslit=śə¹|SpaceAfter=No
+5	𗙼	𗙼	NOUN	_	_	7	obl	_	Gloss=front, forward|LTranslit=yu²|SpaceAfter=No
+6	𗋚	𗋚	AUX	_	_	7	aux	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=və²|SpaceAfter=No
+7	𗧊	𗧊	VERB	_	_	0	root	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²
+
+# sent_id = monthly_pleasures_02_II.s05.c01
+# text = 𗂰𗳽𗼑𗭼𘝏𗱢𘒣𗡴𗰓𘕡
+# section = 2月 · B / II · 小节 5
+# text_zh = 西 · 坡 · 月 · 明 · 鹤 · 〔向下〕 · 言 · 江 · 如何 · 秀美
+# text_en = The bright moon over the western slope asks the crane, “Is the river beautiful?”
+# reference_zh = 西坡明月鹤下言，水美吗？
+# text_ja = 西の丘の明月は、鶴に言った、江は美しいかと
+# nishida_page = 44
+1	𗂰	𗂰	ADJ	_	_	2	amod	_	Gloss=west|LTranslit=li²|SpaceAfter=No
+2	𗳽	𗳽	NOUN	_	_	3	nmod	_	Gloss=slope|LTranslit=lo̱ṃ²|SpaceAfter=No
+3	𗼑	𗼑	NOUN	_	_	7	nsubj	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+4	𗭼	𗭼	ADJ	_	_	3	amod	_	Gloss=bright, brilliant, light|LTranslit=swi̱w¹|SpaceAfter=No
+5	𘝏	𘝏	NOUN	_	_	7	iobj	_	Gloss=crane|LTranslit=dźu²|SpaceAfter=No
+6	𗱢	𗱢	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+7	𘒣	𘒣	VERB	_	_	0	root	_	Gloss=speech, word|LTranslit=da̱h²|SpaceAfter=No
+8	𗡴	𗡴	NOUN	_	_	10	nsubj	_	Gloss=river|LTranslit=śwa¹|SpaceAfter=No
+9	𗰓	𗰓	ADV	_	_	10	advmod	_	Gloss=how, where; rhetorical question particle|LTranslit=lloh²|SpaceAfter=No
+10	𘕡	𘕡	ADJ	_	_	7	ccomp	_	Gloss=graceful, elegant, gorgeous|LTranslit=rzi̱wr¹
+
+# sent_id = monthly_pleasures_02_II.s06.c01
+# text = 𘝏𗠜𗡴𘕡𗼑𗧊𗂰
+# section = 2月 · B / II · 小节 6
+# text_zh = 鹤 · 喊 · 江 · 秀美 · 月 · 出生／生长／升起 · 西
+# text_en = The crane calls, the river is lovely, and the moon comes out in the west.
+# reference_zh = 鹤鸣秀水月出西。
+# text_ja = 鶴は鳴き、江は美しく、月が出る西（方に）
+# nishida_page = 44
+1	𘝏	𘝏	NOUN	_	_	2	nsubj	_	Gloss=crane|LTranslit=dźu²|SpaceAfter=No
+2	𗠜	𗠜	VERB	_	_	6	advcl	_	Gloss=shout, cry|LTranslit=bi²|SpaceAfter=No
+3	𗡴	𗡴	NOUN	_	_	4	nsubj	_	Gloss=river|LTranslit=śwa¹|SpaceAfter=No
+4	𘕡	𘕡	ADJ	_	_	6	advcl	_	Gloss=graceful, elegant, gorgeous|LTranslit=rzi̱wr¹|SpaceAfter=No
+5	𗼑	𗼑	NOUN	_	_	6	nsubj	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+6	𗧊	𗧊	VERB	_	_	0	root	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²|SpaceAfter=No
+7	𗂰	𗂰	NOUN	_	_	6	obl	_	Gloss=west|LTranslit=li²
+
+# sent_id = monthly_pleasures_02_II.s07.c01
+# text = 𘝏𗿼𘅞𘜶𗋽𗷝𗁐
+# section = 2月 · B / II · 小节 7
+# text_zh = 鹤 · 鸟 · 面 · 大 · 水 · 尚无 · 尽
+# text_en = The crane flies; broad though its face is, the water has never run dry.
+# reference_zh = 鹤鸟大脸水不竭。
+# text_ja = 鶴は飛び、顔が大きくとも、水は尽きたことがない
+# nishida_page = 44
+1	𘝏	𘝏	NOUN	_	_	2	nsubj	_	Gloss=crane|LTranslit=dźu²|SpaceAfter=No
+2	𗿼	𗿼	VERB	_	_	7	advcl	_	Gloss=bird|LTranslit=dźwoṃ¹|SpaceAfter=No
+3	𘅞	𘅞	ADJ	_	_	4	nsubj	_	Gloss=face|LTranslit=rner²|SpaceAfter=No
+4	𘜶	𘜶	ADJ	_	_	7	advcl	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
+5	𗋽	𗋽	NOUN	_	_	7	nsubj	_	Gloss=water; river|LTranslit=rzər²|SpaceAfter=No
+6	𗷝	𗷝	ADV	_	_	7	advmod	_	Gloss=have not; still not|LTranslit=me²|SpaceAfter=No
+7	𗁐	𗁐	ADJ	_	_	0	root	_	Gloss=exhausted|LTranslit=moh²
+
+# sent_id = monthly_pleasures_03_I.s01.c01
+# text = 𗛰𘕻𘘞𗳝𘝁𘋳𗍫𘋠𗛝𗏶𗑲𗫶𗊪𗲋𘋀
+# section = 3月 · A / I · 小节 1
+# text_zh = 三 · 三 · 月 · 月 · 翼 · 衣 · 二 · 种类 · 梅／树林 · 卜骨 · 说 · 〔现在标记／但〕 · 国 · 欢乐 · 欢乐
+# text_en = In the third month, two kinds of wing-clad creatures call in the thicket, and the realm rejoices at a feast.
+# reference_zh = 三月，翼衣二種苑卜正说，国欢乐。
+# text_ja = 第三の月は、翼衣二種が叢木に語り、国は歓宴
+# nishida_page = 45
+1	𗛰	𗛰	NUM	_	_	2	compound	_	Gloss=three|LTranslit=re̱r²|SpaceAfter=No
+2	𘕻	𘕻	NUM	_	_	4	nummod	_	Gloss=three|LTranslit=gu²|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	15	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𘝁	𘝁	NOUN	_	_	6	compound	_	Gloss=wing|LTranslit=thə̱²|SpaceAfter=No
+6	𘋳	𘋳	NOUN	_	_	8	nmod	_	Gloss=clothing, clothes, garment|LTranslit=gwi²|SpaceAfter=No
+7	𗍫	𗍫	NUM	_	_	8	nummod	_	Gloss=two|LTranslit=nnə¹|SpaceAfter=No
+8	𘋠	𘋠	NOUN	_	_	11	nsubj	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+9	𗛝	𗛝	NOUN	_	_	10	compound	_	Gloss=plum, woods|LTranslit=re̱r²|SpaceAfter=No
+10	𗏶	𗏶	NOUN	_	_	11	obl	_	Gloss=divination scapula|LTranslit=pho¹|SpaceAfter=No
+11	𗑲	𗑲	VERB	_	_	15	advcl	_	Gloss=speak, say|LTranslit=ntśhiw¹|SpaceAfter=No
+12	𗫶	𗫶	PART	_	_	11	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+13	𗊪	𗊪	NOUN	_	_	15	nsubj	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+14	𗲋	𗲋	ADJ	_	_	15	compound	_	Gloss=happy, gay|LTranslit=llu̱h¹|SpaceAfter=No
+15	𘋀	𘋀	ADJ	_	_	0	root	_	Gloss=happy, gay|LTranslit=rgur²
+
+# sent_id = monthly_pleasures_03_I.s02.c01
+# text = 𘁕𘟝𗊪𘕽𗌜𗭞𗺕𗘚𗳇𗵚𗁷
+# section = 3月 · A / I · 小节 2
+# text_zh = 强盛 · 力 · 国 · 世 · 水 · 步 · 草 · 深绿 · 丘 · 象 · 射
+# text_en = In the mighty realm, water goes on its way, grass grows green, and cattle are shot on the hills.
+# reference_zh = 强盛国世流水绿草陵射牛。
+# text_ja = 強勢の国土には、水が歩み、草は青く、丘では牛を射る
+# nishida_page = 46
+1	𘁕	𘁕	ADJ	_	_	2	amod	_	Gloss=powerful and prosperous|LTranslit=bu²|SpaceAfter=No
+2	𘟝	𘟝	NOUN	_	_	4	nmod	_	Gloss=force, power|LTranslit=wo̱¹|SpaceAfter=No
+3	𗊪	𗊪	NOUN	_	_	4	compound	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+4	𘕽	𘕽	NOUN	_	_	11	obl	_	Gloss=world|LTranslit=gu²|SpaceAfter=No
+5	𗌜	𗌜	NOUN	_	_	6	nsubj	_	Gloss=water, river|LTranslit=rnor¹|SpaceAfter=No
+6	𗭞	𗭞	VERB	_	_	11	advcl	_	Gloss=step, pace|LTranslit=bi²|SpaceAfter=No
+7	𗺕	𗺕	NOUN	_	_	8	nsubj	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+8	𗘚	𗘚	ADJ	_	_	11	advcl	_	Gloss=dark green|LTranslit=tshwu¹|SpaceAfter=No
+9	𗳇	𗳇	NOUN	_	_	11	obl	_	Gloss=mound, mausoleum|LTranslit=dzuh²|SpaceAfter=No
+10	𗵚	𗵚	NOUN	_	_	11	obj	_	Gloss=elephant|LTranslit=bau̱¹|SpaceAfter=No
+11	𗁷	𗁷	VERB	_	_	0	root	_	Gloss=shoot, fire|LTranslit=qhaa̱¹
+
+# sent_id = monthly_pleasures_03_I.s03.c01
+# text = 𗏵𗱃𗍥𗏶𘴇𗾕𗑲𗫶𗛝𗔔𗡢
+# section = 3月 · A / I · 小节 3
+# text_zh = 端 · 东 · 矿石 · 卜骨 · 〔义未详〕 · 日 · 说 · 〔现在标记／但〕 · 梅／树林 · 竹 · 寻
+# text_en = At the adamantine tree in the east, the heavenly sun speaks and seeks the bamboo thicket.
+# reference_zh = 东方山上鹃啼催植树，
+# text_ja = 東方の金剛木、天日は語り、叢竹を捜す
+# nishida_page = 46
+1	𗏵	𗏵	NOUN	_	_	2	compound	_	Gloss=end, tip|LTranslit=ma¹|SpaceAfter=No
+2	𗱃	𗱃	NOUN	_	_	4	nmod	_	Gloss=east, end|LTranslit=thə¹|SpaceAfter=No
+3	𗍥	𗍥	NOUN	_	_	4	nmod	_	Gloss=ore|LTranslit=ghəh¹|SpaceAfter=No
+4	𗏶	𗏶	NOUN	_	_	7	obl	_	Gloss=divination scapula|LTranslit=pho¹|SpaceAfter=No
+5	𘴇	𘴇	NOUN	_	_	6	compound	_	LexiconMissing=Yes|Gloss=unknown|LTranslit=mmi̱²|SpaceAfter=No
+6	𗾕	𗾕	NOUN	_	_	7	nsubj	_	Gloss=day|LTranslit=rir²|SpaceAfter=No
+7	𗑲	𗑲	VERB	_	_	11	advcl	_	Gloss=speak, say|LTranslit=ntśhiw¹|SpaceAfter=No
+8	𗫶	𗫶	PART	_	_	7	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+9	𗛝	𗛝	NOUN	_	_	10	nmod	_	Gloss=plum, woods|LTranslit=re̱r²|SpaceAfter=No
+10	𗔔	𗔔	NOUN	_	_	11	obj	_	Gloss=bamboo|LTranslit=lhuh²|SpaceAfter=No
+11	𗡢	𗡢	VERB	_	_	0	root	_	Gloss=look for, seek|LTranslit=nto¹
+
+# sent_id = monthly_pleasures_03_I.s04.c01
+# text = 𘴇𗑲𗛝𗩨𘛛𗅛𗺌
+# section = 3月 · A / I · 小节 4
+# text_zh = 〔义未详〕 · 说 · 梅／树林 · 色 · 日 · 日 · 足
+# text_en = The heavenly sun speaks; the colour of the thicket lies at the foot of the sun's radiance.
+# reference_zh = 鹃啼树茂日光明。
+# text_ja = 天日（は）語り、叢（木）の色は、太陽の輝きの足
+# nishida_page = 46
+1	𘴇	𘴇	NOUN	_	_	2	nsubj	_	LexiconMissing=Yes|Gloss=unknown|LTranslit=mmi̱²|SpaceAfter=No
+2	𗑲	𗑲	VERB	_	_	7	advcl	_	Gloss=speak, say|LTranslit=ntśhiw¹|SpaceAfter=No
+3	𗛝	𗛝	NOUN	_	_	4	nmod	_	Gloss=plum, woods|LTranslit=re̱r²|SpaceAfter=No
+4	𗩨	𗩨	NOUN	_	_	7	nsubj	_	Gloss=colour|LTranslit=tsə̱h¹|SpaceAfter=No
+5	𘛛	𘛛	NOUN	_	_	6	compound	_	Gloss=sun|LTranslit=teṃ¹|SpaceAfter=No
+6	𗅛	𗅛	NOUN	_	_	7	nmod	_	Gloss=sun|LTranslit=leṃ²|SpaceAfter=No
+7	𗺌	𗺌	NOUN	_	_	0	root	_	Gloss=foot|LTranslit=ri̱wr²
+
+# sent_id = monthly_pleasures_03_I.s05.c01
+# text = 𗿐𗆑𗴲𗒞𘘑𗯨𗹠
+# section = 3月 · A / I · 小节 5
+# text_zh = 黄 · 吞 · 夏 · 菜 · 丰 · 世 · 巧
+# text_en = Yellow food and summer greens abound, and the land prospers.
+# reference_zh = 谷菜丰盈国不饿，
+# text_ja = 黄色の食物、夏菜は豊かで、世は優れる
+# nishida_page = 47
+1	𗿐	𗿐	ADJ	_	_	2	amod	_	Gloss=yellow|LTranslit=tświw²|SpaceAfter=No
+2	𗆑	𗆑	VERB	_	_	5	nsubj	_	Gloss=swallow|LTranslit=ŋga²|SpaceAfter=No
+3	𗴲	𗴲	NOUN	_	_	4	nmod	_	Gloss=summer|LTranslit=dźwe²|SpaceAfter=No
+4	𗒞	𗒞	NOUN	_	_	2	conj	_	Gloss=vegetable, greens|LTranslit=nna̱²|SpaceAfter=No
+5	𘘑	𘘑	ADJ	_	_	7	advcl	_	Gloss=abundant|LTranslit=rvwi̱r¹|SpaceAfter=No
+6	𗯨	𗯨	NOUN	_	_	7	nsubj	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
+7	𗹠	𗹠	ADJ	_	_	0	root	_	Gloss=skillful, ingenious|LTranslit=rer¹
+
+# sent_id = monthly_pleasures_03_I.s06.c01
+# text = 𘴇𗾕𗣿𗦵𗛝𗅋𗛯
+# section = 3月 · A / I · 小节 6
+# text_zh = 〔义未详〕 · 日 · 面 · 大 · 梅／树林 · 不 · 枯
+# text_en = Broad though its face is, the heavenly sun does not let the thicket wither.
+# reference_zh = 鹃啼树丛广无垠。
+# text_ja = 天日の面は大きくとも、叢を朽させず
+# nishida_page = 47
+1	𘴇	𘴇	NOUN	_	_	2	compound	_	LexiconMissing=Yes|Gloss=unknown|LTranslit=mmi̱²|SpaceAfter=No
+2	𗾕	𗾕	NOUN	_	_	3	nmod	_	Gloss=day|LTranslit=rir²|SpaceAfter=No
+3	𗣿	𗣿	NOUN	_	_	4	nsubj	_	Gloss=face|LTranslit=lhweh¹|SpaceAfter=No
+4	𗦵	𗦵	ADJ	_	_	7	advcl	_	Gloss=big, thick|LTranslit=pə̱¹|SpaceAfter=No
+5	𗛝	𗛝	NOUN	_	_	7	obj	_	Gloss=plum, woods|LTranslit=re̱r²|SpaceAfter=No
+6	𗅋	𗅋	PART	_	_	7	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+7	𗛯	𗛯	ADJ	_	_	0	root	_	Gloss=rotten, withered|LTranslit=nvu¹
+
+# sent_id = monthly_pleasures_03_II.s01.c01
+# text = 𘕕𗼑𗅁𘀑𘀑𗚦𗚦𗝠𗴉𘙇𗠜𗂧𗱢𗴴
+# section = 3月 · B / II · 小节 1
+# text_zh = 三 · 月 · 内 · 鸽 · 鸽 · 斑鸠 · 斑鸠 · 树 · 间 · 〔趋向未详〕 · 喊 · 国 · 〔向下〕 · 安乐
+# text_en = In the third month, pigeons and turtledoves call among the trees, and the realm rejoices.
+# reference_zh = 三月里布谷斑鸠树丛啼叫国安乐，
+# text_ja = 三月中は、鶻鴣と鳩鴿が樹間に鳴き、国は楽しむ
+# nishida_page = 45
+1	𘕕	𘕕	NUM	_	_	2	nummod	_	Gloss=three|LTranslit=so̱ṃh¹|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	14	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗅁	𗅁	ADP	_	_	2	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+4	𘀑	𘀑	NOUN	_	_	5	compound	_	Gloss=pigeon, dove|LTranslit=pu̱¹|SpaceAfter=No
+5	𘀑	𘀑	NOUN	_	_	11	nsubj	_	Gloss=pigeon, dove|LTranslit=pu̱¹|SpaceAfter=No
+6	𗚦	𗚦	NOUN	_	_	7	compound	_	Gloss=turtledove|LTranslit=tu¹|SpaceAfter=No
+7	𗚦	𗚦	NOUN	_	_	5	conj	_	Gloss=turtledove|LTranslit=tu¹|SpaceAfter=No
+8	𗝠	𗝠	NOUN	_	_	11	obl	_	Gloss=tree|LTranslit=si¹|SpaceAfter=No
+9	𗴉	𗴉	ADP	_	_	8	case	_	Gloss=interval|LTranslit=phe̱¹|SpaceAfter=No
+10	𘙇	𘙇	ADV	_	_	11	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
+11	𗠜	𗠜	VERB	_	_	14	advcl	_	Gloss=shout, cry|LTranslit=bi²|SpaceAfter=No
+12	𗂧	𗂧	NOUN	_	_	14	nsubj	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+13	𗱢	𗱢	AUX	_	_	14	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+14	𗴴	𗴴	ADJ	_	_	0	root	_	Gloss=peace and happiness|LTranslit=re̱r²
+
+# sent_id = monthly_pleasures_03_II.s02.c01
+# text = 𘏐𗹠𗂧𗵝𗋽𗦎𘓲𗧊𗚽𗞞𗇠
+# section = 3月 · B / II · 小节 2
+# text_zh = 力 · 巧 · 国 · 热 · 水 · 流 · 深绿 · 出生／生长／升起 · 田野 · 〔离说话人〕 · 穿过
+# text_en = In the heat of the mighty realm, water flows, green shoots emerge, and a way opens through the wilderness.
+# reference_zh = 国势强盛水流草生猎于郊。
+# text_ja = 優勢の国熱には、水は流れ、青が出て、曠野を穿つ
+# nishida_page = 46
+1	𘏐	𘏐	NOUN	_	_	2	nmod	_	Gloss=power, force, influence|LTranslit=ġhwai̱¹|SpaceAfter=No
+2	𗹠	𗹠	ADJ	_	_	4	amod	_	Gloss=skillful, ingenious|LTranslit=rer¹|SpaceAfter=No
+3	𗂧	𗂧	NOUN	_	_	4	compound	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+4	𗵝	𗵝	NOUN	_	_	11	obl	_	Gloss=heat|LTranslit=llo̱ṃ²|SpaceAfter=No
+5	𗋽	𗋽	NOUN	_	_	6	nsubj	_	Gloss=water; river|LTranslit=rzər²|SpaceAfter=No
+6	𗦎	𗦎	VERB	_	_	11	advcl	_	Gloss=flow|LTranslit=ra̱r²|SpaceAfter=No
+7	𘓲	𘓲	ADJ	_	_	8	nsubj	_	Gloss=dark green|LTranslit=rŋwə̱r²|SpaceAfter=No
+8	𗧊	𗧊	VERB	_	_	11	advcl	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²|SpaceAfter=No
+9	𗚽	𗚽	NOUN	_	_	11	obj	_	Gloss=field, vast|LTranslit=du̱h¹|SpaceAfter=No
+10	𗞞	𗞞	AUX	_	_	11	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+11	𗇠	𗇠	VERB	_	_	0	root	_	Gloss=through, pierce|LTranslit=bi̱h²
+
+# sent_id = monthly_pleasures_03_II.s03.c01
+# text = 𘃂𗲞𗀔𗾬𗱢𘒣𗝠𗰓𗼺
+# section = 3月 · B / II · 小节 3
+# text_zh = 东 · 山 · 上 · 杜鹃 · 〔向下〕 · 言 · 树 · 如何 · 种植
+# text_en = On the eastern mountain the cuckoo asks, “Have you planted the trees?”
+# reference_zh = 东方山上鹃啼催植树，
+# text_ja = 東山の上の杜鵑は言う、樹を植えたか
+# nishida_page = 46
+1	𘃂	𘃂	ADJ	_	_	2	amod	_	Gloss=east|LTranslit=vəh²|SpaceAfter=No
+2	𗲞	𗲞	NOUN	_	_	6	obl	_	Gloss=hill, mountain|LTranslit=ra̱r¹|SpaceAfter=No
+3	𗀔	𗀔	ADP	_	_	2	case	_	Gloss=upper; locative particle on|LTranslit=tśhaw¹|SpaceAfter=No
+4	𗾬	𗾬	NOUN	_	_	6	nsubj	_	Gloss=cuckoo|LTranslit=ghiw²|SpaceAfter=No
+5	𗱢	𗱢	AUX	_	_	6	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+6	𘒣	𘒣	VERB	_	_	0	root	_	Gloss=speech, word|LTranslit=da̱h²|SpaceAfter=No
+7	𗝠	𗝠	NOUN	_	_	9	obj	_	Gloss=tree|LTranslit=si¹|SpaceAfter=No
+8	𗰓	𗰓	ADV	_	_	9	advmod	_	Gloss=how, where; rhetorical question particle|LTranslit=lloh²|SpaceAfter=No
+9	𗼺	𗼺	VERB	_	_	6	ccomp	_	Gloss=plant|LTranslit=ndzu̱²
+
+# sent_id = monthly_pleasures_03_II.s04.c01
+# text = 𗾬𗠜𗝠𗤻𗾔𗾾𗯴
+# section = 3月 · B / II · 小节 4
+# text_zh = 杜鹃 · 喊 · 树 · 花 · 日 · 斗 · 〔下方〕
+# text_en = The cuckoo calls, and the blossoms on the trees lie beneath the sunlight.
+# reference_zh = 鹃啼树茂日光明。
+# text_ja = 杜鵑は鳴き、樹花は日の光の下
+# nishida_page = 46
+1	𗾬	𗾬	NOUN	_	_	2	nsubj	_	Gloss=cuckoo|LTranslit=ghiw²|SpaceAfter=No
+2	𗠜	𗠜	VERB	_	_	6	advcl	_	Gloss=shout, cry|LTranslit=bi²|SpaceAfter=No
+3	𗝠	𗝠	NOUN	_	_	4	nmod	_	Gloss=tree|LTranslit=si¹|SpaceAfter=No
+4	𗤻	𗤻	NOUN	_	_	6	nsubj	_	Gloss=flower, blossom|LTranslit=vah¹|SpaceAfter=No
+5	𗾔	𗾔	NOUN	_	_	6	nmod	_	Gloss=sun|LTranslit=bi̱²|SpaceAfter=No
+6	𗾾	𗾾	VERB	_	_	0	root	_	Gloss=fight, battle|LTranslit=rir²|SpaceAfter=No
+7	𗯴	𗯴	ADP	_	_	6	case	_	Gloss=locative particle under, below, beneath|LTranslit=khu¹
+
+# sent_id = monthly_pleasures_03_II.s05.c01
+# text = 𘌙𗡅𗤻𗓏𗅋𗠫𗂧
+# section = 3月 · B / II · 小节 5
+# text_zh = 豆 · 食 · 花 · 看 · 不 · 饥 · 国
+# text_en = A land where people eat beans, look upon flowers, and do not go hungry.
+# reference_zh = 谷菜丰盈国不饿，
+# text_ja = 豆を食べ、花を覧て、飢えない国
+# nishida_page = 47
+1	𘌙	𘌙	NOUN	_	_	2	obj	_	Gloss=legume, bean|LTranslit=dwu̱²|SpaceAfter=No
+2	𗡅	𗡅	VERB	_	_	6	advcl	_	Gloss=eat|LTranslit=dzi¹|SpaceAfter=No
+3	𗤻	𗤻	NOUN	_	_	4	obj	_	Gloss=flower, blossom|LTranslit=vah¹|SpaceAfter=No
+4	𗓏	𗓏	VERB	_	_	6	advcl	_	Gloss=look at, see|LTranslit=dźji|SpaceAfter=No
+5	𗅋	𗅋	PART	_	_	6	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+6	𗠫	𗠫	ADJ	_	_	7	acl	_	Gloss=hungry, starve|LTranslit=dźwiw²|SpaceAfter=No
+7	𗂧	𗂧	NOUN	_	_	0	root	_	Gloss=country, national|LTranslit=lheh²
+
+# sent_id = monthly_pleasures_03_II.s06.c01
+# text = 𗾬𗗙𗙽𘅞𗝠𗅋𘊉
+# section = 3月 · B / II · 小节 6
+# text_zh = 杜鹃 · 〔属格〕 · 羞 · 面 · 树 · 不 · 朽
+# text_en = The cuckoo's head and face do the trees no harm.
+# reference_zh = 鹃啼树丛广无垠。
+# text_ja = 杜鵑の頭と顔は、樹を毀さず
+# nishida_page = 47
+1	𗾬	𗾬	NOUN	_	_	4	nmod	_	Gloss=cuckoo|LTranslit=ghiw²|SpaceAfter=No
+2	𗗙	𗗙	ADP	_	_	1	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
+3	𗙽	𗙽	NOUN	_	_	4	compound	_	Gloss=ashamed, bashful|LTranslit=nə¹|SpaceAfter=No
+4	𘅞	𘅞	ADJ	_	_	7	nsubj	_	Gloss=face|LTranslit=rner²|SpaceAfter=No
+5	𗝠	𗝠	NOUN	_	_	7	obj	_	Gloss=tree|LTranslit=si¹|SpaceAfter=No
+6	𗅋	𗅋	PART	_	_	7	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+7	𘊉	𘊉	VERB	_	_	0	root	_	Gloss=rotten|LTranslit=keh¹
+
+# sent_id = monthly_pleasures_04_I.s01.c01
+# text = 𗲛𗝝𘘞𗳝𗻭𗘍𘙌𘖉𗛝𗺕𗤓
+# section = 4月 · A / I · 小节 1
+# text_zh = 四 · 四 · 月 · 月 · 草 · 青 · 〔向此〕 · 到 · 梅／树林 · 草 · 美
+# text_en = In the fourth month the summer grass turns green, and the thickets grow dense and beautiful.
+# reference_zh = 四月一日夏季来临草木稠。
+# text_ja = 第四の月は夏草が青に至り、叢は稠り美しい
+# nishida_page = 48
+1	𗲛	𗲛	NUM	_	_	2	compound	_	Gloss=four|LTranslit=qwe̱¹|SpaceAfter=No
+2	𗝝	𗝝	NUM	_	_	4	nummod	_	Gloss=four|LTranslit=rŋwə̱r¹|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	11	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𗻭	𗻭	NOUN	_	_	8	nsubj	_	Gloss=grass|LTranslit=.a|SpaceAfter=No
+6	𗘍	𗘍	ADJ	_	_	5	amod	_	Gloss=green; blue; dark|LTranslit=rŋwə̱r¹|SpaceAfter=No
+7	𘙌	𘙌	AUX	_	_	8	aux	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kə¹|SpaceAfter=No
+8	𘖉	𘖉	VERB	_	_	11	advcl	_	Gloss=arrive|LTranslit=khe²|SpaceAfter=No
+9	𗛝	𗛝	NOUN	_	_	10	nmod	_	Gloss=plum, woods|LTranslit=re̱r²|SpaceAfter=No
+10	𗺕	𗺕	NOUN	_	_	11	nsubj	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+11	𗤓	𗤓	ADJ	_	_	0	root	_	Gloss=beautiful, wonderful|LTranslit=ntho¹
+
+# sent_id = monthly_pleasures_04_I.s02.c01
+# text = 𗵍𗁟𗷱𘚃𗊪𘋂𘒜
+# section = 4月 · A / I · 小节 2
+# text_zh = 混 · 宝 · 恩功 · 恩 · 国 · 宴 · 宴
+# text_en = Riches of every kind are given in kindness, and the realm holds a feast.
+# reference_zh = 布施财宝国开宴，
+# text_ja = 諸財（をもって）恩功（を施し）、国は饗宴を開く
+# nishida_page = 48
+1	𗵍	𗵍	ADJ	_	_	2	amod	_	Gloss=mix|LTranslit=lluh²|SpaceAfter=No
+2	𗁟	𗁟	NOUN	_	_	4	obl	_	Gloss=treasure|LTranslit=kuh¹|SpaceAfter=No
+3	𗷱	𗷱	NOUN	_	_	4	compound	_	Gloss=favour and merit|LTranslit=dẓae̱ṃ²|SpaceAfter=No
+4	𘚃	𘚃	VERB	_	_	7	advcl	_	Gloss=favour|LTranslit=duh¹|SpaceAfter=No
+5	𗊪	𗊪	NOUN	_	_	7	nsubj	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+6	𘋂	𘋂	NOUN	_	_	7	obj	_	Gloss=feast, banquet|LTranslit=phu¹|SpaceAfter=No
+7	𘒜	𘒜	VERB	_	_	0	root	_	Gloss=feast, banquet|LTranslit=the¹
+
+# sent_id = monthly_pleasures_04_I.s03.c01
+# text = 𘴇𗾕𗑲𗫶𗻭𗘍𗄯
+# section = 4月 · A / I · 小节 3
+# text_zh = 〔义未详〕 · 日 · 说 · 〔现在标记／但〕 · 草 · 青 · 清
+# text_en = The heavenly sun speaks, and the summer grass shines green.
+# reference_zh = 青鹃啼叫夏色浓。
+# text_ja = 天日は語り、夏草は青く明らか
+# nishida_page = 49
+1	𘴇	𘴇	NOUN	_	_	2	compound	_	LexiconMissing=Yes|Gloss=unknown|LTranslit=mmi̱²|SpaceAfter=No
+2	𗾕	𗾕	NOUN	_	_	3	nsubj	_	Gloss=day|LTranslit=rir²|SpaceAfter=No
+3	𗑲	𗑲	VERB	_	_	7	advcl	_	Gloss=speak, say|LTranslit=ntśhiw¹|SpaceAfter=No
+4	𗫶	𗫶	PART	_	_	3	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+5	𗻭	𗻭	NOUN	_	_	7	nsubj	_	Gloss=grass|LTranslit=.a|SpaceAfter=No
+6	𗘍	𗘍	ADJ	_	_	5	amod	_	Gloss=green; blue; dark|LTranslit=rŋwə̱r¹|SpaceAfter=No
+7	𗄯	𗄯	ADJ	_	_	0	root	_	Gloss=clear, obvious|LTranslit=me̱¹
+
+# sent_id = monthly_pleasures_04_I.s04.c01
+# text = 𗳇𗽸𗅋𗤂𗦗𗑒𗿀𗪀𗦊𗤓
+# section = 4月 · A / I · 小节 4
+# text_zh = 丘 · 表皮 · 不 · 完成 · 人 · 意愿 · 地 · 见 · 见 · 美
+# text_en = The hillside's bare surface is unchanged; in the land a man longs for, what he sees is beautiful.
+# reference_zh = 开垦山原人欲见腴田，
+# text_ja = 丘の地肌は変りなく、男の志の土には、視るものは美しい
+# nishida_page = 49
+1	𗳇	𗳇	NOUN	_	_	2	nmod	_	Gloss=mound, mausoleum|LTranslit=dzuh²|SpaceAfter=No
+2	𗽸	𗽸	NOUN	_	_	4	nsubj	_	Gloss=epidermis, cuticle|LTranslit=nlhə¹|SpaceAfter=No
+3	𗅋	𗅋	PART	_	_	4	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+4	𗤂	𗤂	ADJ	_	_	10	advcl	_	Gloss=complete|LTranslit=di²|SpaceAfter=No
+5	𗦗	𗦗	NOUN	_	_	6	nmod	_	Gloss=man|LTranslit=so̱²|SpaceAfter=No
+6	𗑒	𗑒	NOUN	_	_	7	nmod	_	Gloss=will|LTranslit=śwa¹|SpaceAfter=No
+7	𗿀	𗿀	NOUN	_	_	10	obl	_	Gloss=land, soil|LTranslit=rtsi̱r¹|SpaceAfter=No
+8	𗪀	𗪀	VERB	_	_	9	compound	_	Gloss=see, look at|LTranslit=ŋkhu²|SpaceAfter=No
+9	𗦊	𗦊	VERB	_	_	10	nsubj	_	Gloss=see|LTranslit=lhweh¹|SpaceAfter=No
+10	𗤓	𗤓	ADJ	_	_	0	root	_	Gloss=beautiful, wonderful|LTranslit=ntho¹
+
+# sent_id = monthly_pleasures_04_I.s05.c01
+# text = 𗺕𘇂𗵽𗪾𗩨𗋐𘏒
+# section = 4月 · A / I · 小节 5
+# text_zh = 草 · 中 · 美 · 松 · 色 · 生命 · 解开
+# text_en = Among the grasses the colours unfold, and the bright flowers open.
+# reference_zh = 草丛花开宛如铺彩缎。
+# text_ja = 草の中は、彩りをゆるめ、色有（花）は開く
+# nishida_page = 49
+1	𗺕	𗺕	NOUN	_	_	4	obl	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+2	𘇂	𘇂	ADP	_	_	1	case	_	Gloss=middle, among|LTranslit=ġu̱²|SpaceAfter=No
+3	𗵽	𗵽	ADJ	_	_	4	obj	_	Gloss=beautiful|LTranslit=nllu²|SpaceAfter=No
+4	𗪾	𗪾	ADJ	_	_	7	advcl	_	Gloss=loose|LTranslit=qu̱h¹|SpaceAfter=No
+5	𗩨	𗩨	NOUN	_	_	6	compound	_	Gloss=colour|LTranslit=tsə̱h¹|SpaceAfter=No
+6	𗋐	𗋐	VERB	_	_	7	nsubj	_	Gloss=life|LTranslit=tśhu¹|SpaceAfter=No
+7	𘏒	𘏒	VERB	_	_	0	root	_	Gloss=untie, undo|LTranslit=phai̱²
+
+# sent_id = monthly_pleasures_04_I.s06.c01
+# text = 𘖚𗎘𗵍𗺕𗁞𗦢𗩯𗌜𘟫𗾾
+# section = 4月 · A / I · 小节 6
+# text_zh = 泽 · 边 · 混 · 草 · 半米长单位 · 量 · 清 · 水 · 剑 · 斗
+# text_en = The grasses at the marsh's edge stand a measure high; water and blades do battle.
+# reference_zh = 泽畔水草出水如剑高尺许，
+# text_ja = 沢の辺の諸草は、尺の高さを現わし、水と武器を斗わす
+# nishida_page = 50
+1	𘖚	𘖚	NOUN	_	_	2	nmod	_	Gloss=marsh, swamp, bog|LTranslit=no̱²|SpaceAfter=No
+2	𗎘	𗎘	NOUN	_	_	4	nmod	_	Gloss=border|LTranslit=bau̱²|SpaceAfter=No
+3	𗵍	𗵍	ADJ	_	_	4	amod	_	Gloss=mix|LTranslit=lluh²|SpaceAfter=No
+4	𗺕	𗺕	NOUN	_	_	10	nsubj	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+5	𗁞	𗁞	NOUN	_	_	6	nmod	_	Gloss=a unit of length (- 1/2 metre)|LTranslit=tśhaw²|SpaceAfter=No
+6	𗦢	𗦢	VERB	_	_	7	obj	_	Gloss=survey, fathom|LTranslit=dza̱²|SpaceAfter=No
+7	𗩯	𗩯	ADJ	_	_	10	advcl	_	Gloss=clear, obvious|LTranslit=swe¹|SpaceAfter=No
+8	𗌜	𗌜	NOUN	_	_	10	obj	_	Gloss=water, river|LTranslit=rnor¹|SpaceAfter=No
+9	𘟫	𘟫	NOUN	_	_	8	conj	_	Gloss=sword, sabre, weapon|LTranslit=ġha̱h¹|SpaceAfter=No
+10	𗾾	𗾾	VERB	_	_	0	root	_	Gloss=fight, battle|LTranslit=rir²
+
+# sent_id = monthly_pleasures_04_I.s07.c01
+# text = 𗈃𗽸𗋢𘇗𗱺𘋗𗥕
+# section = 4月 · A / I · 小节 7
+# text_zh = 鹿 · 表皮 · 绳 · 绳 · 骏马 · 良马 · 系
+# text_en = They tether a fine horse with a rope of deerskin.
+# reference_zh = 鹿皮缰绳系良驹。
+# text_ja = 鹿の皮の縄（をもって）、馬をつなぐ
+# nishida_page = 50
+1	𗈃	𗈃	NOUN	_	_	2	nmod	_	Gloss=deer|LTranslit=nsu¹|SpaceAfter=No
+2	𗽸	𗽸	NOUN	_	_	4	nmod	_	Gloss=epidermis, cuticle|LTranslit=nlhə¹|SpaceAfter=No
+3	𗋢	𗋢	NOUN	_	_	4	compound	_	Gloss=rope, cord|LTranslit=qwə̱²|SpaceAfter=No
+4	𘇗	𘇗	NOUN	_	_	7	obl	_	Gloss=rope|LTranslit=lu̱²|SpaceAfter=No
+5	𗱺	𗱺	NOUN	_	_	6	compound	_	Gloss=steed, fine horse|LTranslit=mme̱²|SpaceAfter=No
+6	𘋗	𘋗	NOUN	_	_	7	obj	_	Gloss=fine horse, steed|LTranslit=dzu̱²|SpaceAfter=No
+7	𗥕	𗥕	VERB	_	_	0	root	_	Gloss=tie up|LTranslit=zu̱²
+
+# sent_id = monthly_pleasures_04_I.s08.c01
+# text = 𗌜𗑠𗋥𘔷𘚖𗎻
+# section = 4月 · A / I · 小节 8
+# text_zh = 水 · 同 · 和 · 湿 · 湿 · 〔义未详〕
+# text_en = Mingling with the water, the damp earth crumbles away.
+# reference_zh = 雨露和合泉侧出，
+# text_ja = 坎と和し、湿土は、くずれ落ちる
+# nishida_page = 50
+# analysis_note = 末字词典缺义，谓语分析取日译。
+1	𗌜	𗌜	NOUN	_	_	3	obl	_	Gloss=water, river|LTranslit=rnor¹|SpaceAfter=No
+2	𗑠	𗑠	ADP	_	_	3	advmod	_	Gloss=same, and; comitative particle with|LTranslit=rir²|SpaceAfter=No
+3	𗋥	𗋥	NOUN	_	_	6	advcl	_	Gloss=peace, abore?|LTranslit=rvwi̱r¹|SpaceAfter=No
+4	𘔷	𘔷	NOUN	_	_	5	compound	_	Gloss=moist|LTranslit=se¹|SpaceAfter=No
+5	𘚖	𘚖	ADJ	_	_	6	nsubj	_	Gloss=moist, damp|LTranslit=llwo̱¹|SpaceAfter=No
+6	𗎻	𗎻	VERB	_	_	0	root	_	Gloss=unknown|LTranslit=qo̱ṃ¹
+
+# sent_id = monthly_pleasures_04_I.s09.c01
+# text = 𗳙𗙰𗵵𗉫𗅋𗏆𗿀
+# section = 4月 · A / I · 小节 9
+# text_zh = 〔义未详〕 · 龟 · 蛛 · 游乐 · 不 · 〔音译〕 · 地
+# text_en = The ground where frogs play is called “not Brahma” [sense uncertain].
+# reference_zh = 圣地上青蛙戏。
+# text_ja = 蛙が戯れるは、不梵の土
+# nishida_page = 51
+1	𗳙	𗳙	NOUN	_	_	3	compound	_	LexiconMissing=Yes|Gloss=unknown|LTranslit=?|SpaceAfter=No
+2	𗙰	𗙰	NOUN	_	_	3	compound	_	Gloss=tortoise, turtle|LTranslit=qə̱¹|SpaceAfter=No
+3	𗵵	𗵵	NOUN	_	_	4	nsubj	_	Gloss=spider|LTranslit=tsuh¹|SpaceAfter=No
+4	𗉫	𗉫	VERB	_	_	7	acl	_	Gloss=recreation, game|LTranslit=ŋqhe̱¹|SpaceAfter=No
+5	𗅋	𗅋	PART	_	_	6	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+6	𗏆	𗏆	ADJ	_	_	7	amod	_	Gloss=transliteration; Sanskrit|LTranslit=hwaa̱ṃ¹|SpaceAfter=No
+7	𗿀	𗿀	NOUN	_	_	0	root	_	Gloss=land, soil|LTranslit=rtsi̱r¹
+
+# sent_id = monthly_pleasures_04_II.s01.c01
+# text = 𗥃𗼑𘈩𗬥𗴲𘊡𗈪𗧊𗝠𗉝𗺜
+# section = 4月 · B / II · 小节 1
+# text_zh = 四 · 月 · 一 · 日 · 夏 · 季 · 〔向上〕 · 出生／生长／升起 · 树 · 秆 · 杂
+# text_en = On the first day of the fourth month, summer comes forth and trees and grasses grow thick.
+# reference_zh = 四月一日夏季来临草木稠。
+# text_ja = 四月一日に、夏季が出て、樹草は稠る
+# nishida_page = 48
+1	𗥃	𗥃	NUM	_	_	2	nummod	_	Gloss=four|LTranslit=rllər¹|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	4	nmod	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𘈩	𘈩	NUM	_	_	4	nummod	_	Gloss=one|LTranslit=li̱w¹|SpaceAfter=No
+4	𗬥	𗬥	NOUN	_	_	8	obl	_	Gloss=sun, day|LTranslit=de¹|SpaceAfter=No
+5	𗴲	𗴲	NOUN	_	_	6	nmod	_	Gloss=summer|LTranslit=dźwe²|SpaceAfter=No
+6	𘊡	𘊡	NOUN	_	_	8	nsubj	_	Gloss=season|LTranslit=lu̱²|SpaceAfter=No
+7	𗈪	𗈪	AUX	_	_	8	aux	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
+8	𗧊	𗧊	VERB	_	_	11	advcl	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²|SpaceAfter=No
+9	𗝠	𗝠	NOUN	_	_	11	nsubj	_	Gloss=tree|LTranslit=si¹|SpaceAfter=No
+10	𗉝	𗉝	NOUN	_	_	9	conj	_	Gloss=straw, grass|LTranslit=śih²|SpaceAfter=No
+11	𗺜	𗺜	ADJ	_	_	0	root	_	Gloss=mix, gather|LTranslit=dzə̱h¹
+
+# sent_id = monthly_pleasures_04_II.s02.c01
+# text = 𘋠𘏨𘘖𗣀𗂧𘛡𘃡
+# section = 4月 · B / II · 小节 2
+# text_zh = 种类 · 宝 · 恩 · 〔姓氏〕 · 国 · 宴 · 作
+# text_en = Gifts of every kind of treasure are bestowed, and the realm lays out a feast.
+# reference_zh = 布施财宝国开宴，
+# text_ja = 種宝（をもって）恩功（を施し）、国は筵をなす
+# nishida_page = 48
+1	𘋠	𘋠	NOUN	_	_	2	nmod	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+2	𘏨	𘏨	NOUN	_	_	4	obl	_	Gloss=treasure|LTranslit=llaə̱h¹|SpaceAfter=No
+3	𘘖	𘘖	NOUN	_	_	4	compound	_	Gloss=favour, kindness|LTranslit=llih²|SpaceAfter=No
+4	𗣀	𗣀	VERB	_	_	7	advcl	_	Gloss=surname|LTranslit=rer²|SpaceAfter=No
+5	𗂧	𗂧	NOUN	_	_	7	nsubj	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+6	𘛡	𘛡	NOUN	_	_	7	obj	_	Gloss=fete, feast, banquet|LTranslit=dźih¹|SpaceAfter=No
+7	𘃡	𘃡	VERB	_	_	0	root	_	Gloss=do, make; ergative marker|LTranslit=vi¹
+
+# sent_id = monthly_pleasures_04_II.s03.c01
+# text = 𗾬𗘍𗈪𗠜𗴲𗞞𗩯
+# section = 4月 · B / II · 小节 3
+# text_zh = 杜鹃 · 青 · 〔向上〕 · 喊 · 夏 · 〔离说话人〕 · 清
+# text_en = The green cuckoo calls, and summer is plain to see.
+# reference_zh = 青鹃啼叫夏色浓。
+# text_ja = 青い杜鵑は鳴き、夏は顕らか
+# nishida_page = 49
+1	𗾬	𗾬	NOUN	_	_	4	nsubj	_	Gloss=cuckoo|LTranslit=ghiw²|SpaceAfter=No
+2	𗘍	𗘍	ADJ	_	_	1	amod	_	Gloss=green; blue; dark|LTranslit=rŋwə̱r¹|SpaceAfter=No
+3	𗈪	𗈪	AUX	_	_	4	aux	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
+4	𗠜	𗠜	VERB	_	_	7	advcl	_	Gloss=shout, cry|LTranslit=bi²|SpaceAfter=No
+5	𗴲	𗴲	NOUN	_	_	7	nsubj	_	Gloss=summer|LTranslit=dźwe²|SpaceAfter=No
+6	𗞞	𗞞	AUX	_	_	7	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+7	𗩯	𗩯	ADJ	_	_	0	root	_	Gloss=clear, obvious|LTranslit=swe¹
+
+# sent_id = monthly_pleasures_04_II.s04.c01
+# text = 𗳽𘕒𘘤𗤋𗾖𘋼𗼻𗭊𗵢𗡮
+# section = 4月 · B / II · 小节 4
+# text_zh = 坡 · 松树／松散 · 皮 · 不 · 男 · 意愿 · 地 · 〔愿望·向上〕 · 看 · 尊崇
+# text_en = The broad slope has no skin; in the land a man longs for, what he wishes to see is beautiful.
+# reference_zh = 开垦山原人欲见腴田，
+# text_ja = 広い坡に皮は無く、男の志の土地には、視たいものは美しい
+# nishida_page = 49
+1	𗳽	𗳽	NOUN	_	_	4	nsubj	_	Gloss=slope|LTranslit=lo̱ṃ²|SpaceAfter=No
+2	𘕒	𘕒	ADJ	_	_	1	amod	_	Gloss=pine, loose|LTranslit=qu̱¹|SpaceAfter=No
+3	𘘤	𘘤	NOUN	_	_	4	obj	_	Gloss=skin|LTranslit=dźə¹|SpaceAfter=No
+4	𗤋	𗤋	VERB	_	_	10	advcl	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
+5	𗾖	𗾖	NOUN	_	_	6	nmod	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
+6	𘋼	𘋼	NOUN	_	_	7	nmod	_	Gloss=will, ideal, aspiration|LTranslit=rkur²|SpaceAfter=No
+7	𗼻	𗼻	NOUN	_	_	10	obl	_	Gloss=land, soil|LTranslit=lləh²|SpaceAfter=No
+8	𗭊	𗭊	AUX	_	_	9	aux	_	Gloss=verb prefix optative marker - upward|LTranslit=ye¹|SpaceAfter=No
+9	𗵢	𗵢	VERB	_	_	10	nsubj	_	Gloss=look; see; observe|LTranslit=yu²|SpaceAfter=No
+10	𗡮	𗡮	ADJ	_	_	0	root	_	Gloss=dignify|LTranslit=śwo²
+
+# sent_id = monthly_pleasures_04_II.s05.c01
+# text = 𗻆𗻛𗤻𗧐𗂎𘖙𗋚𘐒𗍊
+# section = 4月 · B / II · 小节 5
+# text_zh = 〔草名〕 · 〔草名〕 · 花 · 解开 · 紫 · 布帛量词 · 〔向外〕 · 铺开 · 如
+# text_en = The flowers of [an unidentified plant] open like purple silk spread out.
+# reference_zh = 草丛花开宛如铺彩缎。
+# text_ja = □□の花は咲き、紫緞を拡げたよう
+# nishida_page = 49
+1	𗻆	𗻆	NOUN	_	_	2	compound	_	Gloss=grass name|LTranslit=śa²|SpaceAfter=No
+2	𗻛	𗻛	NOUN	_	_	3	nmod	_	Gloss=grass name|LTranslit=kiw¹|SpaceAfter=No
+3	𗤻	𗤻	NOUN	_	_	4	nsubj	_	Gloss=flower, blossom|LTranslit=vah¹|SpaceAfter=No
+4	𗧐	𗧐	VERB	_	_	0	root	_	Gloss=untie|LTranslit=bai̱²|SpaceAfter=No
+5	𗂎	𗂎	ADJ	_	_	6	amod	_	Gloss=purple, violet|LTranslit=tsheṃ²|SpaceAfter=No
+6	𘖙	𘖙	NOUN	_	_	8	obj	_	Gloss=a unit of measurement for rolls of cloth or silk; bolt|LTranslit=no̱²|SpaceAfter=No
+7	𗋚	𗋚	AUX	_	_	8	aux	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=və²|SpaceAfter=No
+8	𘐒	𘐒	VERB	_	_	4	advcl	_	Gloss=spread, uphold|LTranslit=ryer²|SpaceAfter=No
+9	𗍊	𗍊	SCONJ	_	_	8	mark	_	Gloss=as|LTranslit=su²
+
+# sent_id = monthly_pleasures_04_II.s06.c01
+# text = 𗽓𗛲𗉝𘋠𘌽𗩞𗹭𗋽𗃱𗔼𗫶
+# section = 4月 · B / II · 小节 6
+# text_zh = 泽 · 边界 · 秆 · 种类 · 此 · 下 · 高 · 水 · 背 · 争 · 〔现在标记／但〕
+# text_en = The grasses at the marsh's edge stand tall and keep struggling with the waves.
+# reference_zh = 泽畔水草出水如剑高尺许，
+# text_ja = 沼の端の種々の草は、背が高く、水波と斗いつづける
+# nishida_page = 50
+1	𗽓	𗽓	NOUN	_	_	2	nmod	_	Gloss=marsh|LTranslit=ri̱wr¹|SpaceAfter=No
+2	𗛲	𗛲	NOUN	_	_	3	nmod	_	Gloss=boundary, limit|LTranslit=loṃ²|SpaceAfter=No
+3	𗉝	𗉝	NOUN	_	_	7	nsubj	_	Gloss=straw, grass|LTranslit=śih²|SpaceAfter=No
+4	𘋠	𘋠	NOUN	_	_	3	nmod	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+5	𘌽	𘌽	DET	_	_	3	det	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
+6	𗩞	𗩞	ADV	_	_	7	nmod	_	Gloss=down|LTranslit=bi¹|SpaceAfter=No
+7	𗹭	𗹭	ADJ	_	_	10	advcl	_	Gloss=tall|LTranslit=be²|SpaceAfter=No
+8	𗋽	𗋽	NOUN	_	_	10	obj	_	Gloss=water; river|LTranslit=rzər²|SpaceAfter=No
+9	𗃱	𗃱	NOUN	_	_	8	compound	_	Gloss=back (of the human body)|LTranslit=bu¹|SpaceAfter=No
+10	𗔼	𗔼	VERB	_	_	0	root	_	Gloss=struggle, fight|LTranslit=ġhwe̱¹|SpaceAfter=No
+11	𗫶	𗫶	PART	_	_	10	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²
+
+# sent_id = monthly_pleasures_04_II.s07.c01
+# text = 𗰆𘘤𘙁𘘫𘆝𗱢𘅩
+# section = 4月 · B / II · 小节 7
+# text_zh = 鹿 · 皮 · 熟皮 · 绳 · 马 · 〔向下〕 · 绳
+# text_en = They tether the horse with a cord of dressed deerskin.
+# reference_zh = 鹿皮缰绳系良驹。
+# text_ja = 鹿の皮の索縄（をもって）、馬をつなぐ
+# nishida_page = 50
+1	𗰆	𗰆	NOUN	_	_	2	nmod	_	Gloss=deer|LTranslit=lha¹|SpaceAfter=No
+2	𘘤	𘘤	NOUN	_	_	4	nmod	_	Gloss=skin|LTranslit=dźə¹|SpaceAfter=No
+3	𘙁	𘙁	ADJ	_	_	4	compound	_	Gloss=tanned leather|LTranslit=se̱²|SpaceAfter=No
+4	𘘫	𘘫	NOUN	_	_	7	obl	_	Gloss=rope|LTranslit=bi²|SpaceAfter=No
+5	𘆝	𘆝	NOUN	_	_	7	obj	_	Gloss=horse|LTranslit=rer¹|SpaceAfter=No
+6	𗱢	𗱢	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+7	𘅩	𘅩	VERB	_	_	0	root	_	Gloss=rope|LTranslit=tśeh¹
+
+# sent_id = monthly_pleasures_04_II.s08.c01
+# text = 𘉌𗅋𘉼𗣎𗊓𘁩
+# section = 4月 · B / II · 小节 8
+# text_zh = 露 · 不 · 作 · 泉 · 泉 · 斜
+# text_en = The dew does no harm, and the spring runs off to one side.
+# reference_zh = 雨露和合泉侧出，
+# text_ja = 露は災いなく、泉源は斜めに偏く
+# nishida_page = 50
+1	𘉌	𘉌	NOUN	_	_	3	nsubj	_	Gloss=dew|LTranslit=rzə̱r²|SpaceAfter=No
+2	𗅋	𗅋	PART	_	_	3	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+3	𘉼	𘉼	VERB	_	_	6	advcl	_	Gloss=make|LTranslit=ntho̱²|SpaceAfter=No
+4	𗣎	𗣎	NOUN	_	_	5	compound	_	Gloss=spring (water)|LTranslit=ra̱r²|SpaceAfter=No
+5	𗊓	𗊓	NOUN	_	_	6	nsubj	_	Gloss=spring, fountainhead|LTranslit=mə̱²|SpaceAfter=No
+6	𘁩	𘁩	ADJ	_	_	0	root	_	Gloss=slanting, inclined|LTranslit=rqo̱ṃr²
+
+# sent_id = monthly_pleasures_04_II.s09.c01
+# text = 𗋟𗰝𗰘𘋯𗼃𗫻𗼻
+# section = 4月 · B / II · 小节 9
+# text_zh = 斜 · 蛙 · 游乐 · 袋 · 贤者 · 居 · 地
+# text_en = The pouch where the frogs play is the ground where a sage dwells.
+# reference_zh = 圣地上青蛙戏。
+# text_ja = 蛙が遊ぶ袋は、聖住の地
+# nishida_page = 51
+1	𗋟	𗋟	ADJ	_	_	2	compound	_	Gloss=oblique, slanting|LTranslit=rqe̱r²|SpaceAfter=No
+2	𗰝	𗰝	NOUN	_	_	3	nsubj	_	Gloss=frog|LTranslit=pai̱h¹|SpaceAfter=No
+3	𗰘	𗰘	VERB	_	_	4	acl	_	Gloss=recreation, game|LTranslit=wu̱²|SpaceAfter=No
+4	𘋯	𘋯	NOUN	_	_	7	nsubj	_	Gloss=bag, sack|LTranslit=yeṃ²|SpaceAfter=No
+5	𗼃	𗼃	NOUN	_	_	6	nsubj	_	Gloss=sage; able and virtuous person|LTranslit=śeṃ²|SpaceAfter=No
+6	𗫻	𗫻	VERB	_	_	7	acl	_	Gloss=live, stay, exist, to be found|LTranslit=ndźe¹|SpaceAfter=No
+7	𗼻	𗼻	NOUN	_	_	0	root	_	Gloss=land, soil|LTranslit=lləh²
+
+# sent_id = monthly_pleasures_05_I.s01.c01
+# text = 𗉨𗘝𘘞𗳝𗊪𗌜𘏫𗵍𗘥𗺕𗻖𗵽𗅋𗬀
+# section = 5月 · A / I · 小节 1
+# text_zh = 五 · 五 · 月 · 月 · 国 · 水 · 落 · 混 · 杂 · 草 · 草 · 美 · 不 · 藏
+# text_en = In the fifth month, water falls on the realm, and the grasses of every kind show their colours.
+# reference_zh = 五月里国中雨降种种花草竞吐芳，
+# text_ja = 第五の月は、国に坎が降り、種々の草は彩りをかくさず
+# nishida_page = 52
+1	𗉨	𗉨	NUM	_	_	2	compound	_	Gloss=five|LTranslit=rtśər²|SpaceAfter=No
+2	𗘝	𗘝	NUM	_	_	4	nummod	_	Gloss=five|LTranslit=lu̱²|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	14	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𗊪	𗊪	NOUN	_	_	7	obl	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+6	𗌜	𗌜	NOUN	_	_	7	nsubj	_	Gloss=water, river|LTranslit=rnor¹|SpaceAfter=No
+7	𘏫	𘏫	VERB	_	_	14	advcl	_	Gloss=fall|LTranslit=haa̱²|SpaceAfter=No
+8	𗵍	𗵍	ADJ	_	_	9	compound	_	Gloss=mix|LTranslit=lluh²|SpaceAfter=No
+9	𗘥	𗘥	ADJ	_	_	11	amod	_	Gloss=miscellaneous, mixed|LTranslit=lhi̱w¹|SpaceAfter=No
+10	𗺕	𗺕	NOUN	_	_	11	compound	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+11	𗻖	𗻖	NOUN	_	_	14	nsubj	_	Gloss=grass, straw|LTranslit=rir²|SpaceAfter=No
+12	𗵽	𗵽	ADJ	_	_	14	obj	_	Gloss=beautiful|LTranslit=nllu²|SpaceAfter=No
+13	𗅋	𗅋	PART	_	_	14	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+14	𗬀	𗬀	VERB	_	_	0	root	_	Gloss=hide, conceal|LTranslit=lwu̱²
+
+# sent_id = monthly_pleasures_05_I.s02.c01
+# text = 𘅁𗸦𗭞𗓓𗪀𗦊𗴴
+# section = 5月 · A / I · 小节 2
+# text_zh = 缘／去 · 人 · 步 · 去 · 见 · 见 · 安乐
+# text_en = The kindred households walk on, taking pleasure in what they see.
+# reference_zh = 来往行人观不足。
+# text_ja = 縁家は歩を進め、観賞して楽しむ
+# nishida_page = 52
+1	𘅁	𘅁	VERB	_	_	2	compound	_	Gloss=reason, go|LTranslit=ri̱r²|SpaceAfter=No
+2	𗸦	𗸦	NOUN	_	_	4	nsubj	_	Gloss=man|LTranslit=dźwu¹|SpaceAfter=No
+3	𗭞	𗭞	NOUN	_	_	4	obj	_	Gloss=step, pace|LTranslit=bi²|SpaceAfter=No
+4	𗓓	𗓓	VERB	_	_	7	advcl	_	Gloss=go|LTranslit=tśhe¹|SpaceAfter=No
+5	𗪀	𗪀	VERB	_	_	6	compound	_	Gloss=see, look at|LTranslit=ŋkhu²|SpaceAfter=No
+6	𗦊	𗦊	VERB	_	_	7	advcl	_	Gloss=see|LTranslit=lhweh¹|SpaceAfter=No
+7	𗴴	𗴴	VERB	_	_	0	root	_	Gloss=peace and happiness|LTranslit=re̱r²
+
+# sent_id = monthly_pleasures_05_I.s03.c01
+# text = 𗳇𗴵𗺕𗻖𗿼𗜔𗏡𗞞𗅋𗛨
+# section = 5月 · A / I · 小节 3
+# text_zh = 丘 · 脑 · 草 · 草 · 鸟 · 乱 · 后 · 〔离说话人〕 · 不 · 动
+# text_en = On the hilltop the [unidentified] grass, like a bird's split tail, [word unclear] and does not move.
+# reference_zh = 高坡红草弯弯不动如雉尾，
+# text_ja = 丘の頂の□草は、鳥の裂けたうしろの（ごとく）、□して動かず
+# nishida_page = 52
+1	𗳇	𗳇	NOUN	_	_	2	nmod	_	Gloss=mound, mausoleum|LTranslit=dzuh²|SpaceAfter=No
+2	𗴵	𗴵	NOUN	_	_	4	nmod	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+3	𗺕	𗺕	NOUN	_	_	4	compound	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+4	𗻖	𗻖	NOUN	_	_	10	nsubj	_	Gloss=grass, straw|LTranslit=rir²|SpaceAfter=No
+5	𗿼	𗿼	NOUN	_	_	7	nmod	_	Gloss=bird|LTranslit=dźwoṃ¹|SpaceAfter=No
+6	𗜔	𗜔	ADJ	_	_	7	amod	_	Gloss=disorder|LTranslit=dẓaa̱²|SpaceAfter=No
+7	𗏡	𗏡	NOUN	_	_	10	obl	_	Gloss=behind|LTranslit=qu̱h¹|SpaceAfter=No
+8	𗞞	𗞞	AUX	_	_	10	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+9	𗅋	𗅋	PART	_	_	10	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+10	𗛨	𗛨	VERB	_	_	0	root	_	Gloss=move, shift|LTranslit=rna̱r²
+
+# sent_id = monthly_pleasures_05_I.s04.c01
+# text = 𗺕𗻖𗴵𘀎𘆩𗴵𗃡
+# section = 5月 · A / I · 小节 4
+# text_zh = 草 · 草 · 脑 · 暗 · 粉 · 脑 · 帽
+# text_en = They crown the woolly heads of the Black Heads with grasses.
+# reference_zh = 蒲苇黑头戴帽冠。
+# text_ja = 草草を、黒頭の毛頭に冠す
+# nishida_page = 52
+1	𗺕	𗺕	NOUN	_	_	2	compound	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+2	𗻖	𗻖	NOUN	_	_	7	obj	_	Gloss=grass, straw|LTranslit=rir²|SpaceAfter=No
+3	𗴵	𗴵	NOUN	_	_	6	nmod	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+4	𘀎	𘀎	ADJ	_	_	3	amod	_	Gloss=dark, dim|LTranslit=rmu̱r¹|SpaceAfter=No
+5	𘆩	𘆩	NOUN	_	_	6	nmod	_	Gloss=powder|LTranslit=mi̱h²|SpaceAfter=No
+6	𗴵	𗴵	NOUN	_	_	7	obl	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+7	𗃡	𗃡	VERB	_	_	0	root	_	Gloss=hat|LTranslit=puh²
+
+# sent_id = monthly_pleasures_05_I.s05.c01
+# text = 𗆏𗺕𘍂𗺕𗴵𗅋𗞕
+# section = 5月 · A / I · 小节 5
+# text_zh = 山羊 · 草 · 羊 · 草 · 脑 · 不 · 分
+# text_en = The heads of the sheep grass and the grain grass do not part.
+# reference_zh = 羊儿食草头杂错，
+# text_ja = 羊草、禾草は頭を離れず
+# nishida_page = 53
+1	𗆏	𗆏	NOUN	_	_	2	nmod	_	Gloss=goat, lamb|LTranslit=tśuh²|SpaceAfter=No
+2	𗺕	𗺕	NOUN	_	_	7	nsubj	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+3	𘍂	𘍂	NOUN	_	_	4	nmod	_	Gloss=sheep|LTranslit=mo²|SpaceAfter=No
+4	𗺕	𗺕	NOUN	_	_	2	conj	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+5	𗴵	𗴵	NOUN	_	_	7	obj	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+6	𗅋	𗅋	PART	_	_	7	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+7	𗞕	𗞕	VERB	_	_	0	root	_	Gloss=divide, part|LTranslit=mphe̱²
+
+# sent_id = monthly_pleasures_05_I.s06.c01
+# text = 𗵂𗵅𗭞𗓓𗛝𗅁𗇃
+# section = 5月 · A / I · 小节 6
+# text_zh = 爬 · 爬 · 步 · 去 · 梅／树林 · 内 · 沟
+# text_en = A great snake makes its way along, glinting in the thicket.
+# reference_zh = 大蛇缓行现草丛。
+# text_ja = 大蛇は歩行し、叢の中に光る
+# nishida_page = 53
+1	𗵂	𗵂	VERB	_	_	2	compound	_	Gloss=creep|LTranslit=llə¹|SpaceAfter=No
+2	𗵅	𗵅	VERB	_	_	4	nsubj	_	Gloss=creep|LTranslit=llwuh¹|SpaceAfter=No
+3	𗭞	𗭞	NOUN	_	_	4	obj	_	Gloss=step, pace|LTranslit=bi²|SpaceAfter=No
+4	𗓓	𗓓	VERB	_	_	7	advcl	_	Gloss=go|LTranslit=tśhe¹|SpaceAfter=No
+5	𗛝	𗛝	NOUN	_	_	7	obl	_	Gloss=plum, woods|LTranslit=re̱r²|SpaceAfter=No
+6	𗅁	𗅁	ADP	_	_	5	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+7	𗇃	𗇃	VERB	_	_	0	root	_	Gloss=trench|LTranslit=hwa̱²
+
+# sent_id = monthly_pleasures_05_I.s07.c01
+# text = 𗶆𗶈𗂇𘁻𗾔𘇂𗵊𗃴𗍅𗅲𗥔
+# section = 5月 · A / I · 小节 7
+# text_zh = 巧妇 · 女 · 臂 · 绯红 · 日 · 中 · 牛 · 乳 · 工匠 · 礼 · 有
+# text_en = At midday the red arms of yin and yang milk the cattle; the craftspeople have their ritual.
+# reference_zh = 男女妙手正午依法制乳酪。
+# text_ja = 陰陽の赤い臂は、日中、牛の乳をしぼり、匠は儀式をもつ
+# nishida_page = 53
+1	𗶆	𗶆	NOUN	_	_	2	compound	_	Gloss=clever wife|LTranslit=ġhwa̱¹|SpaceAfter=No
+2	𗶈	𗶈	NOUN	_	_	3	nmod	_	Gloss=female|LTranslit=di̱h¹|SpaceAfter=No
+3	𗂇	𗂇	NOUN	_	_	8	nsubj	_	Gloss=arm|LTranslit=qwae̱¹|SpaceAfter=No
+4	𘁻	𘁻	ADJ	_	_	3	amod	_	Gloss=crimson|LTranslit=nśi²|SpaceAfter=No
+5	𗾔	𗾔	NOUN	_	_	8	obl	_	Gloss=sun|LTranslit=bi̱²|SpaceAfter=No
+6	𘇂	𘇂	ADP	_	_	5	case	_	Gloss=middle, among|LTranslit=ġu̱²|SpaceAfter=No
+7	𗵊	𗵊	NOUN	_	_	8	obj	_	Gloss=ox|LTranslit=mmu²|SpaceAfter=No
+8	𗃴	𗃴	VERB	_	_	11	advcl	_	Gloss=milk|LTranslit=ŋqhau̱¹|SpaceAfter=No
+9	𗍅	𗍅	NOUN	_	_	11	nsubj	_	Gloss=worker|LTranslit=rkər¹|SpaceAfter=No
+10	𗅲	𗅲	NOUN	_	_	11	obj	_	Gloss=ceremony|LTranslit=teṃh²|SpaceAfter=No
+11	𗥔	𗥔	VERB	_	_	0	root	_	Gloss=have, exist|LTranslit=nlhi̱w²
+
+# sent_id = monthly_pleasures_05_II.s01.c01
+# text = 𗏁𗼑𗅁𗂧𗼮𗱢𗆐𗝚𗉝𘋠𘕾𗤻𗞞𘕖
+# section = 5月 · B / II · 小节 1
+# text_zh = 五 · 月 · 内 · 国 · 雨 · 〔向下〕 · 到 · 柴 · 秆 · 种类 · 各样 · 花 · 〔离说话人〕 · 送
+# text_en = In the fifth month, rain comes to the realm, and herbs and grasses of every kind put forth flowers.
+# reference_zh = 五月里国中雨降种种花草竞吐芳，
+# text_ja = 五月中、国に雨が来り、諸々の菜草は花を放つ
+# nishida_page = 52
+1	𗏁	𗏁	NUM	_	_	2	nummod	_	Gloss=five|LTranslit=ŋwə̱¹|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	14	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗅁	𗅁	ADP	_	_	2	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+4	𗂧	𗂧	NOUN	_	_	7	obl	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+5	𗼮	𗼮	NOUN	_	_	7	nsubj	_	Gloss=rain|LTranslit=dzuh²|SpaceAfter=No
+6	𗱢	𗱢	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+7	𗆐	𗆐	VERB	_	_	14	advcl	_	Gloss=arrive, come|LTranslit=lleh²|SpaceAfter=No
+8	𗝚	𗝚	NOUN	_	_	14	nsubj	_	Gloss=firewood, faggot|LTranslit=sə¹|SpaceAfter=No
+9	𗉝	𗉝	NOUN	_	_	8	conj	_	Gloss=straw, grass|LTranslit=śih²|SpaceAfter=No
+10	𘋠	𘋠	NOUN	_	_	9	nmod	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+11	𘕾	𘕾	ADJ	_	_	9	amod	_	Gloss=all kinds of, a variety of|LTranslit=rner²|SpaceAfter=No
+12	𗤻	𗤻	NOUN	_	_	14	obj	_	Gloss=flower, blossom|LTranslit=vah¹|SpaceAfter=No
+13	𗞞	𗞞	AUX	_	_	14	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+14	𘕖	𘕖	VERB	_	_	0	root	_	Gloss=send, dispatch|LTranslit=veh²
+
+# sent_id = monthly_pleasures_05_II.s02.c01
+# text = 𗦎𗇋𘙇𘞓𗓏𘙌𗡹
+# section = 5月 · B / II · 小节 2
+# text_zh = 流 · 〔……者〕 · 〔趋向未详〕 · 去 · 看 · 〔向此〕 · 爱
+# text_en = The travellers go on, looking about them and delighting in what they see.
+# reference_zh = 来往行人观不足。
+# text_ja = 流者は往き、覧て愛する
+# nishida_page = 52
+1	𗦎	𗦎	VERB	_	_	2	compound	_	Gloss=flow|LTranslit=ra̱r²|SpaceAfter=No
+2	𗇋	𗇋	PRON	_	_	4	nsubj	_	Gloss=S/A nominalizer, usually human; -er; the one/those who ...; s/he who ...|LTranslit=rmer²|SpaceAfter=No
+3	𘙇	𘙇	ADV	_	_	4	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
+4	𘞓	𘞓	VERB	_	_	7	advcl	_	Gloss=go|LTranslit=ve¹|SpaceAfter=No
+5	𗓏	𗓏	VERB	_	_	7	advcl	_	Gloss=look at, see|LTranslit=dźji|SpaceAfter=No
+6	𘙌	𘙌	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kə¹|SpaceAfter=No
+7	𗡹	𗡹	VERB	_	_	0	root	_	Gloss=affection, love|LTranslit=rqo̱ṃr²
+
+# sent_id = monthly_pleasures_05_II.s03.c01
+# text = 𗼻𗹭𘔚𗉝𗡗𗔀𘂴𗋚𗍊𘎣𗱢𗅆
+# section = 5月 · B / II · 小节 3
+# text_zh = 地 · 高 · 红 · 秆 · 鸡 · 父 · 尾 · 〔向外〕 · 如 · 曲 · 〔向下〕 · 定
+# text_en = On the high ground the red grass bends like a rooster's tail and holds still.
+# reference_zh = 高坡红草弯弯不动如雉尾，
+# text_ja = 高地の紅草は、おん鶏の尻尾の如く、曲って定まる
+# nishida_page = 52
+1	𗼻	𗼻	NOUN	_	_	12	obl	_	Gloss=land, soil|LTranslit=lləh²|SpaceAfter=No
+2	𗹭	𗹭	ADJ	_	_	1	amod	_	Gloss=tall|LTranslit=be²|SpaceAfter=No
+3	𘔚	𘔚	ADJ	_	_	4	amod	_	Gloss=red|LTranslit=ne¹|SpaceAfter=No
+4	𗉝	𗉝	NOUN	_	_	12	nsubj	_	Gloss=straw, grass|LTranslit=śih²|SpaceAfter=No
+5	𗡗	𗡗	NOUN	_	_	7	nmod	_	Gloss=chicken|LTranslit=ryawr²|SpaceAfter=No
+6	𗔀	𗔀	NOUN	_	_	5	compound	_	Gloss=father|LTranslit=va¹|SpaceAfter=No
+7	𘂴	𘂴	NOUN	_	_	10	obl	_	Gloss=tail, end|LTranslit=mme¹|SpaceAfter=No
+8	𗋚	𗋚	AUX	_	_	10	aux	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=və²|SpaceAfter=No
+9	𗍊	𗍊	ADP	_	_	7	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
+10	𘎣	𘎣	ADJ	_	_	12	advcl	_	Gloss=winding, bent|LTranslit=khwə¹|SpaceAfter=No
+11	𗱢	𗱢	AUX	_	_	12	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+12	𗅆	𗅆	ADJ	_	_	0	root	_	Gloss=calm|LTranslit=deṃ²
+
+# sent_id = monthly_pleasures_05_II.s04.c01
+# text = 𘀔𗺦𗥦𗰞𗸺𘂯𗵡
+# section = 5月 · B / II · 小节 4
+# text_zh = 蒲 · 芦 · 头 · 黑 · 毡 · 〔姓氏：mao〕 · 戴
+# text_en = The Black Heads wear cattails and reeds on their felt hats.
+# reference_zh = 蒲苇黑头戴帽冠。
+# text_ja = 蒲蘆を、黒頭の氈帽に戴く
+# nishida_page = 53
+1	𘀔	𘀔	NOUN	_	_	7	obj	_	Gloss=cattail|LTranslit=phu̱¹|SpaceAfter=No
+2	𗺦	𗺦	NOUN	_	_	1	conj	_	Gloss=reed|LTranslit=ru̱r¹|SpaceAfter=No
+3	𗥦	𗥦	NOUN	_	_	6	nmod	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+4	𗰞	𗰞	ADJ	_	_	3	amod	_	Gloss=dark; black|LTranslit=naw¹|SpaceAfter=No
+5	𗸺	𗸺	NOUN	_	_	6	nmod	_	Gloss=blanket|LTranslit=swə²|SpaceAfter=No
+6	𘂯	𘂯	PROPN	_	_	7	obl	_	Gloss=surname - mao|LTranslit=mbo̱²|SpaceAfter=No
+7	𗵡	𗵡	VERB	_	_	0	root	_	Gloss=wear|LTranslit=tṣae̱²
+
+# sent_id = monthly_pleasures_05_II.s05.c01
+# text = 𗆎𗻵𗂽𗻵𗥦𗜈𗜈
+# section = 5月 · B / II · 小节 5
+# text_zh = 羊 · 葱 · 羊 · 葱 · 头 · 持 · 持
+# text_en = Sheep onion beside sheep onion, their heads hold one another.
+# reference_zh = 羊儿食草头杂错，
+# text_ja = 羊葱、羊葱は頭を相互に受ける
+# nishida_page = 53
+1	𗆎	𗆎	NOUN	_	_	2	nmod	_	Gloss=sheep|LTranslit=tshe²|SpaceAfter=No
+2	𗻵	𗻵	NOUN	_	_	7	nsubj	_	Gloss=onion|LTranslit=kuh¹|SpaceAfter=No
+3	𗂽	𗂽	NOUN	_	_	4	nmod	_	Gloss=sheep|LTranslit=ye²|SpaceAfter=No
+4	𗻵	𗻵	NOUN	_	_	2	conj	_	Gloss=onion|LTranslit=kuh¹|SpaceAfter=No
+5	𗥦	𗥦	NOUN	_	_	7	obj	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+6	𗜈	𗜈	VERB	_	_	7	compound	_	Gloss=hold, grasp; (Kepping) to follow, to go|LTranslit=zo̱ṃ²|SpaceAfter=No
+7	𗜈	𗜈	VERB	_	_	0	root	_	Gloss=hold, grasp; (Kepping) to follow, to go|LTranslit=zo̱ṃ²
+
+# sent_id = monthly_pleasures_05_II.s06.c01
+# text = 𗀋𘜶𗭊𗦎𗛎𗭊𗩚
+# section = 5月 · B / II · 小节 6
+# text_zh = 蛇 · 大 · 〔愿望·向上〕 · 流 · 厩 · 〔愿望·向上〕 · 在
+# text_en = The great snake would glide along and longs to stay in the cattle shed.
+# reference_zh = 大蛇缓行现草丛。
+# text_ja = 大蛇は流れんとし、畜舎に居るを望む
+# nishida_page = 53
+1	𗀋	𗀋	NOUN	_	_	4	nsubj	_	Gloss=snake|LTranslit=phao̱²|SpaceAfter=No
+2	𘜶	𘜶	ADJ	_	_	1	amod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
+3	𗭊	𗭊	AUX	_	_	4	aux	_	Gloss=verb prefix optative marker - upward|LTranslit=ye¹|SpaceAfter=No
+4	𗦎	𗦎	VERB	_	_	7	advcl	_	Gloss=flow|LTranslit=ra̱r²|SpaceAfter=No
+5	𗛎	𗛎	NOUN	_	_	7	obl	_	Gloss=stable|LTranslit=dzo²|SpaceAfter=No
+6	𗭊	𗭊	AUX	_	_	7	aux	_	Gloss=verb prefix optative marker - upward|LTranslit=ye¹|SpaceAfter=No
+7	𗩚	𗩚	VERB	_	_	0	root	_	Gloss=exist|LTranslit=du̱¹
+
+# sent_id = monthly_pleasures_05_II.s07.c01
+# text = 𗡸𗪐𗚚𗉖𗾓𘆂𗱆𗣞𘞂𘘝𘃡𗫶
+# section = 5月 · B / II · 小节 7
+# text_zh = 儿媳 · 〔后缀〕 · 腕 · 小 · 午 · 午 · 牛 · 挤奶 · 习 · 教 · 作 · 〔现在标记／但〕
+# text_en = At noon, men and women with slender wrists teach and learn to milk cattle.
+# reference_zh = 男女妙手正午依法制乳酪。
+# text_ja = 男女の細腕は、卓午、牛の乳しぼりを教え習う
+# nishida_page = 54
+1	𗡸	𗡸	NOUN	_	_	2	compound	_	Gloss=son's wife; woman|LTranslit=si²|SpaceAfter=No
+2	𗪐	𗪐	PART	_	_	3	fixed	_	Gloss=suffix|LTranslit=qae̱²|SpaceAfter=No
+3	𗚚	𗚚	NOUN	_	_	11	nsubj	_	Gloss=wrist|LTranslit=zi̱w²|SpaceAfter=No
+4	𗉖	𗉖	ADJ	_	_	3	amod	_	Gloss=small, thin|LTranslit=tsheṃ¹|SpaceAfter=No
+5	𗾓	𗾓	NOUN	_	_	6	compound	_	Gloss=noon, midday|LTranslit=lə¹|SpaceAfter=No
+6	𘆂	𘆂	NOUN	_	_	11	obl	_	Gloss=noon|LTranslit=le²|SpaceAfter=No
+7	𗱆	𗱆	NOUN	_	_	8	obj	_	Gloss=cattle|LTranslit=ŋwi̱²|SpaceAfter=No
+8	𗣞	𗣞	VERB	_	_	10	ccomp	_	Gloss=milk (a cow, etc.)|LTranslit=rtswə̱r¹|SpaceAfter=No
+9	𘞂	𘞂	VERB	_	_	10	compound	_	Gloss=practise, exercise, review|LTranslit=ndzə²|SpaceAfter=No
+10	𘘝	𘘝	VERB	_	_	11	xcomp	_	Gloss=teach, instruct|LTranslit=ndze²|SpaceAfter=No
+11	𘃡	𘃡	VERB	_	_	0	root	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
+12	𗫶	𗫶	PART	_	_	11	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²
+
+# sent_id = monthly_pleasures_06_I.s01.c01
+# text = 𘀐𘍼𘘞𗳝𘖚𗘚𗺓𗺓𗺕𗩨𗥔
+# section = 6月 · A / I · 小节 1
+# text_zh = 六 · 六 · 月 · 月 · 泽 · 深绿 · 续 · 续 · 草 · 色 · 有
+# text_en = In the sixth month, green marshland stretches on and on, and the grasses take on colour.
+# reference_zh = 六月里沼泽苍翠野菜多，
+# text_ja = 第六の月、沢は青く、相続き、草は色を持つ
+# nishida_page = 55
+1	𘀐	𘀐	NUM	_	_	2	compound	_	Gloss=six|LTranslit=źiw¹|SpaceAfter=No
+2	𘍼	𘍼	NUM	_	_	4	nummod	_	Gloss=six|LTranslit=vwi̱¹|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	11	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𘖚	𘖚	NOUN	_	_	6	nsubj	_	Gloss=marsh, swamp, bog|LTranslit=no̱²|SpaceAfter=No
+6	𗘚	𗘚	ADJ	_	_	11	advcl	_	Gloss=dark green|LTranslit=tshwu¹|SpaceAfter=No
+7	𗺓	𗺓	VERB	_	_	8	compound	_	Gloss=continue|LTranslit=twi̱h²|SpaceAfter=No
+8	𗺓	𗺓	VERB	_	_	11	advcl	_	Gloss=continue|LTranslit=twi̱h²|SpaceAfter=No
+9	𗺕	𗺕	NOUN	_	_	11	nsubj	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+10	𗩨	𗩨	NOUN	_	_	11	obj	_	Gloss=colour|LTranslit=tsə̱h¹|SpaceAfter=No
+11	𗥔	𗥔	VERB	_	_	0	root	_	Gloss=have, exist|LTranslit=nlhi̱w²
+
+# sent_id = monthly_pleasures_06_I.s02.c01
+# text = 𘙬𘊏𘝀𘙬𘊏𗑲𗫶𗊪𗲋𘋀
+# section = 6月 · A / I · 小节 2
+# text_zh = 虫 · 虫 · 飞 · 虫 · 虫 · 说 · 〔现在标记／但〕 · 国 · 欢乐 · 欢乐
+# text_en = Insects fly and insects call, and the realm is at peace.
+# reference_zh = 虫飞蝶舞大雁鸣叫国安乐。
+# text_ja = 昆虫は飛び、昆虫は語り、国は安楽
+# nishida_page = 55
+1	𘙬	𘙬	NOUN	_	_	2	compound	_	Gloss=insect, worm|LTranslit=to̱ṃ¹|SpaceAfter=No
+2	𘊏	𘊏	NOUN	_	_	3	nsubj	_	Gloss=insect, worm|LTranslit=ke¹|SpaceAfter=No
+3	𘝀	𘝀	VERB	_	_	10	advcl	_	Gloss=fly|LTranslit=mphi¹|SpaceAfter=No
+4	𘙬	𘙬	NOUN	_	_	5	compound	_	Gloss=insect, worm|LTranslit=to̱ṃ¹|SpaceAfter=No
+5	𘊏	𘊏	NOUN	_	_	6	nsubj	_	Gloss=insect, worm|LTranslit=ke¹|SpaceAfter=No
+6	𗑲	𗑲	VERB	_	_	10	advcl	_	Gloss=speak, say|LTranslit=ntśhiw¹|SpaceAfter=No
+7	𗫶	𗫶	PART	_	_	6	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+8	𗊪	𗊪	NOUN	_	_	10	nsubj	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+9	𗲋	𗲋	ADJ	_	_	10	compound	_	Gloss=happy, gay|LTranslit=llu̱h¹|SpaceAfter=No
+10	𘋀	𘋀	ADJ	_	_	0	root	_	Gloss=happy, gay|LTranslit=rgur²
+
+# sent_id = monthly_pleasures_06_I.s03.c01
+# text = 𘟪𗍅𗑛𗄠𗏵𗱃𘛂
+# section = 6月 · A / I · 小节 3
+# text_zh = 铁 · 工匠 · 南 · 引 · 端 · 东 · 去
+# text_en = The ironworker goes eastward through the southern territory.
+# reference_zh = 铁匠需材东南走，
+# text_ja = 鉄匠は、南領東方に逝き
+# nishida_page = 55
+1	𘟪	𘟪	NOUN	_	_	2	nmod	_	Gloss=iron (Fe)|LTranslit=śoṃ¹|SpaceAfter=No
+2	𗍅	𗍅	NOUN	_	_	7	nsubj	_	Gloss=worker|LTranslit=rkər¹|SpaceAfter=No
+3	𗑛	𗑛	NOUN	_	_	4	nmod	_	Gloss=south|LTranslit=rzər¹|SpaceAfter=No
+4	𗄠	𗄠	NOUN	_	_	7	obl	_	Gloss=lead|LTranslit=ŋwu̱²|SpaceAfter=No
+5	𗏵	𗏵	NOUN	_	_	6	compound	_	Gloss=end, tip|LTranslit=ma¹|SpaceAfter=No
+6	𗱃	𗱃	NOUN	_	_	4	conj	_	Gloss=east, end|LTranslit=thə¹|SpaceAfter=No
+7	𘛂	𘛂	VERB	_	_	0	root	_	Gloss=post, go|LTranslit=mbe²
+
+# sent_id = monthly_pleasures_06_I.s04.c01
+# text = 𗻭𗘍𘛔𗿀𗭭𘁯𗽿
+# section = 6月 · A / I · 小节 4
+# text_zh = 草 · 青 · 放牧 · 地 · 〔义未详〕 · 爪 · 尖
+# text_en = Grazing on green grass: the fine claws of the broken earth.
+# reference_zh = 草场放牧沙碛行。
+# text_ja = 青草に放牧する、砕土の細爪
+# nishida_page = 55
+1	𗻭	𗻭	NOUN	_	_	3	obl	_	Gloss=grass|LTranslit=.a|SpaceAfter=No
+2	𗘍	𗘍	ADJ	_	_	1	amod	_	Gloss=green; blue; dark|LTranslit=rŋwə̱r¹|SpaceAfter=No
+3	𘛔	𘛔	VERB	_	_	7	acl	_	Gloss=herd, tend|LTranslit=nwə̱²|SpaceAfter=No
+4	𗿀	𗿀	NOUN	_	_	5	nmod	_	Gloss=land, soil|LTranslit=rtsi̱r¹|SpaceAfter=No
+5	𗭭	𗭭	NOUN	_	_	6	nmod	_	Gloss=unknown|LTranslit=dəh¹|SpaceAfter=No
+6	𘁯	𘁯	NOUN	_	_	7	nsubj	_	Gloss=claw, talon, finger|LTranslit=dzih¹|SpaceAfter=No
+7	𗽿	𗽿	ADJ	_	_	0	root	_	Gloss=point, tip, top|LTranslit=dzu̱²
+
+# sent_id = monthly_pleasures_06_I.s05.c01
+# text = 𗬖𗼀𘛂𗈪𗘌𗅋𘜶𘖑𘋲𗭻𗉫𗤶𘟛
+# section = 6月 · A / I · 小节 5
+# text_zh = 兽 · 兽 · 去 · 〔向上〕 · 送 · 不 · 大 · 不 · 戏 · 等 · 游乐 · 心 · 智
+# text_en = Wild beasts go forth. Their guide is small and waits without playing, yet the playful heart is wise.
+# reference_zh = 野兽出行引领小兽慧心待其戏，
+# text_ja = 野獣が逝き、引導者は不大、戯れず待つ、戯心は慧し
+# nishida_page = 56
+1	𗬖	𗬖	NOUN	_	_	2	compound	_	Gloss=beast, animal|LTranslit=vwi̱²|SpaceAfter=No
+2	𗼀	𗼀	NOUN	_	_	3	nsubj	_	Gloss=beast, animal|LTranslit=gwi²|SpaceAfter=No
+3	𘛂	𘛂	VERB	_	_	13	advcl	_	Gloss=post, go|LTranslit=mbe²|SpaceAfter=No
+4	𗈪	𗈪	AUX	_	_	5	aux	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
+5	𗘌	𗘌	VERB	_	_	7	nsubj	_	Gloss=send|LTranslit=śwoṃ¹|SpaceAfter=No
+6	𗅋	𗅋	PART	_	_	7	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+7	𘜶	𘜶	ADJ	_	_	13	advcl	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
+8	𘖑	𘖑	DET	_	_	9	advmod	_	Gloss=no, not; no need|LTranslit=mə¹|SpaceAfter=No
+9	𘋲	𘋲	VERB	_	_	10	advcl	_	Gloss=play, sport|LTranslit=lu̱¹|SpaceAfter=No
+10	𗭻	𗭻	VERB	_	_	13	advcl	_	Gloss=wait, await|LTranslit=nlle²|SpaceAfter=No
+11	𗉫	𗉫	NOUN	_	_	12	nmod	_	Gloss=recreation, game|LTranslit=ŋqhe̱¹|SpaceAfter=No
+12	𗤶	𗤶	NOUN	_	_	13	nsubj	_	Gloss=heart, mind|LTranslit=nne¹|SpaceAfter=No
+13	𘟛	𘟛	ADJ	_	_	0	root	_	Gloss=wisdom, intelligent|LTranslit=rźər¹
+
+# sent_id = monthly_pleasures_06_I.s06.c01
+# text = 𗆃𘁻𘙬𘊏𗳖𗪍𘝀
+# section = 6月 · A / I · 小节 6
+# text_zh = 纬线 · 绯红 · 虫 · 虫 · 鹫 · 鹫 · 飞
+# text_en = Insects of crimson thread; the great birds of prey spread their wings.
+# reference_zh = 红锦蝴蝶鹰展翅，
+# text_ja = 赤絲の昆虫、鷲鵬は翼をひろげ
+# nishida_page = 56
+1	𗆃	𗆃	NOUN	_	_	4	nmod	_	Gloss=weft|LTranslit=pu̱h²|SpaceAfter=No
+2	𘁻	𘁻	ADJ	_	_	1	amod	_	Gloss=crimson|LTranslit=nśi²|SpaceAfter=No
+3	𘙬	𘙬	NOUN	_	_	4	compound	_	Gloss=insect, worm|LTranslit=to̱ṃ¹|SpaceAfter=No
+4	𘊏	𘊏	NOUN	_	_	7	nsubj	_	Gloss=insect, worm|LTranslit=ke¹|SpaceAfter=No
+5	𗳖	𗳖	NOUN	_	_	6	compound	_	Gloss=vulture|LTranslit=ŋwu̱²|SpaceAfter=No
+6	𗪍	𗪍	NOUN	_	_	4	conj	_	Gloss=vulture|LTranslit=mə̱¹|SpaceAfter=No
+7	𘝀	𘝀	VERB	_	_	0	root	_	Gloss=fly|LTranslit=mphi¹
+
+# sent_id = monthly_pleasures_06_I.s07.c01
+# text = 𘜍𗱨𗭞𗓓𗍫𗏁𗳇𗅉𗤓𘍂𘆩
+# section = 6月 · A / I · 小节 7
+# text_zh = 日 · 卧具 · 步 · 去 · 二 · 五 · 丘 · 〔连接／后〕 · 美 · 羊 · 粉
+# text_en = The sun sinks and goes on its way; behind twice five hills lies beautiful sheep's wool.
+# reference_zh = 阳光灿烂遍布十丘似锦毡。
+# text_ja = 日が没み歩を進める、二五（＝十）の丘をうしろに美しい羊の毛
+# nishida_page = 57
+1	𘜍	𘜍	NOUN	_	_	2	nsubj	_	Gloss=day|LTranslit=ryawr²|SpaceAfter=No
+2	𗱨	𗱨	VERB	_	_	11	advcl	_	Gloss=bedding (provided on a train or ship)|LTranslit=nllu²|SpaceAfter=No
+3	𗭞	𗭞	NOUN	_	_	4	obj	_	Gloss=step, pace|LTranslit=bi²|SpaceAfter=No
+4	𗓓	𗓓	VERB	_	_	11	advcl	_	Gloss=go|LTranslit=tśhe¹|SpaceAfter=No
+5	𗍫	𗍫	NUM	_	_	6	compound	_	Gloss=two|LTranslit=nnə¹|SpaceAfter=No
+6	𗏁	𗏁	NUM	_	_	7	nummod	_	Gloss=five|LTranslit=ŋwə̱¹|SpaceAfter=No
+7	𗳇	𗳇	NOUN	_	_	11	obl	_	Gloss=mound, mausoleum|LTranslit=dzuh²|SpaceAfter=No
+8	𗅉	𗅉	ADP	_	_	7	case	_	Gloss=conjunction; behind|LTranslit=nuo¹|SpaceAfter=No
+9	𗤓	𗤓	ADJ	_	_	11	amod	_	Gloss=beautiful, wonderful|LTranslit=ntho¹|SpaceAfter=No
+10	𘍂	𘍂	NOUN	_	_	11	nmod	_	Gloss=sheep|LTranslit=mo²|SpaceAfter=No
+11	𘆩	𘆩	NOUN	_	_	0	root	_	Gloss=powder|LTranslit=mi̱h²
+
+# sent_id = monthly_pleasures_06_II.s01.c01
+# text = 𗤁𗼑𗅁𗽓𗘍𗍎𗄱𗒞𗤻𗫔
+# section = 6月 · B / II · 小节 1
+# text_zh = 六 · 月 · 内 · 泽 · 青 · 绿 · 绿 · 菜 · 花 · 多
+# text_en = In the sixth month the marsh is deep green, and the greens bear [something unidentified] in abundance.
+# reference_zh = 六月里沼泽苍翠野菜多，
+# text_ja = 六月中、沼は青く蒼玄にて、菜は□をもつ
+# nishida_page = 55
+1	𗤁	𗤁	NUM	_	_	2	nummod	_	Gloss=six|LTranslit=tśhiw¹|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	10	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗅁	𗅁	ADP	_	_	2	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+4	𗽓	𗽓	NOUN	_	_	5	nsubj	_	Gloss=marsh|LTranslit=ri̱wr¹|SpaceAfter=No
+5	𗘍	𗘍	ADJ	_	_	10	advcl	_	Gloss=green; blue; dark|LTranslit=rŋwə̱r¹|SpaceAfter=No
+6	𗍎	𗍎	ADJ	_	_	7	compound	_	Gloss=green|LTranslit=pa¹|SpaceAfter=No
+7	𗄱	𗄱	ADJ	_	_	5	conj	_	Gloss=green, black|LTranslit=pe¹|SpaceAfter=No
+8	𗒞	𗒞	NOUN	_	_	10	nsubj	_	Gloss=vegetable, greens|LTranslit=nna̱²|SpaceAfter=No
+9	𗤻	𗤻	NOUN	_	_	10	obj	_	Gloss=flower, blossom|LTranslit=vah¹|SpaceAfter=No
+10	𗫔	𗫔	ADJ	_	_	0	root	_	Gloss=many, numerous|LTranslit=yi¹
+
+# sent_id = monthly_pleasures_06_II.s02.c01
+# text = 𗍘𗉌𗿼𗫶𗿇𘙬𗠜𗠜𗂧𗱢𗴴
+# section = 6月 · B / II · 小节 2
+# text_zh = 蝶 · 蝶 · 鸟 · 〔现在标记／但〕 · 野鸭 · 虫 · 喊 · 喊 · 国 · 〔向下〕 · 安乐
+# text_en = Butterflies fly, [birds whose name is unclear] call to one another, and the realm rejoices.
+# reference_zh = 虫飞蝶舞大雁鸣叫国安乐。
+# text_ja = 蝴蝶は飛び、〔鳥名二字判読保留〕は鳴き合い、国は楽しい
+# nishida_page = 55
+# analysis_note = 日译所记鸟名有两个字未能辨清；不影响鸣叫谓语的主语位置。
+1	𗍘	𗍘	NOUN	_	_	2	compound	_	Gloss=butterfly|LTranslit=pa¹|SpaceAfter=No
+2	𗉌	𗉌	NOUN	_	_	3	nsubj	_	Gloss=butterfly|LTranslit=pu²|SpaceAfter=No
+3	𗿼	𗿼	VERB	_	_	11	advcl	_	Gloss=bird|LTranslit=dźwoṃ¹|SpaceAfter=No
+4	𗫶	𗫶	PART	_	_	3	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+5	𗿇	𗿇	NOUN	_	_	6	compound	_	Gloss=wild duck|LTranslit=rkiwr¹|SpaceAfter=No
+6	𘙬	𘙬	NOUN	_	_	8	nsubj	_	Gloss=insect, worm|LTranslit=to̱ṃ¹|SpaceAfter=No
+7	𗠜	𗠜	VERB	_	_	8	compound	_	Gloss=shout, cry|LTranslit=bi²|SpaceAfter=No
+8	𗠜	𗠜	VERB	_	_	11	advcl	_	Gloss=shout, cry|LTranslit=bi²|SpaceAfter=No
+9	𗂧	𗂧	NOUN	_	_	11	nsubj	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+10	𗱢	𗱢	AUX	_	_	11	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+11	𗴴	𗴴	ADJ	_	_	0	root	_	Gloss=peace and happiness|LTranslit=re̱r²
+
+# sent_id = monthly_pleasures_06_II.s03.c01
+# text = 𘍯𗉅𘔚𗅹𘂴𘙇𗆐
+# section = 6月 · B / II · 小节 3
+# text_zh = 姨 · 暖 · 红 · 东 · 尾 · 〔趋向未详〕 · 到
+# text_en = Red, warm material comes from the east.
+# reference_zh = 铁匠需材东南走，
+# text_ja = 紅い熱材は、東方より来る
+# nishida_page = 55
+1	𘍯	𘍯	NOUN	_	_	7	nsubj	_	Gloss=aunt|LTranslit=swi²|SpaceAfter=No
+2	𗉅	𗉅	ADJ	_	_	1	amod	_	Gloss=warm|LTranslit=tsa¹|SpaceAfter=No
+3	𘔚	𘔚	ADJ	_	_	1	amod	_	Gloss=red|LTranslit=ne¹|SpaceAfter=No
+4	𗅹	𗅹	NOUN	_	_	7	obl	_	Gloss=east, tail|LTranslit=ya¹|SpaceAfter=No
+5	𘂴	𘂴	ADP	_	_	4	case	_	Gloss=tail, end|LTranslit=mme¹|SpaceAfter=No
+6	𘙇	𘙇	ADV	_	_	7	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
+7	𗆐	𗆐	VERB	_	_	0	root	_	Gloss=arrive, come|LTranslit=lleh²
+
+# sent_id = monthly_pleasures_06_II.s04.c01
+# text = 𗴲𗕶𘌅𘔏𘔚𘄁𘊒
+# section = 6月 · B / II · 小节 4
+# text_zh = 夏 · 狂 · 广 · 沙 · 红 · 食虫似鼠之兽 · 蜣螂
+# text_en = Loosed in the frenzy of summer: the desert's [unidentified creatures].
+# reference_zh = 草场放牧沙碛行。
+# text_ja = 夏狂に解く　砂漠の□□
+# nishida_page = 56
+1	𗴲	𗴲	NOUN	_	_	2	nmod	_	Gloss=summer|LTranslit=dźwe²|SpaceAfter=No
+2	𗕶	𗕶	ADJ	_	_	3	obl	_	Gloss=mad, crazy|LTranslit=ġha̱h²|SpaceAfter=No
+3	𘌅	𘌅	ADJ	_	_	7	acl	_	Gloss=extensive, wide, vast|LTranslit=ze¹|SpaceAfter=No
+4	𘔏	𘔏	NOUN	_	_	5	nmod	_	Gloss=sand; grit|LTranslit=bi̱h¹|SpaceAfter=No
+5	𘔚	𘔚	ADJ	_	_	7	nmod	_	Gloss=red|LTranslit=ne¹|SpaceAfter=No
+6	𘄁	𘄁	NOUN	_	_	7	compound	_	Gloss=an animal like a mouse that eats insects|LTranslit=kə¹|SpaceAfter=No
+7	𘊒	𘊒	NOUN	_	_	0	root	_	Gloss=dung beetle|LTranslit=koṃ¹
+
+# sent_id = monthly_pleasures_06_II.s05.c01
+# text = 𘖂𗳵𘃡𗫶𗥦𗣽𘂎𗛵𗈪𘖑𗟃𗰘𗧓𘘣
+# section = 6月 · B / II · 小节 5
+# text_zh = 獐 · 速度 · 作 · 〔现在标记／但〕 · 头 · 爱 · 小 · 小 · 〔向上〕 · 不 · 戏 · 游乐 · 我 · 说
+# text_en = The river deer races along. The guide is small. “I play without tumbling,” I say.
+# reference_zh = 野兽出行引领小兽慧心待其戏，
+# text_ja = 麞が馳け、引導者は細かく、転がらず我は遊ぶと謂う
+# nishida_page = 56
+1	𘖂	𘖂	NOUN	_	_	3	nsubj	_	Gloss=river deer|LTranslit=rŋi̱wr²|SpaceAfter=No
+2	𗳵	𗳵	VERB	_	_	3	obj	_	Gloss=speed, gallop|LTranslit=ndzwə¹|SpaceAfter=No
+3	𘃡	𘃡	VERB	_	_	14	advcl	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
+4	𗫶	𗫶	PART	_	_	3	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+5	𗥦	𗥦	NOUN	_	_	6	compound	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+6	𗣽	𗣽	VERB	_	_	8	nsubj	_	Gloss=love|LTranslit=li²|SpaceAfter=No
+7	𘂎	𘂎	ADP	_	_	8	compound	_	Gloss=small, little, petty; indicator of materials and instruments|LTranslit=la̱¹|SpaceAfter=No
+8	𗛵	𗛵	ADJ	_	_	14	advcl	_	Gloss=small, little|LTranslit=la̱²|SpaceAfter=No
+9	𗈪	𗈪	AUX	_	_	11	aux	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
+10	𘖑	𘖑	DET	_	_	11	advmod	_	Gloss=no, not; no need|LTranslit=mə¹|SpaceAfter=No
+11	𗟃	𗟃	VERB	_	_	14	advcl	_	Gloss=play, have fun|LTranslit=ghiw²|SpaceAfter=No
+12	𗰘	𗰘	NOUN	_	_	14	obj	_	Gloss=recreation, game|LTranslit=wu̱²|SpaceAfter=No
+13	𗧓	𗧓	PRON	_	_	14	nsubj	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
+14	𘘣	𘘣	VERB	_	_	0	root	_	Gloss=say; to call|LTranslit=yə²
+
+# sent_id = monthly_pleasures_06_II.s06.c01
+# text = 𗬻𘔚𗍘𗉌𘓸𗿼𘃡𗫶
+# section = 6月 · B / II · 小节 6
+# text_zh = 锦 · 红 · 蝶 · 蝶 · 鹫 · 鸟 · 作 · 〔现在标记／但〕
+# text_en = Butterflies of red brocade and eagles in flight.
+# reference_zh = 红锦蝴蝶鹰展翅，
+# text_ja = 紅錦の蝴蝶、鷲は飛ぶ
+# nishida_page = 56
+1	𗬻	𗬻	NOUN	_	_	4	nmod	_	Gloss=brocade|LTranslit=rkor¹|SpaceAfter=No
+2	𘔚	𘔚	ADJ	_	_	1	amod	_	Gloss=red|LTranslit=ne¹|SpaceAfter=No
+3	𗍘	𗍘	NOUN	_	_	4	compound	_	Gloss=butterfly|LTranslit=pa¹|SpaceAfter=No
+4	𗉌	𗉌	NOUN	_	_	7	nsubj	_	Gloss=butterfly|LTranslit=pu²|SpaceAfter=No
+5	𘓸	𘓸	NOUN	_	_	4	conj	_	Gloss=vulture|LTranslit=rghər¹|SpaceAfter=No
+6	𗿼	𗿼	VERB	_	_	7	xcomp	_	Gloss=bird|LTranslit=dźwoṃ¹|SpaceAfter=No
+7	𘃡	𘃡	VERB	_	_	0	root	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
+8	𗫶	𗫶	PART	_	_	7	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²
+
+# sent_id = monthly_pleasures_06_II.s07.c01
+# text = 𗾔𗾾𘉍𗰭𗳿𗱢𘌷𗬻𗶤𗍊
+# section = 6月 · B / II · 小节 7
+# text_zh = 日 · 斗 · 光 · 十 · 隘口／玷污 · 〔向下〕 · 越过 · 锦 · 毡 · 如
+# text_en = In the sunlight, the shape crossing ten hills looks like brocaded felt.
+# reference_zh = 阳光灿烂遍布十丘似锦毡。
+# text_ja = 太陽の光（のもと）、十の丘を渡る（姿）は、錦の毛氈のよう
+# nishida_page = 57
+1	𗾔	𗾔	NOUN	_	_	3	nmod	_	Gloss=sun|LTranslit=bi̱²|SpaceAfter=No
+2	𗾾	𗾾	VERB	_	_	3	compound	_	Gloss=fight, battle|LTranslit=rir²|SpaceAfter=No
+3	𘉍	𘉍	NOUN	_	_	7	obl	_	Gloss=light, ray|LTranslit=bi¹|SpaceAfter=No
+4	𗰭	𗰭	NUM	_	_	5	nummod	_	Gloss=ten|LTranslit=śa¹|SpaceAfter=No
+5	𗳿	𗳿	ADJ	_	_	7	obj	_	Gloss=defile|LTranslit=qa̱²|SpaceAfter=No
+6	𗱢	𗱢	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+7	𘌷	𘌷	VERB	_	_	0	root	_	Gloss=across, come|LTranslit=nllu¹|SpaceAfter=No
+8	𗬻	𗬻	NOUN	_	_	9	nmod	_	Gloss=brocade|LTranslit=rkor¹|SpaceAfter=No
+9	𗶤	𗶤	NOUN	_	_	7	obl	_	Gloss=felt, rug|LTranslit=lu¹|SpaceAfter=No
+10	𗍊	𗍊	ADP	_	_	9	case	_	Gloss=as|LTranslit=su²
+
+# sent_id = monthly_pleasures_07_I.s01.c01
+# text = 𗘎𗘋𘘞𗳝𗵍𗘥𘌃𗧬𗰊𗁟𘙆𗊪𘋂𘒜
+# section = 7月 · A / I · 小节 1
+# text_zh = 七 · 七 · 月 · 月 · 混 · 杂 · 稻 · 长大 · 兽 · 宝 · 肥 · 国 · 宴 · 宴
+# text_en = In the seventh month the grains grow tall, the livestock grow fat, and the realm holds a feast.
+# reference_zh = 七月里百谷丰盈家畜肥大国开宴。
+# text_ja = 第七の月、種々の穀物は大きく、畜財は肥り、国は宴を開く
+# nishida_page = 57
+1	𗘎	𗘎	NUM	_	_	2	compound	_	Gloss=seven|LTranslit=rŋwə̱r¹|SpaceAfter=No
+2	𗘋	𗘋	NUM	_	_	4	nummod	_	Gloss=seven|LTranslit=qa̱h¹|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	14	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𗵍	𗵍	ADJ	_	_	6	compound	_	Gloss=mix|LTranslit=lluh²|SpaceAfter=No
+6	𗘥	𗘥	ADJ	_	_	7	amod	_	Gloss=miscellaneous, mixed|LTranslit=lhi̱w¹|SpaceAfter=No
+7	𘌃	𘌃	NOUN	_	_	8	nsubj	_	Gloss=rice, paddy|LTranslit=ri̱r²|SpaceAfter=No
+8	𗧬	𗧬	VERB	_	_	14	advcl	_	Gloss=grow up|LTranslit=tho̱ṃh²|SpaceAfter=No
+9	𗰊	𗰊	NOUN	_	_	10	nmod	_	Gloss=beast, animal|LTranslit=rtsa̱r¹|SpaceAfter=No
+10	𗁟	𗁟	NOUN	_	_	11	nsubj	_	Gloss=treasure|LTranslit=kuh¹|SpaceAfter=No
+11	𘙆	𘙆	ADJ	_	_	14	advcl	_	Gloss=fat, grease|LTranslit=vwaə̱¹|SpaceAfter=No
+12	𗊪	𗊪	NOUN	_	_	14	nsubj	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+13	𘋂	𘋂	NOUN	_	_	14	obj	_	Gloss=feast, banquet|LTranslit=phu¹|SpaceAfter=No
+14	𘒜	𘒜	VERB	_	_	0	root	_	Gloss=feast, banquet|LTranslit=the¹
+
+# sent_id = monthly_pleasures_07_I.s02.c01
+# text = 𗏂𗴵𗅋𗤢𗺕𗴵𗿐
+# section = 7月 · A / I · 小节 2
+# text_zh = 〔八卦之一〕 · 脑 · 不 · 下 · 草 · 脑 · 黄
+# text_en = The head of the wind is not bowed, and the tips of the grass are yellow.
+# reference_zh = 风吹草稍黄又低，
+# text_ja = 異の頭は低くなく、草の頭は黄色い
+# nishida_page = 58
+1	𗏂	𗏂	NOUN	_	_	2	nmod	_	Gloss=one of the Eight Diagrams|LTranslit=mi̱²|SpaceAfter=No
+2	𗴵	𗴵	NOUN	_	_	4	nsubj	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+3	𗅋	𗅋	PART	_	_	4	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+4	𗤢	𗤢	ADJ	_	_	7	advcl	_	Gloss=below, down, low|LTranslit=bi²|SpaceAfter=No
+5	𗺕	𗺕	NOUN	_	_	6	nmod	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+6	𗴵	𗴵	NOUN	_	_	7	nsubj	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+7	𗿐	𗿐	ADJ	_	_	0	root	_	Gloss=yellow|LTranslit=tświw²
+
+# sent_id = monthly_pleasures_07_I.s03.c01
+# text = 𗾔𘇂𗌜𘏫𘝁𘋳𗑲𗫶𘛮𗨜𗧥
+# section = 7月 · A / I · 小节 3
+# text_zh = 日 · 中 · 水 · 落 · 翼 · 衣 · 说 · 〔现在标记／但〕 · 欢快 · 寿 · 长
+# text_en = At midday water falls and the wing-clad creatures call. Long is a joyful life.
+# reference_zh = 正午雨降鹌鹑鸣叫乐其寿。
+# text_ja = 日中は坎が降り、翼衣は語る。楽しい寿命は長い
+# nishida_page = 58
+1	𗾔	𗾔	NOUN	_	_	4	obl	_	Gloss=sun|LTranslit=bi̱²|SpaceAfter=No
+2	𘇂	𘇂	ADP	_	_	1	case	_	Gloss=middle, among|LTranslit=ġu̱²|SpaceAfter=No
+3	𗌜	𗌜	NOUN	_	_	4	nsubj	_	Gloss=water, river|LTranslit=rnor¹|SpaceAfter=No
+4	𘏫	𘏫	VERB	_	_	11	advcl	_	Gloss=fall|LTranslit=haa̱²|SpaceAfter=No
+5	𘝁	𘝁	NOUN	_	_	6	compound	_	Gloss=wing|LTranslit=thə̱²|SpaceAfter=No
+6	𘋳	𘋳	NOUN	_	_	7	nsubj	_	Gloss=clothing, clothes, garment|LTranslit=gwi²|SpaceAfter=No
+7	𗑲	𗑲	VERB	_	_	11	advcl	_	Gloss=speak, say|LTranslit=ntśhiw¹|SpaceAfter=No
+8	𗫶	𗫶	PART	_	_	7	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+9	𘛮	𘛮	ADJ	_	_	10	amod	_	Gloss=happy, cheerful|LTranslit=khe²|SpaceAfter=No
+10	𗨜	𗨜	NOUN	_	_	11	nsubj	_	Gloss=longevity|LTranslit=dzi̱¹|SpaceAfter=No
+11	𗧥	𗧥	ADJ	_	_	0	root	_	Gloss=long|LTranslit=rzir²
+
+# sent_id = monthly_pleasures_07_I.s04.c01
+# text = 𘚜𗧻𗱺𘋗𘇀𗝠𘙮
+# section = 7月 · A / I · 小节 4
+# text_zh = 党项 · 〔姓氏〕 · 骏马 · 良马 · 车辕 · 树 · 白
+# text_en = The [unidentified] wood of the Tangut steed is white.
+# reference_zh = 番儿马配白木鞍，
+# text_ja = 西夏の駿馬の□木は、白く
+# nishida_page = 58
+1	𘚜	𘚜	NOUN	_	_	2	compound	_	Gloss=Tangut|LTranslit=lhweh¹|SpaceAfter=No
+2	𗧻	𗧻	PROPN	_	_	4	nmod	_	Gloss=surname|LTranslit=dźə¹|SpaceAfter=No
+3	𗱺	𗱺	NOUN	_	_	4	compound	_	Gloss=steed, fine horse|LTranslit=mme̱²|SpaceAfter=No
+4	𘋗	𘋗	NOUN	_	_	6	nmod	_	Gloss=fine horse, steed|LTranslit=dzu̱²|SpaceAfter=No
+5	𘇀	𘇀	NOUN	_	_	6	nmod	_	Gloss=shafts of cart or carriage|LTranslit=tśho²|SpaceAfter=No
+6	𗝠	𗝠	NOUN	_	_	7	nsubj	_	Gloss=tree|LTranslit=si¹|SpaceAfter=No
+7	𘙮	𘙮	ADJ	_	_	0	root	_	Gloss=white|LTranslit=li̱w²
+
+# sent_id = monthly_pleasures_07_I.s05.c01
+# text = 𗵊𗽸𘀭𘕲𗈪𘞗𗅲
+# section = 7月 · A / I · 小节 5
+# text_zh = 牛 · 表皮 · 真 · 系 · 一 · 种子 · 礼
+# text_en = Fastening treasure to oxhide is a customary practice.
+# reference_zh = 牛皮璎珞尽皆同。
+# text_ja = 牛の皮に宝を繋ぐは、一種の様（則）
+# nishida_page = 59
+1	𗵊	𗵊	NOUN	_	_	2	nmod	_	Gloss=ox|LTranslit=mmu²|SpaceAfter=No
+2	𗽸	𗽸	NOUN	_	_	4	obl	_	Gloss=epidermis, cuticle|LTranslit=nlhə¹|SpaceAfter=No
+3	𘀭	𘀭	ADJ	_	_	4	obj	_	Gloss=true|LTranslit=qwae̱²|SpaceAfter=No
+4	𘕲	𘕲	VERB	_	_	7	nsubj	_	Gloss=tie up, bind, bundle|LTranslit=qu̱h²|SpaceAfter=No
+5	𗈪	𗈪	NUM	_	_	6	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
+6	𘞗	𘞗	NOUN	_	_	7	nmod	_	Gloss=seed|LTranslit=swə¹|SpaceAfter=No
+7	𗅲	𗅲	NOUN	_	_	0	root	_	Gloss=ceremony|LTranslit=teṃh²
+
+# sent_id = monthly_pleasures_07_I.s06.c01
+# text = 𗵍𗘥𗊪𘕽𘞪𗨜𗸦𘗕𘆳𘌊𘙲
+# section = 7月 · A / I · 小节 6
+# text_zh = 混 · 杂 · 国 · 世 · 独 · 寿 · 人 · 居 · 驰 · 宽 · 长
+# text_en = Across the many lands a lone, long-lived man dwells; wide and long is the way he rides.
+# reference_zh = 诸部族人寿年丰驰路宽。
+# text_ja = 種々の国土に独り寿人が滞り、馳ける（ところ）は広く長い
+# nishida_page = 59
+1	𗵍	𗵍	ADJ	_	_	2	compound	_	Gloss=mix|LTranslit=lluh²|SpaceAfter=No
+2	𗘥	𗘥	ADJ	_	_	4	amod	_	Gloss=miscellaneous, mixed|LTranslit=lhi̱w¹|SpaceAfter=No
+3	𗊪	𗊪	NOUN	_	_	4	compound	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+4	𘕽	𘕽	NOUN	_	_	8	obl	_	Gloss=world|LTranslit=gu²|SpaceAfter=No
+5	𘞪	𘞪	ADJ	_	_	8	advmod	_	Gloss=only, unique; one|LTranslit=teh¹|SpaceAfter=No
+6	𗨜	𗨜	NOUN	_	_	7	nmod	_	Gloss=longevity|LTranslit=dzi̱¹|SpaceAfter=No
+7	𗸦	𗸦	NOUN	_	_	8	nsubj	_	Gloss=man|LTranslit=dźwu¹|SpaceAfter=No
+8	𘗕	𘗕	VERB	_	_	11	advcl	_	Gloss=live, reside|LTranslit=rẓae̱r²|SpaceAfter=No
+9	𘆳	𘆳	VERB	_	_	11	nsubj	_	Gloss=gallop|LTranslit=mbai̱¹|SpaceAfter=No
+10	𘌊	𘌊	ADJ	_	_	11	compound	_	Gloss=broad, extensive|LTranslit=giw¹|SpaceAfter=No
+11	𘙲	𘙲	ADJ	_	_	0	root	_	Gloss=long|LTranslit=dźo¹
+
+# sent_id = monthly_pleasures_07_II.s01.c01
+# text = 𗒹𗼑𗅁𘋠𘌎𘏡𗽩𗫑𗌹𘆲𗂧𘛡𘃡
+# section = 7月 · B / II · 小节 1
+# text_zh = 七 · 月 · 内 · 种类 · 谷物 · 果 · 干 · 家畜 · 野兽 · 肥 · 国 · 宴 · 作
+# text_en = In the seventh month the grain bears large kernels, the fine beasts grow fat, and the realm lays out a feast.
+# reference_zh = 七月里百谷丰盈家畜肥大国开宴。
+# text_ja = 七月中、種々の穀物の果は大きく、善獣は肥え、国は宴をなす
+# nishida_page = 58
+1	𗒹	𗒹	NUM	_	_	2	nummod	_	Gloss=seven|LTranslit=śah¹|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	13	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗅁	𗅁	ADP	_	_	2	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+4	𘋠	𘋠	NOUN	_	_	5	nmod	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+5	𘌎	𘌎	NOUN	_	_	6	nmod	_	Gloss=cereal, grain|LTranslit=śi²|SpaceAfter=No
+6	𘏡	𘏡	NOUN	_	_	7	nsubj	_	Gloss=fruit|LTranslit=ŋqhae̱¹|SpaceAfter=No
+7	𗽩	𗽩	ADJ	_	_	13	advcl	_	Gloss=dry|LTranslit=tih²|SpaceAfter=No
+8	𗫑	𗫑	NOUN	_	_	9	compound	_	Gloss=livestock, domestic animal|LTranslit=nu²|SpaceAfter=No
+9	𗌹	𗌹	NOUN	_	_	10	nsubj	_	Gloss=wild animal|LTranslit=rner¹|SpaceAfter=No
+10	𘆲	𘆲	ADJ	_	_	13	advcl	_	Gloss=fat, corpulent|LTranslit=tshwu̱¹|SpaceAfter=No
+11	𗂧	𗂧	NOUN	_	_	13	nsubj	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+12	𘛡	𘛡	NOUN	_	_	13	obj	_	Gloss=fete, feast, banquet|LTranslit=dźih¹|SpaceAfter=No
+13	𘃡	𘃡	VERB	_	_	0	root	_	Gloss=do, make; ergative marker|LTranslit=vi¹
+
+# sent_id = monthly_pleasures_07_II.s02.c01
+# text = 𗉝𘁙𗈪𗺨𘚶𗥦𗆾
+# section = 7月 · B / II · 小节 2
+# text_zh = 秆 · 尖 · 〔向上〕 · 动 · 风 · 头 · 劣
+# text_en = The tips of the grass wilt, and the head of the wind bodes ill.
+# reference_zh = 风吹草稍黄又低，
+# text_ja = 草の先端は萎え、風の頭は不善
+# nishida_page = 58
+1	𗉝	𗉝	NOUN	_	_	2	nmod	_	Gloss=straw, grass|LTranslit=śih²|SpaceAfter=No
+2	𘁙	𘁙	NOUN	_	_	4	nsubj	_	Gloss=point, tip, top|LTranslit=dźwa¹|SpaceAfter=No
+3	𗈪	𗈪	AUX	_	_	4	aux	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
+4	𗺨	𗺨	VERB	_	_	7	advcl	_	Gloss=move|LTranslit=rni̱r²|SpaceAfter=No
+5	𘚶	𘚶	NOUN	_	_	6	nmod	_	Gloss=wind|LTranslit=lə¹|SpaceAfter=No
+6	𗥦	𗥦	NOUN	_	_	7	nsubj	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+7	𗆾	𗆾	ADJ	_	_	0	root	_	Gloss=inferior|LTranslit=geh¹
+
+# sent_id = monthly_pleasures_07_II.s03.c01
+# text = 𗾓𘆂𘉌𗱅𗴍𘔿𗠜𗠜𗫉𘍾𘗽
+# section = 7月 · B / II · 小节 3
+# text_zh = 午 · 午 · 露 · 下 · 鹌鹑 · 鹌鹑 · 喊 · 喊 · 乐 · 〔连接／一／经由〕 · 寿
+# text_en = At noon dew falls and quails call to one another. Joyful is the life of each.
+# reference_zh = 正午雨降鹌鹑鸣叫乐其寿。
+# text_ja = 卓午に露が下り、鵪鶉が鳴き合う。楽しい各々の命
+# nishida_page = 58
+1	𗾓	𗾓	NOUN	_	_	2	compound	_	Gloss=noon, midday|LTranslit=lə¹|SpaceAfter=No
+2	𘆂	𘆂	NOUN	_	_	4	obl	_	Gloss=noon|LTranslit=le²|SpaceAfter=No
+3	𘉌	𘉌	NOUN	_	_	4	nsubj	_	Gloss=dew|LTranslit=rzə̱r²|SpaceAfter=No
+4	𗱅	𗱅	VERB	_	_	11	advcl	_	Gloss=below; to position oneself|LTranslit=lhih²|SpaceAfter=No
+5	𗴍	𗴍	NOUN	_	_	6	compound	_	Gloss=quail|LTranslit=to̱ṃ¹|SpaceAfter=No
+6	𘔿	𘔿	NOUN	_	_	8	nsubj	_	Gloss=quail|LTranslit=ro̱ṃr²|SpaceAfter=No
+7	𗠜	𗠜	VERB	_	_	8	compound	_	Gloss=shout, cry|LTranslit=bi²|SpaceAfter=No
+8	𗠜	𗠜	VERB	_	_	11	advcl	_	Gloss=shout, cry|LTranslit=bi²|SpaceAfter=No
+9	𗫉	𗫉	ADJ	_	_	11	amod	_	Gloss=amusement, happy|LTranslit=mbae̱¹|SpaceAfter=No
+10	𘍾	𘍾	DET	_	_	11	det	_	Gloss=conjunction; one; by (one, two, mouthfuls, etc.); postposition - through; LFW shows xaxa on RHS|LTranslit=gi²|SpaceAfter=No
+11	𘗽	𘗽	NOUN	_	_	0	root	_	Gloss=longevity; life|LTranslit=zoh²
+
+# sent_id = monthly_pleasures_07_II.s04.c01
+# text = 𗼇𘄄𘗶𘆫𗜛𘜯𗴂
+# section = 7月 · B / II · 小节 4
+# text_zh = 党项人自称 · 男 · 马 · 安抚 · 软 · 鞍 · 白
+# text_en = The Tangut son's leather saddle is white.
+# reference_zh = 番儿马配白木鞍，
+# text_ja = 西夏の子の皮の鞍は、白く
+# nishida_page = 58
+1	𗼇	𗼇	NOUN	_	_	2	nmod	_	Gloss=The name Tangut people call themselves|LTranslit=mi²|SpaceAfter=No
+2	𘄄	𘄄	NOUN	_	_	3	nmod	_	Gloss=man, male|LTranslit=zi¹|SpaceAfter=No
+3	𘗶	𘗶	NOUN	_	_	6	nmod	_	Gloss=horse|LTranslit=rar²|SpaceAfter=No
+4	𘆫	𘆫	VERB	_	_	6	acl	_	Gloss=placate, appease|LTranslit=teṃ¹|SpaceAfter=No
+5	𗜛	𗜛	ADJ	_	_	6	amod	_	Gloss=soft|LTranslit=?|SpaceAfter=No
+6	𘜯	𘜯	NOUN	_	_	7	nsubj	_	Gloss=saddle|LTranslit=yih²|SpaceAfter=No
+7	𗴂	𗴂	ADJ	_	_	0	root	_	Gloss=white|LTranslit=phao̱ṃ¹
+
+# sent_id = monthly_pleasures_07_II.s05.c01
+# text = 𘙁𘆸𗡦𘂬𗄊𗋕𗍊
+# section = 7月 · B / II · 小节 5
+# text_zh = 熟皮 · 淡色 · 珠串 · 挂 · 皆 · 别的 · 如
+# text_en = A string of beads hangs from a grey leather cord; all are like this.
+# reference_zh = 牛皮璎珞尽皆同。
+# text_ja = 灰色の索に瓔有り、皆このごとし
+# nishida_page = 59
+1	𘙁	𘙁	ADJ	_	_	4	obl	_	Gloss=tanned leather|LTranslit=se̱²|SpaceAfter=No
+2	𘆸	𘆸	ADJ	_	_	1	amod	_	Gloss=pale|LTranslit=phi̱¹|SpaceAfter=No
+3	𗡦	𗡦	NOUN	_	_	4	nsubj	_	Gloss=a string of beads|LTranslit=ryər²|SpaceAfter=No
+4	𘂬	𘂬	VERB	_	_	6	advcl	_	Gloss=hang, join; to be|LTranslit=wo̱¹|SpaceAfter=No
+5	𗄊	𗄊	ADV	_	_	6	nsubj	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
+6	𗋕	𗋕	DET	_	_	0	root	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
+7	𗍊	𗍊	ADP	_	_	6	case	_	Gloss=as|LTranslit=su²
+
+# sent_id = monthly_pleasures_07_II.s06.c01
+# text = 𗤳𗾖𗂧𘇍𘍾𘗽𘈑𗫻𘂤𗓣𗞞𗧊
+# section = 7月 · B / II · 小节 6
+# text_zh = 〔姓氏：mei／jin〕 · 男 · 国 · 家畜 · 〔连接／一／经由〕 · 寿 · 人 · 居 · 中 · 诚 · 〔离说话人〕 · 出生／生长／升起
+# text_en = While livestock and long-lived people dwell in the land of the tribal heroes, contentment arises.
+# reference_zh = 诸部族人寿年丰驰路宽。
+# text_ja = 部雄の国に家畜と各々寿人が住む間、満足が生れる
+# nishida_page = 59
+1	𗤳	𗤳	PROPN	_	_	2	nmod	_	Gloss=surname mei, jin|LTranslit=mə̱²|SpaceAfter=No
+2	𗾖	𗾖	NOUN	_	_	3	nmod	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
+3	𗂧	𗂧	NOUN	_	_	8	obl	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+4	𘇍	𘇍	NOUN	_	_	8	nsubj	_	Gloss=domestic animal|LTranslit=ġhwu̱h²|SpaceAfter=No
+5	𘍾	𘍾	DET	_	_	7	det	_	Gloss=conjunction; one; by (one, two, mouthfuls, etc.); postposition - through; LFW shows xaxa on RHS|LTranslit=gi²|SpaceAfter=No
+6	𘗽	𘗽	NOUN	_	_	7	nmod	_	Gloss=longevity; life|LTranslit=zoh²|SpaceAfter=No
+7	𘈑	𘈑	NOUN	_	_	4	conj	_	Gloss=man, nation, people|LTranslit=rmər¹|SpaceAfter=No
+8	𗫻	𗫻	VERB	_	_	12	advcl	_	Gloss=live, stay, exist, to be found|LTranslit=ndźe¹|SpaceAfter=No
+9	𘂤	𘂤	SCONJ	_	_	8	mark	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=qha̱¹|SpaceAfter=No
+10	𗓣	𗓣	ADJ	_	_	12	nsubj	_	Gloss=honest, upright|LTranslit=dźe²|SpaceAfter=No
+11	𗞞	𗞞	AUX	_	_	12	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+12	𗧊	𗧊	VERB	_	_	0	root	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²
+
+# sent_id = monthly_pleasures_08_I.s01.c01
+# text = 𗍫𗥃𘘞𗳝𗳇𗅃𗾔𗿐𘌃𗞞𗫴
+# section = 8月 · A / I · 小节 1
+# text_zh = 二 · 四 · 月 · 月 · 丘 · 平坦 · 日 · 黄 · 稻 · 〔离说话人〕 · 果
+# text_en = In the month of twice four, the sun shines yellow on the broad hills and the rice sets grain.
+# reference_zh = 八月里山坡日暖稻谷熟，
+# text_ja = 二四の月、広い丘に、日は黄色く、稲は実を結ぶ
+# nishida_page = 60
+1	𗍫	𗍫	NUM	_	_	2	compound	_	Gloss=two|LTranslit=nnə¹|SpaceAfter=No
+2	𗥃	𗥃	NUM	_	_	4	nummod	_	Gloss=four|LTranslit=rllər¹|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	11	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𗳇	𗳇	NOUN	_	_	8	obl	_	Gloss=mound, mausoleum|LTranslit=dzuh²|SpaceAfter=No
+6	𗅃	𗅃	ADJ	_	_	5	amod	_	Gloss=(of land, etc.) level|LTranslit=llwuh¹|SpaceAfter=No
+7	𗾔	𗾔	NOUN	_	_	8	nsubj	_	Gloss=sun|LTranslit=bi̱²|SpaceAfter=No
+8	𗿐	𗿐	ADJ	_	_	11	advcl	_	Gloss=yellow|LTranslit=tświw²|SpaceAfter=No
+9	𘌃	𘌃	NOUN	_	_	11	nsubj	_	Gloss=rice, paddy|LTranslit=ri̱r²|SpaceAfter=No
+10	𗞞	𗞞	AUX	_	_	11	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+11	𗫴	𗫴	VERB	_	_	0	root	_	Gloss=fruit|LTranslit=mma¹
+
+# sent_id = monthly_pleasures_08_I.s02.c01
+# text = 𗿀𗤓𘌃𘗕𗽚𗏡𘃊
+# section = 8月 · A / I · 小节 2
+# text_zh = 地 · 美 · 稻 · 居 · 农田 · 后 · 困倦
+# text_en = Rice dwells in the good earth and sleeps behind the field ridge.
+# reference_zh = 良田稻谷卧畦边。
+# text_ja = 妙なる土に、稲は滞り、畦の後に眠る
+# nishida_page = 60
+1	𗿀	𗿀	NOUN	_	_	4	obl	_	Gloss=land, soil|LTranslit=rtsi̱r¹|SpaceAfter=No
+2	𗤓	𗤓	ADJ	_	_	1	amod	_	Gloss=beautiful, wonderful|LTranslit=ntho¹|SpaceAfter=No
+3	𘌃	𘌃	NOUN	_	_	4	nsubj	_	Gloss=rice, paddy|LTranslit=ri̱r²|SpaceAfter=No
+4	𘗕	𘗕	VERB	_	_	7	advcl	_	Gloss=live, reside|LTranslit=rẓae̱r²|SpaceAfter=No
+5	𗽚	𗽚	NOUN	_	_	7	obl	_	Gloss=farmland|LTranslit=qi̱w¹|SpaceAfter=No
+6	𗏡	𗏡	ADP	_	_	5	case	_	Gloss=behind|LTranslit=qu̱h¹|SpaceAfter=No
+7	𘃊	𘃊	ADJ	_	_	0	root	_	Gloss=sleepy|LTranslit=yə²
+
+# sent_id = monthly_pleasures_08_I.s03.c01
+# text = 𘞪𘞪𗭞𗓓𗨨𗧨𘛂
+# section = 8月 · A / I · 小节 3
+# text_zh = 独 · 独 · 步 · 去 · 圈 · 去 · 去
+# text_en = One by one they step out, go round, and pass on.
+# reference_zh = 人人外出周边走，
+# text_ja = 独り独り歩を進め、周行して逝く
+# nishida_page = 60
+1	𘞪	𘞪	ADJ	_	_	2	compound	_	Gloss=only, unique; one|LTranslit=teh¹|SpaceAfter=No
+2	𘞪	𘞪	ADJ	_	_	7	nsubj	_	Gloss=only, unique; one|LTranslit=teh¹|SpaceAfter=No
+3	𗭞	𗭞	NOUN	_	_	4	obj	_	Gloss=step, pace|LTranslit=bi²|SpaceAfter=No
+4	𗓓	𗓓	VERB	_	_	7	advcl	_	Gloss=go|LTranslit=tśhe¹|SpaceAfter=No
+5	𗨨	𗨨	VERB	_	_	6	obj	_	Gloss=circle|LTranslit=ro̱r²|SpaceAfter=No
+6	𗧨	𗧨	VERB	_	_	7	advcl	_	Gloss=go, march|LTranslit=re̱r²|SpaceAfter=No
+7	𘛂	𘛂	VERB	_	_	0	root	_	Gloss=post, go|LTranslit=mbe²
+
+# sent_id = monthly_pleasures_08_I.s04.c01
+# text = 𗹲𗀄𘗗𗇉𗈺𘃨𘝍
+# section = 8月 · A / I · 小节 4
+# text_zh = 〔姓氏〕 · 颈／界 · 〔姓氏〕 · 〔姓氏〕 · 矿石 · 制 · 翼
+# text_en = In the land of Pa, the Po and the Han are wings of iron.
+# reference_zh = 番汉部族铁屏障。
+# text_ja = パ領のポーと漢は、鉄製の翼
+# nishida_page = 61
+1	𗹲	𗹲	PROPN	_	_	2	nmod	_	Gloss=surname|LTranslit=ba²|SpaceAfter=No
+2	𗀄	𗀄	NOUN	_	_	3	nmod	_	Gloss=neck; territory; limit|LTranslit=ŋwu̱²|SpaceAfter=No
+3	𘗗	𘗗	PROPN	_	_	7	nsubj	_	Gloss=surname|LTranslit=po̱¹|SpaceAfter=No
+4	𗇉	𗇉	NOUN	_	_	3	conj	_	Gloss=surname|LTranslit=qhwa̱²|SpaceAfter=No
+5	𗈺	𗈺	NOUN	_	_	6	obj	_	Gloss=ore|LTranslit=nnaa̱²|SpaceAfter=No
+6	𘃨	𘃨	VERB	_	_	7	acl	_	Gloss=make, manufacture|LTranslit=rghər¹|SpaceAfter=No
+7	𘝍	𘝍	NOUN	_	_	0	root	_	Gloss=wing|LTranslit=tśuh²
+
+# sent_id = monthly_pleasures_08_I.s05.c01
+# text = 𘌃𘀎𘌃𘙮𗉢𘓯𘓯𗌨𗇎
+# section = 8月 · A / I · 小节 5
+# text_zh = 稻 · 暗 · 稻 · 白 · 手 · 给 · 给 · 〔义未详〕 · 轭
+# text_en = They offer black and white rice by turns with their fingers and catch birds.
+# reference_zh = 杂用黑稻白稻来捕鸟，
+# text_ja = 黒稲と白稲を指で交互に与え、鳥を捕う
+# nishida_page = 61
+1	𘌃	𘌃	NOUN	_	_	7	obj	_	Gloss=rice, paddy|LTranslit=ri̱r²|SpaceAfter=No
+2	𘀎	𘀎	ADJ	_	_	1	amod	_	Gloss=dark, dim|LTranslit=rmu̱r¹|SpaceAfter=No
+3	𘌃	𘌃	NOUN	_	_	1	conj	_	Gloss=rice, paddy|LTranslit=ri̱r²|SpaceAfter=No
+4	𘙮	𘙮	ADJ	_	_	3	amod	_	Gloss=white|LTranslit=li̱w²|SpaceAfter=No
+5	𗉢	𗉢	NOUN	_	_	7	obl	_	Gloss=hand|LTranslit=śwa¹|SpaceAfter=No
+6	𘓯	𘓯	VERB	_	_	7	compound	_	Gloss=give, grant|LTranslit=khoṃ¹|SpaceAfter=No
+7	𘓯	𘓯	VERB	_	_	9	advcl	_	Gloss=give, grant|LTranslit=khoṃ¹|SpaceAfter=No
+8	𗌨	𗌨	NOUN	_	_	9	obj	_	Gloss=unknown|LTranslit=dźwoṃ¹|SpaceAfter=No
+9	𗇎	𗇎	VERB	_	_	0	root	_	Gloss=yoke, chains, shackles, fetters|LTranslit=veh²
+
+# sent_id = monthly_pleasures_08_I.s06.c01
+# text = 𗈃𗆭𘌃𗂝𗛰𘕻𗔭𗅋𗈀
+# section = 8月 · A / I · 小节 6
+# text_zh = 鹿 · 追 · 稻 · 割 · 三 · 三 · 得 · 不 · 落
+# text_en = They pursue deer and reap rice; even after taking three paths, they do not fall.
+# reference_zh = 逐鹿割稻三番忙不休。
+# text_ja = 鹿を追い、稲を刈り、三途を得ても落ちず
+# nishida_page = 62
+1	𗈃	𗈃	NOUN	_	_	2	obj	_	Gloss=deer|LTranslit=nsu¹|SpaceAfter=No
+2	𗆭	𗆭	VERB	_	_	9	advcl	_	Gloss=pursue|LTranslit=dźiw¹|SpaceAfter=No
+3	𘌃	𘌃	NOUN	_	_	4	obj	_	Gloss=rice, paddy|LTranslit=ri̱r²|SpaceAfter=No
+4	𗂝	𗂝	VERB	_	_	9	advcl	_	Gloss=cut|LTranslit=dźih²|SpaceAfter=No
+5	𗛰	𗛰	NUM	_	_	6	compound	_	Gloss=three|LTranslit=re̱r²|SpaceAfter=No
+6	𘕻	𘕻	NUM	_	_	7	obj	_	Gloss=three|LTranslit=gu²|SpaceAfter=No
+7	𗔭	𗔭	VERB	_	_	9	advcl	_	Gloss=get, gain|LTranslit=rŋi̱wr²|SpaceAfter=No
+8	𗅋	𗅋	PART	_	_	9	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+9	𗈀	𗈀	VERB	_	_	0	root	_	Gloss=fall, sink|LTranslit=lə¹
+
+# sent_id = monthly_pleasures_08_II.s01.c01
+# text = 𘉋𗼑𗅁𗳽𘌊𗬚𗘩𘌎𗞞𘇲
+# section = 8月 · B / II · 小节 1
+# text_zh = 八 · 月 · 内 · 坡 · 宽 · 日晒 · 黄 · 谷物 · 〔离说话人〕 · 熟
+# text_en = In the eighth month, the sun shines gold on the broad slope, and the grain ripens.
+# reference_zh = 八月里山坡日暖稻谷熟，
+# text_ja = 八月中、寛い坡に、太陽は金色で、穀物は熟す
+# nishida_page = 60
+1	𘉋	𘉋	NUM	_	_	2	nummod	_	Gloss=eight|LTranslit=ryar¹|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	10	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗅁	𗅁	ADP	_	_	2	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+4	𗳽	𗳽	NOUN	_	_	7	obl	_	Gloss=slope|LTranslit=lo̱ṃ²|SpaceAfter=No
+5	𘌊	𘌊	ADJ	_	_	4	amod	_	Gloss=broad, extensive|LTranslit=giw¹|SpaceAfter=No
+6	𗬚	𗬚	VERB	_	_	7	nsubj	_	Gloss=bask, (of the sun) shine upon|LTranslit=nnə¹|SpaceAfter=No
+7	𗘩	𗘩	ADJ	_	_	10	advcl	_	Gloss=yellow, sallow|LTranslit=rnə̱r²|SpaceAfter=No
+8	𘌎	𘌎	NOUN	_	_	10	nsubj	_	Gloss=cereal, grain|LTranslit=śi²|SpaceAfter=No
+9	𗞞	𗞞	AUX	_	_	10	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+10	𘇲	𘇲	ADJ	_	_	0	root	_	Gloss=ripe|LTranslit=vwi̱¹
+
+# sent_id = monthly_pleasures_08_II.s02.c01
+# text = 𗼻𗡮𘌎𗼺𗆖𗅉𘃉𗫶
+# section = 8月 · B / II · 小节 2
+# text_zh = 地 · 尊崇 · 谷物 · 种植 · 田 · 〔连接／后〕 · 困倦 · 〔现在标记／但〕
+# text_en = The grain takes root in the good earth and sleeps behind the field.
+# reference_zh = 良田稻谷卧畦边。
+# text_ja = 美しい地に穀物は根をおろし、田のうしろに眠る
+# nishida_page = 60
+1	𗼻	𗼻	NOUN	_	_	4	obl	_	Gloss=land, soil|LTranslit=lləh²|SpaceAfter=No
+2	𗡮	𗡮	ADJ	_	_	1	amod	_	Gloss=dignify|LTranslit=śwo²|SpaceAfter=No
+3	𘌎	𘌎	NOUN	_	_	4	nsubj	_	Gloss=cereal, grain|LTranslit=śi²|SpaceAfter=No
+4	𗼺	𗼺	VERB	_	_	7	advcl	_	Gloss=plant|LTranslit=ndzu̱²|SpaceAfter=No
+5	𗆖	𗆖	NOUN	_	_	7	obl	_	Gloss=field, farmland|LTranslit=rar¹|SpaceAfter=No
+6	𗅉	𗅉	ADP	_	_	5	case	_	Gloss=conjunction; behind|LTranslit=nuo¹|SpaceAfter=No
+7	𘃉	𘃉	VERB	_	_	0	root	_	Gloss=sleepy, drowsy|LTranslit=ŋwə̱¹|SpaceAfter=No
+8	𗫶	𗫶	PART	_	_	7	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²
+
+# sent_id = monthly_pleasures_08_II.s03.c01
+# text = 𘍾𗥄𘙌𗧊𘙇𘛲𘕂
+# section = 8月 · B / II · 小节 3
+# text_zh = 〔连接／一／经由〕 · 若 · 〔向此〕 · 出生／生长／升起 · 〔趋向未详〕 · 巡 · 去
+# text_en = Each in turn goes out, makes a circuit, and moves on.
+# reference_zh = 人人外出周边走，
+# text_ja = 各々或は出て、繞って行く
+# nishida_page = 61
+1	𘍾	𘍾	ADP	_	_	7	nsubj	_	Gloss=conjunction; one; by (one, two, mouthfuls, etc.); postposition - through; LFW shows xaxa on RHS|LTranslit=gi²|SpaceAfter=No
+2	𗥄	𗥄	ADV	_	_	4	advmod	_	Gloss=if, in case|LTranslit=təh¹|SpaceAfter=No
+3	𘙌	𘙌	AUX	_	_	4	aux	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kə¹|SpaceAfter=No
+4	𗧊	𗧊	VERB	_	_	7	advcl	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²|SpaceAfter=No
+5	𘙇	𘙇	ADV	_	_	6	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
+6	𘛲	𘛲	VERB	_	_	7	advcl	_	Gloss=patrol, make one's rounds|LTranslit=ŋġu̱¹|SpaceAfter=No
+7	𘕂	𘕂	VERB	_	_	0	root	_	Gloss=go, parade|LTranslit=dźe¹
+
+# sent_id = monthly_pleasures_08_II.s04.c01
+# text = 𗱗𗼚𗼇𘂜𘙇𗄿𘗋𘉔
+# section = 8月 · B / II · 小节 4
+# text_zh = 〔姓氏〕 · 〔姓氏：ao／wo〕 · 党项人自称 · 〔姓氏：Han〕 · 〔趋向未详〕 · 阻 · 切 · 编织
+# text_en = The Tangut and the Han of Che-Hon are pincers that hold things back.
+# reference_zh = 番汉部族铁屏障。
+# text_ja = チェ・ホンの西夏と漢は、妨げる鉗
+# nishida_page = 61
+1	𗱗	𗱗	PROPN	_	_	2	compound	_	Gloss=surname|LTranslit=tśeh¹|SpaceAfter=No
+2	𗼚	𗼚	PROPN	_	_	3	nmod	_	Gloss=surname ao, wo|LTranslit=wo̱ṃ²|SpaceAfter=No
+3	𗼇	𗼇	NOUN	_	_	8	nsubj	_	Gloss=The name Tangut people call themselves|LTranslit=mi²|SpaceAfter=No
+4	𘂜	𘂜	NOUN	_	_	3	conj	_	Gloss=Han (surname)|LTranslit=rza̱r¹|SpaceAfter=No
+5	𘙇	𘙇	ADV	_	_	6	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
+6	𗄿	𗄿	VERB	_	_	8	acl	_	Gloss=hinder, obstacle|LTranslit=llu̱h²|SpaceAfter=No
+7	𘗋	𘗋	VERB	_	_	8	compound	_	Gloss=cut, clip, shave|LTranslit=geh¹|SpaceAfter=No
+8	𘉔	𘉔	VERB	_	_	0	root	_	Gloss=knit|LTranslit=dwa̱²
+
+# sent_id = monthly_pleasures_08_II.s05.c01
+# text = 𗰞𘜝𗴂𘐒𘐒𗈱𘎃𗯹
+# section = 8月 · B / II · 小节 5
+# text_zh = 黑 · 稻／〔另义存疑〕 · 白 · 铺开 · 铺开 · 〔助词〕 · 鸟 · 捕
+# text_en = They spread black and white rice by turns and catch the birds.
+# reference_zh = 杂用黑稻白稻来捕鸟，
+# text_ja = 黒稲と白稲を交互に延ばし、而して鳥を捕う
+# nishida_page = 61
+1	𗰞	𗰞	ADJ	_	_	2	amod	_	Gloss=dark; black|LTranslit=naw¹|SpaceAfter=No
+2	𘜝	𘜝	NOUN	_	_	5	obj	_	Gloss=thorm?, rice|LTranslit=rtser²|SpaceAfter=No
+3	𗴂	𗴂	ADJ	_	_	2	amod	_	Gloss=white|LTranslit=phao̱ṃ¹|SpaceAfter=No
+4	𘐒	𘐒	VERB	_	_	5	compound	_	Gloss=spread, uphold|LTranslit=ryer²|SpaceAfter=No
+5	𘐒	𘐒	VERB	_	_	8	advcl	_	Gloss=spread, uphold|LTranslit=ryer²|SpaceAfter=No
+6	𗈱	𗈱	SCONJ	_	_	5	mark	_	Gloss=auxiliary word; in the distance|LTranslit=rar¹|SpaceAfter=No
+7	𘎃	𘎃	NOUN	_	_	8	obj	_	Gloss=birds|LTranslit=vwi̱¹|SpaceAfter=No
+8	𗯹	𗯹	VERB	_	_	0	root	_	Gloss=catch, seize, arrest; strong, sturdy|LTranslit=lu²
+
+# sent_id = monthly_pleasures_08_II.s06.c01
+# text = 𗰆𘉝𘌉𘎬𘕕𘚌𗅋𗃣
+# section = 8月 · B / II · 小节 6
+# text_zh = 鹿 · 逐 · 黍 · 采 · 三 · 停 · 不 · 滞
+# text_en = They drive the deer on and harvest the millet; though they stop three times, they do not linger.
+# reference_zh = 逐鹿割稻三番忙不休。
+# text_ja = 鹿を馳らせ、高梁を刈り取り、三停しても滞らず
+# nishida_page = 62
+1	𗰆	𗰆	NOUN	_	_	2	obj	_	Gloss=deer|LTranslit=lha¹|SpaceAfter=No
+2	𘉝	𘉝	VERB	_	_	8	advcl	_	Gloss=drive out, expel|LTranslit=na²|SpaceAfter=No
+3	𘌉	𘌉	NOUN	_	_	4	obj	_	Gloss=broomcorn millet|LTranslit=qwo̱¹|SpaceAfter=No
+4	𘎬	𘎬	VERB	_	_	8	advcl	_	Gloss=pick, mine, gather|LTranslit=kwih²|SpaceAfter=No
+5	𘕕	𘕕	NUM	_	_	6	advmod	_	Gloss=three|LTranslit=so̱ṃh¹|SpaceAfter=No
+6	𘚌	𘚌	VERB	_	_	8	advcl	_	Gloss=stop, stagnate|LTranslit=re̱r²|SpaceAfter=No
+7	𗅋	𗅋	PART	_	_	8	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+8	𗃣	𗃣	VERB	_	_	0	root	_	Gloss=stagnate, leave over|LTranslit=rir²
+
+# sent_id = monthly_pleasures_09_I.s01.c01
+# text = 𗥃𗏁𘘞𗳝𘌃𗴵𗌽𘎽
+# section = 9月 · A / I · 小节 1
+# text_zh = 四 · 五 · 月 · 月 · 稻 · 脑 · 〔向说话人〕 · 拆毁
+# text_en = In the month of four and five, they are about to cut the heads of rice.
+# reference_zh = 九月里田头割稻穗，
+# text_ja = 四五の月は、稲の頭を刈らんとする
+# nishida_page = 63
+1	𗥃	𗥃	NUM	_	_	2	compound	_	Gloss=four|LTranslit=rllər¹|SpaceAfter=No
+2	𗏁	𗏁	NUM	_	_	4	nummod	_	Gloss=five|LTranslit=ŋwə̱¹|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	8	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𘌃	𘌃	NOUN	_	_	6	nmod	_	Gloss=rice, paddy|LTranslit=ri̱r²|SpaceAfter=No
+6	𗴵	𗴵	NOUN	_	_	8	obj	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+7	𗌽	𗌽	AUX	_	_	8	aux	_	Gloss=verb prefix directional marker - toward the speaker|LTranslit=də²|SpaceAfter=No
+8	𘎽	𘎽	VERB	_	_	0	root	_	Gloss=demolish, destroy|LTranslit=qhai̱w¹
+
+# sent_id = monthly_pleasures_09_I.s02.c01
+# text = 𗳇𗥦𗺕𗻖𗭞𗓓𗍅
+# section = 9月 · A / I · 小节 2
+# text_zh = 丘 · 头 · 草 · 草 · 步 · 去 · 工匠
+# text_en = The grasses on the hilltop are like craftspeople on the move.
+# reference_zh = 山丘草场依法行。
+# text_ja = 丘の頭の草々は、歩行する匠人（のごとし）
+# nishida_page = 63
+1	𗳇	𗳇	NOUN	_	_	2	nmod	_	Gloss=mound, mausoleum|LTranslit=dzuh²|SpaceAfter=No
+2	𗥦	𗥦	NOUN	_	_	4	nmod	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+3	𗺕	𗺕	NOUN	_	_	4	compound	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+4	𗻖	𗻖	NOUN	_	_	7	nsubj	_	Gloss=grass, straw|LTranslit=rir²|SpaceAfter=No
+5	𗭞	𗭞	NOUN	_	_	6	obj	_	Gloss=step, pace|LTranslit=bi²|SpaceAfter=No
+6	𗓓	𗓓	VERB	_	_	7	acl	_	Gloss=go|LTranslit=tśhe¹|SpaceAfter=No
+7	𗍅	𗍅	NOUN	_	_	0	root	_	Gloss=worker|LTranslit=rkər¹
+
+# sent_id = monthly_pleasures_09_I.s03.c01
+# text = 𗵍𗘥𗺕𗻖𗵷𗅋𗋐
+# section = 9月 · A / I · 小节 3
+# text_zh = 混 · 杂 · 草 · 草 · 〔义未详〕 · 不 · 生命
+# text_en = The grasses of every kind bear no fruit.
+# reference_zh = 百草菜蔬果实采，
+# text_ja = 諸種の草々は、実をもたず
+# nishida_page = 63
+1	𗵍	𗵍	ADJ	_	_	2	compound	_	Gloss=mix|LTranslit=lluh²|SpaceAfter=No
+2	𗘥	𗘥	ADJ	_	_	4	amod	_	Gloss=miscellaneous, mixed|LTranslit=lhi̱w¹|SpaceAfter=No
+3	𗺕	𗺕	NOUN	_	_	4	compound	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+4	𗻖	𗻖	NOUN	_	_	7	nsubj	_	Gloss=grass, straw|LTranslit=rir²|SpaceAfter=No
+5	𗵷	𗵷	NOUN	_	_	7	obj	_	Gloss=unknown|LTranslit=?|SpaceAfter=No
+6	𗅋	𗅋	PART	_	_	7	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+7	𗋐	𗋐	VERB	_	_	0	root	_	Gloss=life|LTranslit=tśhu¹
+
+# sent_id = monthly_pleasures_09_I.s04.c01
+# text = 𗥃𗏁𗆑𗠛𗣣𗅋𘙰
+# section = 9月 · A / I · 小节 4
+# text_zh = 四 · 五 · 吞 · 吞 · 食物 · 不 · 同
+# text_en = The dishes eaten and drunk in the month of four and five are not all alike.
+# reference_zh = 形形色色九月食。
+# text_ja = 四五を飲食する食膳は、同じからず
+# nishida_page = 64
+1	𗥃	𗥃	NUM	_	_	2	compound	_	Gloss=four|LTranslit=rllər¹|SpaceAfter=No
+2	𗏁	𗏁	NUM	_	_	4	obj	_	Gloss=five|LTranslit=ŋwə̱¹|SpaceAfter=No
+3	𗆑	𗆑	VERB	_	_	4	compound	_	Gloss=swallow|LTranslit=ŋga²|SpaceAfter=No
+4	𗠛	𗠛	VERB	_	_	5	acl	_	Gloss=swallow, eat, take|LTranslit=lluh²|SpaceAfter=No
+5	𗣣	𗣣	NOUN	_	_	7	nsubj	_	Gloss=food|LTranslit=tshi¹|SpaceAfter=No
+6	𗅋	𗅋	PART	_	_	7	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+7	𘙰	𘙰	ADJ	_	_	0	root	_	Gloss=same, alike|LTranslit=li̱w²
+
+# sent_id = monthly_pleasures_09_I.s05.c01
+# text = 𘌃𗿯𗨄𗴵𗊪𗲋𘋀
+# section = 9月 · A / I · 小节 5
+# text_zh = 稻 · 踩 · 成就 · 脑 · 国 · 欢乐 · 欢乐
+# text_en = The realm rejoices at the heavy, drooping heads of rice.
+# reference_zh = 五谷丰盈国安乐，
+# text_ja = 稲の垂れ下る敦い頭に、国は歓楽する
+# nishida_page = 64
+1	𘌃	𘌃	NOUN	_	_	4	nmod	_	Gloss=rice, paddy|LTranslit=ri̱r²|SpaceAfter=No
+2	𗿯	𗿯	VERB	_	_	4	acl	_	Gloss=trample, tread|LTranslit=dih¹|SpaceAfter=No
+3	𗨄	𗨄	ADJ	_	_	4	amod	_	Gloss=achievement|LTranslit=yiw²|SpaceAfter=No
+4	𗴵	𗴵	NOUN	_	_	7	obl	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+5	𗊪	𗊪	NOUN	_	_	7	nsubj	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+6	𗲋	𗲋	ADJ	_	_	7	compound	_	Gloss=happy, gay|LTranslit=llu̱h¹|SpaceAfter=No
+7	𘋀	𘋀	ADJ	_	_	0	root	_	Gloss=happy, gay|LTranslit=rgur²
+
+# sent_id = monthly_pleasures_09_I.s06.c01
+# text = 𘌃𘙮𘌃𗿐𗸆𗮈𗎄
+# section = 9月 · A / I · 小节 6
+# text_zh = 稻 · 白 · 稻 · 黄 · 强 · 霜 · 露
+# text_en = No frost or dew has yet fallen on the white rice or the yellow rice.
+# reference_zh = 黄白稻麦霜未结，
+# text_ja = 白稲、黄稲に、未だ霜露は降らず
+# nishida_page = 65
+# analysis_note = 两译均有霜露未降或未结之意，字面末二项为霜、露。按省略动词的名词性述谓分析。
+1	𘌃	𘌃	NOUN	_	_	7	obl	_	Gloss=rice, paddy|LTranslit=ri̱r²|SpaceAfter=No
+2	𘙮	𘙮	ADJ	_	_	1	amod	_	Gloss=white|LTranslit=li̱w²|SpaceAfter=No
+3	𘌃	𘌃	NOUN	_	_	1	conj	_	Gloss=rice, paddy|LTranslit=ri̱r²|SpaceAfter=No
+4	𗿐	𗿐	ADJ	_	_	3	amod	_	Gloss=yellow|LTranslit=tświw²|SpaceAfter=No
+5	𗸆	𗸆	ADV	_	_	7	advmod	_	Gloss=strong, powerful|LTranslit=khoṃ¹|SpaceAfter=No
+6	𗮈	𗮈	NOUN	_	_	7	nsubj	_	Gloss=frost|LTranslit=ṇa?|SpaceAfter=No
+7	𗎄	𗎄	NOUN	_	_	0	root	_	Gloss=dew|LTranslit=rvwə̱r²
+
+# sent_id = monthly_pleasures_09_I.s07.c01
+# text = 𘘘𘂬𗱢𘙸𘟛𗥗𗁆
+# section = 9月 · A / I · 小节 7
+# text_zh = 钱币单位 · 挂 · 〔向下〕 · 串 · 智 · 长者 · 年长
+# text_en = It is a wise elder who threads the strings of coins.
+# reference_zh = 慧人有意积钱财。
+# text_ja = 銭貫を串くは、慧い長者
+# nishida_page = 65
+1	𘘘	𘘘	NOUN	_	_	4	obj	_	Gloss=a currency unit|LTranslit=sa̱¹|SpaceAfter=No
+2	𘂬	𘂬	VERB	_	_	4	advcl	_	Gloss=hang, join; to be|LTranslit=wo̱¹|SpaceAfter=No
+3	𗱢	𗱢	AUX	_	_	4	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+4	𘙸	𘙸	VERB	_	_	7	acl	_	Gloss=string|LTranslit=lao̱¹|SpaceAfter=No
+5	𘟛	𘟛	ADJ	_	_	7	amod	_	Gloss=wisdom, intelligent|LTranslit=rźər¹|SpaceAfter=No
+6	𗥗	𗥗	ADJ	_	_	7	compound	_	Gloss=elder, senior|LTranslit=phə̱¹|SpaceAfter=No
+7	𗁆	𗁆	ADJ	_	_	0	root	_	Gloss=older, elder|LTranslit=beh¹
+
+# sent_id = monthly_pleasures_09_II.s01.c01
+# text = 𗢭𗼑𗅁𗆖𗥦𗞞𗯢
+# section = 9月 · B / II · 小节 1
+# text_zh = 九 · 月 · 内 · 田 · 头 · 〔离说话人〕 · 切
+# text_en = In the ninth month they cut the heads of grain in the fields.
+# reference_zh = 九月里田头割稻穗，
+# text_ja = 九月中は、田の頭を切りとる
+# nishida_page = 63
+1	𗢭	𗢭	NUM	_	_	2	nummod	_	Gloss=nine|LTranslit=ŋgə¹|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	7	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗅁	𗅁	ADP	_	_	2	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+4	𗆖	𗆖	NOUN	_	_	5	nmod	_	Gloss=field, farmland|LTranslit=rar¹|SpaceAfter=No
+5	𗥦	𗥦	NOUN	_	_	7	obj	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+6	𗞞	𗞞	AUX	_	_	7	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+7	𗯢	𗯢	VERB	_	_	0	root	_	Gloss=cut, break, snap|LTranslit=gwə¹
+
+# sent_id = monthly_pleasures_09_II.s02.c01
+# text = 𗼻𗹭𗮈𘔯𗶷𗅲𗍊
+# section = 9月 · B / II · 小节 2
+# text_zh = 地 · 高 · 霜 · 迎 · 往 · 礼 · 如
+# text_en = The frost on the high ground is like a rite of welcome and farewell.
+# reference_zh = 山丘草场依法行。
+# text_ja = 高い地の霜は、送迎する儀式のごとし
+# nishida_page = 63
+1	𗼻	𗼻	NOUN	_	_	3	nmod	_	Gloss=land, soil|LTranslit=lləh²|SpaceAfter=No
+2	𗹭	𗹭	ADJ	_	_	1	amod	_	Gloss=tall|LTranslit=be²|SpaceAfter=No
+3	𗮈	𗮈	NOUN	_	_	6	nsubj	_	Gloss=frost|LTranslit=ṇa?|SpaceAfter=No
+4	𘔯	𘔯	VERB	_	_	5	compound	_	Gloss=greet|LTranslit=ŋqhau̱¹|SpaceAfter=No
+5	𗶷	𗶷	VERB	_	_	6	acl	_	Gloss=go, toward|LTranslit=śə¹|SpaceAfter=No
+6	𗅲	𗅲	NOUN	_	_	0	root	_	Gloss=ceremony|LTranslit=teṃh²|SpaceAfter=No
+7	𗍊	𗍊	ADP	_	_	6	case	_	Gloss=as|LTranslit=su²
+
+# sent_id = monthly_pleasures_09_II.s03.c01
+# text = 𗝚𗉝𘋠𘕾𗫴𘙌𗂆
+# section = 9月 · B / II · 小节 3
+# text_zh = 柴 · 秆 · 种类 · 各样 · 果 · 〔向此〕 · 击
+# text_en = Herbs and grasses of every kind bear fruit.
+# reference_zh = 百草菜蔬果实采，
+# text_ja = 種々の草蔬は、果を結ぶ
+# nishida_page = 63
+1	𗝚	𗝚	NOUN	_	_	7	nsubj	_	Gloss=firewood, faggot|LTranslit=sə¹|SpaceAfter=No
+2	𗉝	𗉝	NOUN	_	_	1	conj	_	Gloss=straw, grass|LTranslit=śih²|SpaceAfter=No
+3	𘋠	𘋠	NOUN	_	_	2	nmod	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+4	𘕾	𘕾	ADJ	_	_	2	amod	_	Gloss=all kinds of, a variety of|LTranslit=rner²|SpaceAfter=No
+5	𗫴	𗫴	NOUN	_	_	7	obj	_	Gloss=fruit|LTranslit=mma¹|SpaceAfter=No
+6	𘙌	𘙌	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kə¹|SpaceAfter=No
+7	𗂆	𗂆	VERB	_	_	0	root	_	Gloss=hit, touch|LTranslit=zeh¹
+
+# sent_id = monthly_pleasures_09_II.s04.c01
+# text = 𗢭𗻑𗍂𘘢𗓀𘁟𘁟
+# section = 9月 · B / II · 小节 4
+# text_zh = 九 · 放牧 · 喉 · 依 · 藏 · 不齐 · 不齐
+# text_en = Eating the nine depends on the throat; the things stored away are varied.
+# reference_zh = 形形色色九月食。
+# text_ja = 九を食するは、喉に依り、貯えはさまざま
+# nishida_page = 64
+1	𗢭	𗢭	NUM	_	_	2	obj	_	Gloss=nine|LTranslit=ŋgə¹|SpaceAfter=No
+2	𗻑	𗻑	VERB	_	_	4	advcl	_	Gloss=to herd, herbage|LTranslit=ru̱r¹|SpaceAfter=No
+3	𗍂	𗍂	NOUN	_	_	4	obl	_	Gloss=larynx, throat|LTranslit=nwe¹|SpaceAfter=No
+4	𘘢	𘘢	VERB	_	_	7	advcl	_	Gloss=depend|LTranslit=gih²|SpaceAfter=No
+5	𗓀	𗓀	VERB	_	_	7	nsubj	_	Gloss=hide, conceal|LTranslit=lu̱¹|SpaceAfter=No
+6	𘁟	𘁟	ADJ	_	_	7	compound	_	Gloss=uneven, irregular, difficult|LTranslit=do̱²|SpaceAfter=No
+7	𘁟	𘁟	ADJ	_	_	0	root	_	Gloss=uneven, irregular, difficult|LTranslit=do̱²
+
+# sent_id = monthly_pleasures_09_II.s05.c01
+# text = 𘒵𗥦𘗹𗠮𗂧𗱢𗴴
+# section = 9月 · B / II · 小节 5
+# text_zh = 压 · 头 · 高歌 · 乐 · 国 · 〔向下〕 · 安乐
+# text_en = There is joy in the bowed heads, and the realm rejoices.
+# reference_zh = 五谷丰盈国安乐，
+# text_ja = 圧えられた頭に娯み、国は楽し
+# nishida_page = 64
+1	𘒵	𘒵	VERB	_	_	2	acl	_	Gloss=press, opress|LTranslit=to̱h²|SpaceAfter=No
+2	𗥦	𗥦	NOUN	_	_	4	obl	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+3	𘗹	𘗹	VERB	_	_	4	compound	_	Gloss=sing loudly|LTranslit=vwi̱²|SpaceAfter=No
+4	𗠮	𗠮	VERB	_	_	7	advcl	_	Gloss=amusement|LTranslit=yaw²|SpaceAfter=No
+5	𗂧	𗂧	NOUN	_	_	7	nsubj	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+6	𗱢	𗱢	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+7	𗴴	𗴴	ADJ	_	_	0	root	_	Gloss=peace and happiness|LTranslit=re̱r²
+
+# sent_id = monthly_pleasures_09_II.s06.c01
+# text = 𗻧𗴂𘌋𗘩𗞞𘏡𗫴
+# section = 9月 · B / II · 小节 6
+# text_zh = 大麦 · 白 · 小麦 · 黄 · 〔离说话人〕 · 果 · 果
+# text_en = The white barley and the yellow wheat set grain.
+# reference_zh = 黄白稻麦霜未结，
+# text_ja = 白麦、黄麦に、果実は結ぶ
+# nishida_page = 65
+1	𗻧	𗻧	NOUN	_	_	7	obl	_	Gloss=barley|LTranslit=śe¹|SpaceAfter=No
+2	𗴂	𗴂	ADJ	_	_	1	amod	_	Gloss=white|LTranslit=phao̱ṃ¹|SpaceAfter=No
+3	𘌋	𘌋	NOUN	_	_	1	conj	_	Gloss=wheat|LTranslit=lhih¹|SpaceAfter=No
+4	𗘩	𗘩	ADJ	_	_	3	amod	_	Gloss=yellow, sallow|LTranslit=rnə̱r²|SpaceAfter=No
+5	𗞞	𗞞	AUX	_	_	7	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+6	𘏡	𘏡	NOUN	_	_	7	obj	_	Gloss=fruit|LTranslit=ŋqhae̱¹|SpaceAfter=No
+7	𗫴	𗫴	VERB	_	_	0	root	_	Gloss=fruit|LTranslit=mma¹
+
+# sent_id = monthly_pleasures_09_II.s07.c01
+# text = 𘀿𘀿𗋚𘏊𘀟𗤶𘟣
+# section = 9月 · B / II · 小节 7
+# text_zh = 袋 · 袋 · 〔向外〕 · 装 · 腹 · 心 · 有
+# text_en = The one who fills the sacks has a belly and a heart.
+# reference_zh = 慧人有意积钱财。
+# text_ja = 諸の袋に盛るは、腹心有り
+# nishida_page = 65
+1	𘀿	𘀿	NOUN	_	_	2	compound	_	Gloss=bag, sack|LTranslit=nno̱²|SpaceAfter=No
+2	𘀿	𘀿	NOUN	_	_	4	obl	_	Gloss=bag, sack|LTranslit=nno̱²|SpaceAfter=No
+3	𗋚	𗋚	AUX	_	_	4	aux	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=və²|SpaceAfter=No
+4	𘏊	𘏊	VERB	_	_	7	advcl	_	Gloss=fill|LTranslit=rkur¹|SpaceAfter=No
+5	𘀟	𘀟	NOUN	_	_	6	nmod	_	Gloss=belly, abdomen, stomach|LTranslit=wo̱¹|SpaceAfter=No
+6	𗤶	𗤶	NOUN	_	_	7	obj	_	Gloss=heart, mind|LTranslit=nne¹|SpaceAfter=No
+7	𘟣	𘟣	VERB	_	_	0	root	_	Gloss=have, possess|LTranslit=du¹
+
+# sent_id = monthly_pleasures_10_I.s01.c01
+# text = 𗍫𗏁𘘞𗳝𗵍𗘥𗒿𘃠𘟛𗋚𗁾𗊪𘋂𘒜
+# section = 10月 · A / I · 小节 1
+# text_zh = 二 · 五 · 月 · 月 · 混 · 杂 · 库 · 贮 · 智 · 〔向外〕 · 〔义未详〕 · 国 · 宴 · 宴
+# text_en = In the month of twice five, wisdom rests among stores of every kind, and the realm holds a feast.
+# reference_zh = 十月里诸物入库休闲国开宴，
+# text_ja = 二五の月は、種々の貯蔵に慧は息み、国は宴を開く
+# nishida_page = 66
+1	𗍫	𗍫	NUM	_	_	2	compound	_	Gloss=two|LTranslit=nnə¹|SpaceAfter=No
+2	𗏁	𗏁	NUM	_	_	4	nummod	_	Gloss=five|LTranslit=ŋwə̱¹|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	14	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𗵍	𗵍	ADJ	_	_	6	compound	_	Gloss=mix|LTranslit=lluh²|SpaceAfter=No
+6	𗘥	𗘥	ADJ	_	_	7	amod	_	Gloss=miscellaneous, mixed|LTranslit=lhi̱w¹|SpaceAfter=No
+7	𗒿	𗒿	NOUN	_	_	8	obl	_	Gloss=storehouse, warehouse|LTranslit=lu̱¹|SpaceAfter=No
+8	𘃠	𘃠	VERB	_	_	11	advcl	_	Gloss=store up, amass|LTranslit=ndu̱¹|SpaceAfter=No
+9	𘟛	𘟛	NOUN	_	_	11	nsubj	_	Gloss=wisdom, intelligent|LTranslit=rźər¹|SpaceAfter=No
+10	𗋚	𗋚	AUX	_	_	11	aux	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=və²|SpaceAfter=No
+11	𗁾	𗁾	VERB	_	_	14	advcl	_	Gloss=unknown|LTranslit=ta̱h¹|SpaceAfter=No
+12	𗊪	𗊪	NOUN	_	_	14	nsubj	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+13	𘋂	𘋂	NOUN	_	_	14	obj	_	Gloss=feast, banquet|LTranslit=phu¹|SpaceAfter=No
+14	𘒜	𘒜	VERB	_	_	0	root	_	Gloss=feast, banquet|LTranslit=the¹
+
+# sent_id = monthly_pleasures_10_I.s02.c01
+# text = 𗡞𗩩𘛮𘗲𘕽𘊪𗿼
+# section = 10月 · A / I · 小节 2
+# text_zh = 千 · 〔音译〕 · 欢快 · 稳 · 世 · 箭 · 鸟
+# text_en = Amid the joy and peace of thousands upon thousands, arrows fly across the realm.
+# reference_zh = 百姓娱乐国弋射。
+# text_ja = 千万の楽安は、国に矢が飛ぶ
+# nishida_page = 66
+1	𗡞	𗡞	NUM	_	_	2	compound	_	Gloss=thousand|LTranslit=tu̱h¹|SpaceAfter=No
+2	𗩩	𗩩	PROPN	_	_	4	nmod	_	Gloss=transliteration|LTranslit=vaṃ²|SpaceAfter=No
+3	𘛮	𘛮	ADJ	_	_	4	compound	_	Gloss=happy, cheerful|LTranslit=khe²|SpaceAfter=No
+4	𘗲	𘗲	ADJ	_	_	7	dislocated	_	Gloss=steady|LTranslit=no̱²|SpaceAfter=No
+5	𘕽	𘕽	NOUN	_	_	7	obl	_	Gloss=world|LTranslit=gu²|SpaceAfter=No
+6	𘊪	𘊪	NOUN	_	_	7	nsubj	_	Gloss=arrow|LTranslit=śəh¹|SpaceAfter=No
+7	𗿼	𗿼	VERB	_	_	0	root	_	Gloss=bird|LTranslit=dźwoṃ¹
+
+# sent_id = monthly_pleasures_10_I.s03.c01
+# text = 𗏂𘀎𗥣𗾍𗈃𗑲𗫶
+# section = 10月 · A / I · 小节 3
+# text_zh = 〔八卦之一〕 · 暗 · 起 · 升 · 鹿 · 说 · 〔现在标记／但〕
+# text_en = A dark wind rises, and the deer speak.
+# reference_zh = 黑风乍起鹿又鸣，
+# text_ja = 黔異が涌き起り、鹿が語る
+# nishida_page = 67
+1	𗏂	𗏂	NOUN	_	_	4	nsubj	_	Gloss=one of the Eight Diagrams|LTranslit=mi̱²|SpaceAfter=No
+2	𘀎	𘀎	ADJ	_	_	1	amod	_	Gloss=dark, dim|LTranslit=rmu̱r¹|SpaceAfter=No
+3	𗥣	𗥣	VERB	_	_	4	compound	_	Gloss=stand up, rise, jump|LTranslit=tsu̱²|SpaceAfter=No
+4	𗾍	𗾍	VERB	_	_	6	advcl	_	Gloss=rise, stand up|LTranslit=gwi²|SpaceAfter=No
+5	𗈃	𗈃	NOUN	_	_	6	nsubj	_	Gloss=deer|LTranslit=nsu¹|SpaceAfter=No
+6	𗑲	𗑲	VERB	_	_	0	root	_	Gloss=speak, say|LTranslit=ntśhiw¹|SpaceAfter=No
+7	𗫶	𗫶	PART	_	_	6	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²
+
+# sent_id = monthly_pleasures_10_I.s04.c01
+# text = 𗺕𗻖𗏂𗫵𗏡𘆽𘉜
+# section = 10月 · A / I · 小节 4
+# text_zh = 草 · 草 · 〔八卦之一〕 · 梦魇 · 后 · 马 · 惊
+# text_en = The wind presses down the grass; behind it the horses start in fright.
+# reference_zh = 风吹草低羊马惊。
+# text_ja = 草むらを異が圧え、うしろで馬は驚く
+# nishida_page = 67
+1	𗺕	𗺕	NOUN	_	_	2	compound	_	Gloss=grass|LTranslit=ŋki¹|SpaceAfter=No
+2	𗻖	𗻖	NOUN	_	_	4	obj	_	Gloss=grass, straw|LTranslit=rir²|SpaceAfter=No
+3	𗏂	𗏂	NOUN	_	_	4	nsubj	_	Gloss=one of the Eight Diagrams|LTranslit=mi̱²|SpaceAfter=No
+4	𗫵	𗫵	VERB	_	_	7	advcl	_	Gloss=nightmare|LTranslit=rqai̱r¹|SpaceAfter=No
+5	𗏡	𗏡	NOUN	_	_	7	obl	_	Gloss=behind|LTranslit=qu̱h¹|SpaceAfter=No
+6	𘆽	𘆽	NOUN	_	_	7	nsubj	_	Gloss=horse|LTranslit=ge¹|SpaceAfter=No
+7	𘉜	𘉜	VERB	_	_	0	root	_	Gloss=alarm, terrify|LTranslit=tsho̱ṃh²
+
+# sent_id = monthly_pleasures_10_I.s05.c01
+# text = 𗿼𘀎𗑲𗫶𗛝𗨄𗴵
+# section = 10月 · A / I · 小节 5
+# text_zh = 鸟 · 暗 · 说 · 〔现在标记／但〕 · 梅／树林 · 成就 · 脑
+# text_en = The black birds call as they fly over the tops of the dense thickets.
+# reference_zh = 乌鹊交鸣绕树丛，
+# text_ja = 黒鳥は語りながら、敦い叢の頭（を飛ぶ）
+# nishida_page = 67
+1	𗿼	𗿼	NOUN	_	_	3	nsubj	_	Gloss=bird|LTranslit=dźwoṃ¹|SpaceAfter=No
+2	𘀎	𘀎	ADJ	_	_	1	amod	_	Gloss=dark, dim|LTranslit=rmu̱r¹|SpaceAfter=No
+3	𗑲	𗑲	VERB	_	_	7	advcl	_	Gloss=speak, say|LTranslit=ntśhiw¹|SpaceAfter=No
+4	𗫶	𗫶	PART	_	_	3	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²|SpaceAfter=No
+5	𗛝	𗛝	NOUN	_	_	7	nmod	_	Gloss=plum, woods|LTranslit=re̱r²|SpaceAfter=No
+6	𗨄	𗨄	ADJ	_	_	5	amod	_	Gloss=achievement|LTranslit=yiw²|SpaceAfter=No
+7	𗴵	𗴵	NOUN	_	_	0	root	_	Gloss=brain|LTranslit=lluh²
+
+# sent_id = monthly_pleasures_10_I.s06.c01
+# text = 𗛊𘅹𗤥𗾍𗏵𗱃𘛂
+# section = 10月 · A / I · 小节 6
+# text_zh = 西 · 西 · 广 · 升 · 端 · 东 · 去
+# text_en = They rise out of the west and go east.
+# reference_zh = 西方自出东方去。
+# text_ja = 西方より涌き出て、東方に逝く
+# nishida_page = 68
+1	𗛊	𗛊	NOUN	_	_	2	compound	_	Gloss=west|LTranslit=śah¹|SpaceAfter=No
+2	𘅹	𘅹	NOUN	_	_	4	obl	_	Gloss=west|LTranslit=rner²|SpaceAfter=No
+3	𗤥	𗤥	ADJ	_	_	4	advmod	_	Gloss=vast, broad|LTranslit=gah¹|SpaceAfter=No
+4	𗾍	𗾍	VERB	_	_	7	advcl	_	Gloss=rise, stand up|LTranslit=gwi²|SpaceAfter=No
+5	𗏵	𗏵	NOUN	_	_	6	compound	_	Gloss=end, tip|LTranslit=ma¹|SpaceAfter=No
+6	𗱃	𗱃	NOUN	_	_	7	obl	_	Gloss=east, end|LTranslit=thə¹|SpaceAfter=No
+7	𘛂	𘛂	VERB	_	_	0	root	_	Gloss=post, go|LTranslit=mbe²
+
+# sent_id = monthly_pleasures_10_I.s07.c01
+# text = 𗛝𘀎𗰽𘙮𗎭𗅋𗆧
+# section = 10月 · A / I · 小节 7
+# text_zh = 梅／树林 · 暗 · 墙 · 白 · 屋 · 不 · 新
+# text_en = The palace with its dark thickets and white walls is not new.
+# reference_zh = 黑白城堡均安定，
+# text_ja = 黔叢と皓壁の宮（殿）は、新らしからず
+# nishida_page = 68
+1	𗛝	𗛝	NOUN	_	_	5	nmod	_	Gloss=plum, woods|LTranslit=re̱r²|SpaceAfter=No
+2	𘀎	𘀎	ADJ	_	_	1	amod	_	Gloss=dark, dim|LTranslit=rmu̱r¹|SpaceAfter=No
+3	𗰽	𗰽	NOUN	_	_	1	conj	_	Gloss=wall|LTranslit=dzwəh¹|SpaceAfter=No
+4	𘙮	𘙮	ADJ	_	_	3	amod	_	Gloss=white|LTranslit=li̱w²|SpaceAfter=No
+5	𗎭	𗎭	NOUN	_	_	7	nsubj	_	Gloss=house, residence|LTranslit=mmi¹|SpaceAfter=No
+6	𗅋	𗅋	PART	_	_	7	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+7	𗆧	𗆧	ADJ	_	_	0	root	_	Gloss=new, fresh|LTranslit=siw¹
+
+# sent_id = monthly_pleasures_10_I.s08.c01
+# text = 𘁕𘟝𗊪𘕽𘛮𘕁𗏴
+# section = 10月 · A / I · 小节 8
+# text_zh = 强盛 · 力 · 国 · 世 · 欢快 · 记号 · 显
+# text_en = In the mighty realm a sign of joy appears.
+# reference_zh = 国势强盛见其乐。
+# text_ja = 強勢の国土に、楽しみの記しが現われ
+# nishida_page = 68
+1	𘁕	𘁕	ADJ	_	_	2	amod	_	Gloss=powerful and prosperous|LTranslit=bu²|SpaceAfter=No
+2	𘟝	𘟝	NOUN	_	_	4	nmod	_	Gloss=force, power|LTranslit=wo̱¹|SpaceAfter=No
+3	𗊪	𗊪	NOUN	_	_	4	compound	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+4	𘕽	𘕽	NOUN	_	_	7	obl	_	Gloss=world|LTranslit=gu²|SpaceAfter=No
+5	𘛮	𘛮	ADJ	_	_	6	nmod	_	Gloss=happy, cheerful|LTranslit=khe²|SpaceAfter=No
+6	𘕁	𘕁	VERB	_	_	7	nsubj	_	Gloss=note, record|LTranslit=rzər¹|SpaceAfter=No
+7	𗏴	𗏴	VERB	_	_	0	root	_	Gloss=show, appear|LTranslit=dźu¹
+
+# sent_id = monthly_pleasures_10_II.s01.c01
+# text = 𗰗𗼑𗅁𘋠𘋠𗔇𘐏𗤶𗋚𗤘𗂧𘛡𘃡
+# section = 10月 · B / II · 小节 1
+# text_zh = 十 · 月 · 内 · 种类 · 种类 · 库 · 放 · 心 · 〔向外〕 · 〔义未详〕 · 国 · 宴 · 作
+# text_en = In the tenth month the heart rests amid stores of every kind, and the realm lays out a feast.
+# reference_zh = 十月里诸物入库休闲国开宴，
+# text_ja = 十月の中は、種々の貯置に心は休み、国は宴をなす
+# nishida_page = 66
+1	𗰗	𗰗	NUM	_	_	2	nummod	_	Gloss=ten|LTranslit=ġha̱h²|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	13	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗅁	𗅁	ADP	_	_	2	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+4	𘋠	𘋠	NOUN	_	_	5	compound	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+5	𘋠	𘋠	ADJ	_	_	6	amod	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
+6	𗔇	𗔇	NOUN	_	_	7	obl	_	Gloss=storehouse, warehouse|LTranslit=wu̱h²|SpaceAfter=No
+7	𘐏	𘐏	VERB	_	_	10	advcl	_	Gloss=place, put, set up|LTranslit=tih¹|SpaceAfter=No
+8	𗤶	𗤶	NOUN	_	_	10	nsubj	_	Gloss=heart, mind|LTranslit=nne¹|SpaceAfter=No
+9	𗋚	𗋚	AUX	_	_	10	aux	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=və²|SpaceAfter=No
+10	𗤘	𗤘	VERB	_	_	13	advcl	_	Gloss=unknown|LTranslit=deṃ²|SpaceAfter=No
+11	𗂧	𗂧	NOUN	_	_	13	nsubj	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+12	𘛡	𘛡	NOUN	_	_	13	obj	_	Gloss=fete, feast, banquet|LTranslit=dźih¹|SpaceAfter=No
+13	𘃡	𘃡	VERB	_	_	0	root	_	Gloss=do, make; ergative marker|LTranslit=vi¹
+
+# sent_id = monthly_pleasures_10_II.s02.c01
+# text = 𘂀𗚉𗫉𗴴𗂧𗁷𗺂
+# section = 10月 · B / II · 小节 2
+# text_zh = 人 · 民 · 乐 · 安乐 · 国 · 射 · 泣／飞
+# text_en = The people's delight is the bird they shoot at in the realm.
+# reference_zh = 百姓娱乐国弋射。
+# text_ja = 庶民の快楽は、邦に射る鳥
+# nishida_page = 66
+1	𘂀	𘂀	NOUN	_	_	2	compound	_	Gloss=man, person, people|LTranslit=se²|SpaceAfter=No
+2	𗚉	𗚉	NOUN	_	_	4	nmod	_	Gloss=people, person, man|LTranslit=yu²|SpaceAfter=No
+3	𗫉	𗫉	NOUN	_	_	4	compound	_	Gloss=amusement, happy|LTranslit=mbae̱¹|SpaceAfter=No
+4	𗴴	𗴴	NOUN	_	_	7	dislocated	_	Gloss=peace and happiness|LTranslit=re̱r²|SpaceAfter=No
+5	𗂧	𗂧	NOUN	_	_	6	obl	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+6	𗁷	𗁷	VERB	_	_	7	acl	_	Gloss=shoot, fire|LTranslit=qhaa̱¹|SpaceAfter=No
+7	𗺂	𗺂	VERB	_	_	0	root	_	Gloss=weep, fly|LTranslit=vwe̱²
+
+# sent_id = monthly_pleasures_10_II.s03.c01
+# text = 𘚶𗰞𗰱𗢵𗰆𗅸𗙏
+# section = 10月 · B / II · 小节 3
+# text_zh = 风 · 黑 · 发生 · 起 · 鹿 · 吼 · 声
+# text_en = A black wind springs up like the sound of a deer roaring.
+# reference_zh = 黑风乍起鹿又鸣，
+# text_ja = 黒風が立ち興り、鹿の吼声（のごとし）
+# nishida_page = 67
+1	𘚶	𘚶	NOUN	_	_	4	nsubj	_	Gloss=wind|LTranslit=lə¹|SpaceAfter=No
+2	𗰞	𗰞	ADJ	_	_	1	amod	_	Gloss=dark; black|LTranslit=naw¹|SpaceAfter=No
+3	𗰱	𗰱	VERB	_	_	4	compound	_	Gloss=happen|LTranslit=ġu̱¹|SpaceAfter=No
+4	𗢵	𗢵	VERB	_	_	7	advcl	_	Gloss=stand up|LTranslit=rvwo̱r¹|SpaceAfter=No
+5	𗰆	𗰆	NOUN	_	_	7	nmod	_	Gloss=deer|LTranslit=lha¹|SpaceAfter=No
+6	𗅸	𗅸	VERB	_	_	7	nmod	_	Gloss=roar, howl|LTranslit=qwə̱²|SpaceAfter=No
+7	𗙏	𗙏	NOUN	_	_	0	root	_	Gloss=sound, voice|LTranslit=ġhai̱h²
+
+# sent_id = monthly_pleasures_10_II.s04.c01
+# text = 𗺖𗺯𘚶𗥖𗯾𘊳𗢧𗫶
+# section = 10月 · B / II · 小节 4
+# text_zh = 草 · 〔草名〕 · 风 · 鞭打 · 黄羊 · 阵／林 · 惊 · 〔现在标记／但〕
+# text_en = The wind lashes the grasses, and the gazelles start in fright in the woods.
+# reference_zh = 风吹草低羊马惊。
+# text_ja = 草むらを風が打ち、黄羊は林で駭く
+# nishida_page = 67
+1	𗺖	𗺖	NOUN	_	_	2	compound	_	Gloss=grass|LTranslit=tsa̱¹|SpaceAfter=No
+2	𗺯	𗺯	NOUN	_	_	4	obj	_	Gloss=grass name|LTranslit=ġhu̱²|SpaceAfter=No
+3	𘚶	𘚶	NOUN	_	_	4	nsubj	_	Gloss=wind|LTranslit=lə¹|SpaceAfter=No
+4	𗥖	𗥖	VERB	_	_	7	advcl	_	Gloss=flog, beat|LTranslit=twə¹|SpaceAfter=No
+5	𗯾	𗯾	NOUN	_	_	7	nsubj	_	Gloss=Mongolian gazelle|LTranslit=lluh¹|SpaceAfter=No
+6	𘊳	𘊳	NOUN	_	_	7	obl	_	Gloss=formation, forest|LTranslit=bo̱¹|SpaceAfter=No
+7	𗢧	𗢧	VERB	_	_	0	root	_	Gloss=astonish, shock|LTranslit=mme̱r²|SpaceAfter=No
+8	𗫶	𗫶	PART	_	_	7	advmod	_	Gloss=adverb; present tense marker; auxiliary word ``but''|LTranslit=de²
+
+# sent_id = monthly_pleasures_10_II.s05.c01
+# text = 𗿝𗰞𗡈𗡈𘊨𗗲𗥦𗍊
+# section = 10月 · B / II · 小节 5
+# text_zh = 雁 · 黑 · 啼 · 啼 · 除 · 〔义未详〕 · 头 · 如
+# text_en = Black geese call to one another and perhaps fly like the head of [something unidentified].
+# reference_zh = 乌鹊交鸣绕树丛，
+# text_ja = 黒い雁は鳴き合い、□□の頭のごとく（飛ぶ？）
+# nishida_page = 67
+1	𗿝	𗿝	NOUN	_	_	4	nsubj	_	Gloss=wild goose|LTranslit=dzi̱¹|SpaceAfter=No
+2	𗰞	𗰞	ADJ	_	_	1	amod	_	Gloss=dark; black|LTranslit=naw¹|SpaceAfter=No
+3	𗡈	𗡈	VERB	_	_	4	compound	_	Gloss=cry, shout|LTranslit=ryawr²|SpaceAfter=No
+4	𗡈	𗡈	VERB	_	_	0	root	_	Gloss=cry, shout|LTranslit=ryawr²|SpaceAfter=No
+5	𘊨	𘊨	VERB	_	_	6	compound	_	Gloss=eliminate|LTranslit=thi̱w²|SpaceAfter=No
+6	𗗲	𗗲	VERB	_	_	7	nmod	_	Gloss=unknown|LTranslit=qhai̱h²|SpaceAfter=No
+7	𗥦	𗥦	NOUN	_	_	4	obl	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+8	𗍊	𗍊	ADP	_	_	7	case	_	Gloss=as|LTranslit=su²
+
+# sent_id = monthly_pleasures_10_II.s06.c01
+# text = 𗂰𗏣𗈪𗧊𘃂𗱢𘞓
+# section = 10月 · B / II · 小节 6
+# text_zh = 西 · 朝向 · 〔向上〕 · 出生／生长／升起 · 东 · 〔向下〕 · 去
+# text_en = They come out of the west and go away to the east.
+# reference_zh = 西方自出东方去。
+# text_ja = 西方より出て、東に往き去る
+# nishida_page = 68
+1	𗂰	𗂰	NOUN	_	_	4	obl	_	Gloss=west|LTranslit=li²|SpaceAfter=No
+2	𗏣	𗏣	ADP	_	_	1	case	_	Gloss=in the direction of, towards; side|LTranslit=rer²|SpaceAfter=No
+3	𗈪	𗈪	AUX	_	_	4	aux	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
+4	𗧊	𗧊	VERB	_	_	7	advcl	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²|SpaceAfter=No
+5	𘃂	𘃂	NOUN	_	_	7	obl	_	Gloss=east|LTranslit=vəh²|SpaceAfter=No
+6	𗱢	𗱢	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+7	𘞓	𘞓	VERB	_	_	0	root	_	Gloss=go|LTranslit=ve¹
+
+# sent_id = monthly_pleasures_10_II.s07.c01
+# text = 𗍁𗴂𗽤𗰞𗱢𗪚𗅆
+# section = 10月 · B / II · 小节 7
+# text_zh = 墙 · 白 · 营 · 黑 · 〔向下〕 · 安宁 · 定
+# text_en = The white city and the black fort are secure.
+# reference_zh = 黑白城堡均安定，
+# text_ja = 白い城（と）黒い堡は、安定したり
+# nishida_page = 68
+1	𗍁	𗍁	NOUN	_	_	7	nsubj	_	Gloss=wall, city, castle|LTranslit=vwi̱²|SpaceAfter=No
+2	𗴂	𗴂	ADJ	_	_	1	amod	_	Gloss=white|LTranslit=phao̱ṃ¹|SpaceAfter=No
+3	𗽤	𗽤	NOUN	_	_	1	conj	_	Gloss=camp|LTranslit=tṣhae̱²|SpaceAfter=No
+4	𗰞	𗰞	ADJ	_	_	3	amod	_	Gloss=dark; black|LTranslit=naw¹|SpaceAfter=No
+5	𗱢	𗱢	AUX	_	_	7	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+6	𗪚	𗪚	ADJ	_	_	7	compound	_	Gloss=peaceful|LTranslit=du̱¹|SpaceAfter=No
+7	𗅆	𗅆	ADJ	_	_	0	root	_	Gloss=calm|LTranslit=deṃ²
+
+# sent_id = monthly_pleasures_10_II.s08.c01
+# text = 𘏐𗹠𗂧𗵝𗫉𗗙𘛳
+# section = 10月 · B / II · 小节 8
+# text_zh = 力 · 巧 · 国 · 热 · 乐 · 〔属格〕 · 欢呼
+# text_en = The mighty realm, in its heat, shows its joy.
+# reference_zh = 国势强盛见其乐。
+# text_ja = 優勢の熱い国は、楽しみを見せる
+# nishida_page = 69
+1	𘏐	𘏐	NOUN	_	_	2	nmod	_	Gloss=power, force, influence|LTranslit=ġhwai̱¹|SpaceAfter=No
+2	𗹠	𗹠	ADJ	_	_	3	amod	_	Gloss=skillful, ingenious|LTranslit=rer¹|SpaceAfter=No
+3	𗂧	𗂧	NOUN	_	_	7	nsubj	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+4	𗵝	𗵝	ADJ	_	_	3	amod	_	Gloss=heat|LTranslit=llo̱ṃ²|SpaceAfter=No
+5	𗫉	𗫉	NOUN	_	_	7	obj	_	Gloss=amusement, happy|LTranslit=mbae̱¹|SpaceAfter=No
+6	𗗙	𗗙	ADP	_	_	5	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
+7	𘛳	𘛳	VERB	_	_	0	root	_	Gloss=cheer, amuse|LTranslit=la̱²
+
+# sent_id = monthly_pleasures_11_I.s01.c01
+# text = 𗏁𗤁𘘞𗳝𘙮𗴀𗛊𘅹𗆏𗉋𘙇𗭞𗌜𗌽𗰖
+# section = 11月 · A / I · 小节 1
+# text_zh = 五 · 六 · 月 · 月 · 白 · 高 · 西 · 西 · 山羊 · 聚 · 〔趋向未详〕 · 步 · 水 · 〔向说话人〕 · 聚
+# text_en = In the month of five and six, west of the White Heights, the sheep gatherer walks on, wishing to gather water.
+# reference_zh = 十一月里白高步入西方丛林冰始凝，
+# text_ja = 五六の月、皓上の西方に、羊集めが歩き、坎を集めんと欲する
+# nishida_page = 69
+1	𗏁	𗏁	NUM	_	_	2	compound	_	Gloss=five|LTranslit=ŋwə̱¹|SpaceAfter=No
+2	𗤁	𗤁	NUM	_	_	4	nummod	_	Gloss=six|LTranslit=tśhiw¹|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	15	obl	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𘙮	𘙮	ADJ	_	_	6	compound	_	Gloss=white|LTranslit=li̱w²|SpaceAfter=No
+6	𗴀	𗴀	ADJ	_	_	8	nmod	_	Gloss=tall, high|LTranslit=so̱²|SpaceAfter=No
+7	𗛊	𗛊	NOUN	_	_	8	compound	_	Gloss=west|LTranslit=śah¹|SpaceAfter=No
+8	𘅹	𘅹	NOUN	_	_	12	obl	_	Gloss=west|LTranslit=rner²|SpaceAfter=No
+9	𗆏	𗆏	NOUN	_	_	10	obj	_	Gloss=goat, lamb|LTranslit=tśuh²|SpaceAfter=No
+10	𗉋	𗉋	VERB	_	_	12	nsubj	_	Gloss=gather, assemble|LTranslit=tṣao̱ṃ¹|SpaceAfter=No
+11	𘙇	𘙇	ADV	_	_	12	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
+12	𗭞	𗭞	VERB	_	_	15	advcl	_	Gloss=step, pace|LTranslit=bi²|SpaceAfter=No
+13	𗌜	𗌜	NOUN	_	_	15	obj	_	Gloss=water, river|LTranslit=rnor¹|SpaceAfter=No
+14	𗌽	𗌽	AUX	_	_	15	aux	_	Gloss=verb prefix directional marker - toward the speaker|LTranslit=də²|SpaceAfter=No
+15	𗰖	𗰖	VERB	_	_	0	root	_	Gloss=gather|LTranslit=nṣao̱¹
+
+# sent_id = monthly_pleasures_11_I.s02.c01
+# text = 𗎓𘙮𗏶𗥦𗚩𗅋𗋟
+# section = 11月 · A / I · 小节 2
+# text_zh = 冷 · 白 · 卜骨 · 头 · 路 · 不 · 斜
+# text_en = Even in the white cold, the road of the diviner's head does not bend.
+# reference_zh = 寒冰难断路曲直。
+# text_ja = 皓い寒さに（も）、占頭の道は曲らず
+# nishida_page = 70
+1	𗎓	𗎓	ADJ	_	_	7	obl	_	Gloss=cold, frigid|LTranslit=rkiwr¹|SpaceAfter=No
+2	𘙮	𘙮	ADJ	_	_	1	amod	_	Gloss=white|LTranslit=li̱w²|SpaceAfter=No
+3	𗏶	𗏶	NOUN	_	_	4	nmod	_	Gloss=divination scapula|LTranslit=pho¹|SpaceAfter=No
+4	𗥦	𗥦	NOUN	_	_	5	nmod	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+5	𗚩	𗚩	NOUN	_	_	7	nsubj	_	Gloss=road, way|LTranslit=re̱r²|SpaceAfter=No
+6	𗅋	𗅋	PART	_	_	7	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+7	𗋟	𗋟	ADJ	_	_	0	root	_	Gloss=oblique, slanting|LTranslit=rqe̱r²
+
+# sent_id = monthly_pleasures_11_I.s03.c01
+# text = 𘚜𗸱𗨚𗄵𗭞𗓓𗄖𗆮𗡾𗅋𗲄
+# section = 11月 · A / I · 小节 3
+# text_zh = 党项 · 子 · 眼 · 横 · 步 · 去 · 去 · 返 · 喜欢 · 不 · 结
+# text_en = Though the Tangut son's eyes look askance, he goes back and forth without forming a bond of love.
+# reference_zh = 番儿侧目送往迎来同修好，
+# text_ja = 西夏の子は眼が歪むとも、歩行往還に、愛を結ばず
+# nishida_page = 70
+1	𘚜	𘚜	NOUN	_	_	2	nmod	_	Gloss=Tangut|LTranslit=lhweh¹|SpaceAfter=No
+2	𗸱	𗸱	NOUN	_	_	11	dislocated	_	Gloss=son|LTranslit=no̱²|SpaceAfter=No
+3	𗨚	𗨚	NOUN	_	_	4	nsubj	_	Gloss=eye|LTranslit=ŋqa̱r¹|SpaceAfter=No
+4	𗄵	𗄵	ADJ	_	_	11	advcl	_	Gloss=transverse|LTranslit=ġhwae̱ṃ¹|SpaceAfter=No
+5	𗭞	𗭞	NOUN	_	_	6	obj	_	Gloss=step, pace|LTranslit=bi²|SpaceAfter=No
+6	𗓓	𗓓	VERB	_	_	11	advcl	_	Gloss=go|LTranslit=tśhe¹|SpaceAfter=No
+7	𗄖	𗄖	VERB	_	_	11	advcl	_	Gloss=go|LTranslit=dźa?|SpaceAfter=No
+8	𗆮	𗆮	VERB	_	_	7	conj	_	Gloss=return, retreat|LTranslit=lhow¹|SpaceAfter=No
+9	𗡾	𗡾	VERB	_	_	11	obj	_	Gloss=like, love, desire|LTranslit=no̱²|SpaceAfter=No
+10	𗅋	𗅋	PART	_	_	11	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+11	𗲄	𗲄	VERB	_	_	0	root	_	Gloss=knot, weave|LTranslit=tṣhao̱ṃ¹
+
+# sent_id = monthly_pleasures_11_I.s04.c01
+# text = 𗎓𗱺𗟴𗊣𗈃𘀎𗲍
+# section = 11月 · A / I · 小节 4
+# text_zh = 冷 · 骏马 · 口 · 漱 · 鹿 · 暗 · 溢
+# text_en = At the cold horse's tongue, the black deer fills to overflowing.
+# reference_zh = 马齿经寒黑鹿肥。
+# text_ja = 寒い馬の舌に、黒鹿は満ちる
+# nishida_page = 70
+1	𗎓	𗎓	ADJ	_	_	2	amod	_	Gloss=cold, frigid|LTranslit=rkiwr¹|SpaceAfter=No
+2	𗱺	𗱺	NOUN	_	_	3	nmod	_	Gloss=steed, fine horse|LTranslit=mme̱²|SpaceAfter=No
+3	𗟴	𗟴	NOUN	_	_	7	obl	_	Gloss=oral cavity|LTranslit=ŋkhə²|SpaceAfter=No
+4	𗊣	𗊣	NOUN	_	_	3	compound	_	Gloss=gargle, rinse|LTranslit=qu̱h²|SpaceAfter=No
+5	𗈃	𗈃	NOUN	_	_	7	nsubj	_	Gloss=deer|LTranslit=nsu¹|SpaceAfter=No
+6	𘀎	𘀎	ADJ	_	_	5	amod	_	Gloss=dark, dim|LTranslit=rmu̱r¹|SpaceAfter=No
+7	𗲍	𗲍	ADJ	_	_	0	root	_	Gloss=spill|LTranslit=rllor¹
+
+# sent_id = monthly_pleasures_11_II.s01.c01
+# text = 𗰗𘈩𗼑𗅁𗴂𗹭𘃵𗂰𗾲𘊳𗱢𗪇𗲌𗎈𗝐
+# section = 11月 · B / II · 小节 1
+# text_zh = 十 · 一 · 月 · 内 · 白 · 高 · 此外 · 西 · 〔星名〕 · 阵／林 · 〔向下〕 · 沉 · 江 · 冰 · 团
+# text_en = In the eleventh month, below the White Heights, a star group [name uncertain] sinks in the west and ice covers the river.
+# reference_zh = 十一月里白高步入西方丛林冰始凝，
+# text_ja = 十一月中、白上の下、西に攅昴は没し、河を氷が蔽う
+# nishida_page = 69
+# analysis_note = 日译星名的用字存疑。
+1	𗰗	𗰗	NUM	_	_	2	compound	_	Gloss=ten|LTranslit=ġha̱h²|SpaceAfter=No
+2	𘈩	𘈩	NUM	_	_	3	nummod	_	Gloss=one|LTranslit=li̱w¹|SpaceAfter=No
+3	𗼑	𗼑	NOUN	_	_	15	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+4	𗅁	𗅁	ADP	_	_	3	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+5	𗴂	𗴂	ADJ	_	_	6	compound	_	Gloss=white|LTranslit=phao̱ṃ¹|SpaceAfter=No
+6	𗹭	𗹭	ADJ	_	_	12	obl	_	Gloss=tall|LTranslit=be²|SpaceAfter=No
+7	𘃵	𘃵	ADP	_	_	6	case	_	Gloss=besides|LTranslit=rər²|SpaceAfter=No
+8	𗂰	𗂰	NOUN	_	_	12	obl	_	Gloss=west|LTranslit=li²|SpaceAfter=No
+9	𗾲	𗾲	NOUN	_	_	10	compound	_	Gloss=star name|LTranslit=tshə¹|SpaceAfter=No
+10	𘊳	𘊳	NOUN	_	_	12	nsubj	_	Gloss=formation, forest|LTranslit=bo̱¹|SpaceAfter=No
+11	𗱢	𗱢	AUX	_	_	12	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+12	𗪇	𗪇	VERB	_	_	15	advcl	_	Gloss=sink, submerge|LTranslit=bu̱¹|SpaceAfter=No
+13	𗲌	𗲌	NOUN	_	_	15	obj	_	Gloss=river|LTranslit=ma¹|SpaceAfter=No
+14	𗎈	𗎈	NOUN	_	_	15	nsubj	_	Gloss=ice|LTranslit=ġhwo̱ṃh¹|SpaceAfter=No
+15	𗝐	𗝐	VERB	_	_	0	root	_	Gloss=mass, concentrate|LTranslit=ġha̱²
+
+# sent_id = monthly_pleasures_11_II.s02.c01
+# text = 𗎈𗴂𗵘𗵇𘛐𘎼𘃡
+# section = 11月 · B / II · 小节 2
+# text_zh = 冰 · 白 · 路 · 〔义未详〕 · 直 · 弃 · 作
+# text_en = Even on the white ice, the course of the road is to be judged straight.
+# reference_zh = 寒冰难断路曲直。
+# text_ja = 白い氷に（も）、道途を真直に判断させる
+# nishida_page = 70
+1	𗎈	𗎈	NOUN	_	_	7	obl	_	Gloss=ice|LTranslit=ġhwo̱ṃh¹|SpaceAfter=No
+2	𗴂	𗴂	ADJ	_	_	1	amod	_	Gloss=white|LTranslit=phao̱ṃ¹|SpaceAfter=No
+3	𗵘	𗵘	NOUN	_	_	4	compound	_	Gloss=road; way|LTranslit=tśa¹|SpaceAfter=No
+4	𗵇	𗵇	NOUN	_	_	6	obj	_	Gloss=unknown|LTranslit=tshih¹|SpaceAfter=No
+5	𘛐	𘛐	ADJ	_	_	6	advmod	_	Gloss=straight, honest|LTranslit=twu̱h¹|SpaceAfter=No
+6	𘎼	𘎼	VERB	_	_	7	xcomp	_	Gloss=abandon, distinguish, expel|LTranslit=thə¹|SpaceAfter=No
+7	𘃡	𘃡	VERB	_	_	0	root	_	Gloss=do, make; ergative marker|LTranslit=vi¹
+
+# sent_id = monthly_pleasures_11_II.s03.c01
+# text = 𗼇𘄄𗑉𗹏𘙇𗄼𗋚𘞓𘟠𗷝𗄿
+# section = 11月 · B / II · 小节 3
+# text_zh = 党项人自称 · 男 · 眼 · 恶 · 〔趋向未详〕 · 来 · 〔向外〕 · 去 · 爱 · 尚无 · 阻
+# text_en = Though the Tangut son's eyes look askance, coming and going does not stand in the way of love.
+# reference_zh = 番儿侧目送往迎来同修好，
+# text_ja = 西夏の子は目が斜けども、来り往くに、愛を碍げず
+# nishida_page = 70
+1	𗼇	𗼇	NOUN	_	_	2	nmod	_	Gloss=The name Tangut people call themselves|LTranslit=mi²|SpaceAfter=No
+2	𘄄	𘄄	NOUN	_	_	11	dislocated	_	Gloss=man, male|LTranslit=zi¹|SpaceAfter=No
+3	𗑉	𗑉	NOUN	_	_	4	nsubj	_	Gloss=eye|LTranslit=me̱¹|SpaceAfter=No
+4	𗹏	𗹏	ADJ	_	_	11	advcl	_	Gloss=evil, crafty|LTranslit=do̱ṃ¹|SpaceAfter=No
+5	𘙇	𘙇	ADV	_	_	6	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
+6	𗄼	𗄼	VERB	_	_	11	advcl	_	Gloss=come|LTranslit=la¹|SpaceAfter=No
+7	𗋚	𗋚	AUX	_	_	8	aux	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=və²|SpaceAfter=No
+8	𘞓	𘞓	VERB	_	_	6	conj	_	Gloss=go|LTranslit=ve¹|SpaceAfter=No
+9	𘟠	𘟠	VERB	_	_	11	obj	_	Gloss=love, like|LTranslit=dzu̱¹|SpaceAfter=No
+10	𗷝	𗷝	ADV	_	_	11	advmod	_	Gloss=have not; still not|LTranslit=me²|SpaceAfter=No
+11	𗄿	𗄿	VERB	_	_	0	root	_	Gloss=hinder, obstacle|LTranslit=llu̱h²
+
+# sent_id = monthly_pleasures_11_II.s04.c01
+# text = 𗽺𘆝𘘄𗰆𘈝𗀅
+# section = 11月 · B / II · 小节 4
+# text_zh = 冰 · 马 · 齿 · 鹿 · 夜 · 受
+# text_en = At the teeth of the freezing horse, the night deer is received.
+# reference_zh = 马齿经寒黑鹿肥。
+# text_ja = 凍る馬の歯に、夜鹿を受ける
+# nishida_page = 70
+1	𗽺	𗽺	VERB	_	_	2	acl	_	Gloss=ice|LTranslit=rqu̱r²|SpaceAfter=No
+2	𘆝	𘆝	NOUN	_	_	3	nmod	_	Gloss=horse|LTranslit=rer¹|SpaceAfter=No
+3	𘘄	𘘄	NOUN	_	_	6	obl	_	Gloss=tooth|LTranslit=świ¹|SpaceAfter=No
+4	𗰆	𗰆	NOUN	_	_	6	obj	_	Gloss=deer|LTranslit=lha¹|SpaceAfter=No
+5	𘈝	𘈝	NOUN	_	_	4	nmod	_	Gloss=night|LTranslit=śow¹|SpaceAfter=No
+6	𗀅	𗀅	VERB	_	_	0	root	_	Gloss=undergo|LTranslit=rza̱r²
+
+# sent_id = monthly_pleasures_12_I.s01.c01
+# text = 𗌽𗎓𘘞𗳝𗉨𗘝𘙇𗭞𗀞𗅋𗰖
+# section = 12月 · A / I · 小节 1
+# text_zh = 〔向说话人〕 · 冷 · 月 · 月 · 五 · 五 · 〔趋向未详〕 · 步 · 凝 · 不 · 聚
+# text_en = On the fifth [day?] of the cold month, footsteps congeal but do not come together.
+# reference_zh = 腊月里五九已过鱼初动，
+# text_ja = 寒き月の第五（日？）は、歩みが凝り集らず
+# nishida_page = 71
+1	𗌽	𗌽	AUX	_	_	2	aux	_	Gloss=verb prefix directional marker - toward the speaker|LTranslit=də²|SpaceAfter=No
+2	𗎓	𗎓	ADJ	_	_	4	amod	_	Gloss=cold, frigid|LTranslit=rkiwr¹|SpaceAfter=No
+3	𘘞	𘘞	NOUN	_	_	4	compound	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+4	𗳝	𗳝	NOUN	_	_	6	nmod	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+5	𗉨	𗉨	NUM	_	_	6	compound	_	Gloss=five|LTranslit=rtśər²|SpaceAfter=No
+6	𗘝	𗘝	NUM	_	_	11	obl	_	Gloss=five|LTranslit=lu̱²|SpaceAfter=No
+7	𘙇	𘙇	ADV	_	_	8	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rər²|SpaceAfter=No
+8	𗭞	𗭞	NOUN	_	_	11	nsubj	_	Gloss=step, pace|LTranslit=bi²|SpaceAfter=No
+9	𗀞	𗀞	VERB	_	_	11	compound	_	Gloss=coagulate|LTranslit=to̱ṃh¹|SpaceAfter=No
+10	𗅋	𗅋	PART	_	_	11	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
+11	𗰖	𗰖	VERB	_	_	0	root	_	Gloss=gather|LTranslit=nṣao̱¹
+
+# sent_id = monthly_pleasures_12_I.s02.c01
+# text = 𗽬𗵊𗜽𘄪𗦧𘂫𘛂
+# section = 12月 · A / I · 小节 2
+# text_zh = 土 · 牛 · 鞭打 · 击 · 灵 · 变 · 去
+# text_en = They strike the earthen ox, and the vital spirit changes and departs.
+# reference_zh = 击打春牛孤鬼惊。
+# text_ja = 地の牛を撃ち、精気は変り逝く
+# nishida_page = 72
+1	𗽬	𗽬	NOUN	_	_	2	nmod	_	Gloss=soil, land|LTranslit=tshih¹|SpaceAfter=No
+2	𗵊	𗵊	NOUN	_	_	4	obj	_	Gloss=ox|LTranslit=mmu²|SpaceAfter=No
+3	𗜽	𗜽	VERB	_	_	4	compound	_	Gloss=flog, torture|LTranslit=rər¹|SpaceAfter=No
+4	𘄪	𘄪	VERB	_	_	7	advcl	_	Gloss=strike|LTranslit=rer²|SpaceAfter=No
+5	𗦧	𗦧	NOUN	_	_	7	nsubj	_	Gloss=spirit|LTranslit=rmer²|SpaceAfter=No
+6	𘂫	𘂫	VERB	_	_	7	advcl	_	Gloss=change, become|LTranslit=vəh¹|SpaceAfter=No
+7	𘛂	𘛂	VERB	_	_	0	root	_	Gloss=post, go|LTranslit=mbe²
+
+# sent_id = monthly_pleasures_12_I.s03.c01
+# text = 𗤒𗆧𘙌𘖉𗴵𘀎𗣿𘁻𗊪𘋂𘒜
+# section = 12月 · A / I · 小节 3
+# text_zh = 年 · 新 · 〔向此〕 · 到 · 脑 · 暗 · 面 · 绯红 · 国 · 宴 · 宴
+# text_en = The new year arrives, and the Black Heads and the Red Faces hold a feast for the realm.
+# reference_zh = 新年将至黑头赤面国开宴。
+# text_ja = 新年が至り、黒頭・赤面は、国宴を開く
+# nishida_page = 72
+1	𗤒	𗤒	NOUN	_	_	4	nsubj	_	Gloss=year|LTranslit=kiw¹|SpaceAfter=No
+2	𗆧	𗆧	ADJ	_	_	1	amod	_	Gloss=new, fresh|LTranslit=siw¹|SpaceAfter=No
+3	𘙌	𘙌	AUX	_	_	4	aux	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kə¹|SpaceAfter=No
+4	𘖉	𘖉	VERB	_	_	11	advcl	_	Gloss=arrive|LTranslit=khe²|SpaceAfter=No
+5	𗴵	𗴵	NOUN	_	_	11	nsubj	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+6	𘀎	𘀎	ADJ	_	_	5	amod	_	Gloss=dark, dim|LTranslit=rmu̱r¹|SpaceAfter=No
+7	𗣿	𗣿	NOUN	_	_	5	conj	_	Gloss=face|LTranslit=lhweh¹|SpaceAfter=No
+8	𘁻	𘁻	ADJ	_	_	7	amod	_	Gloss=crimson|LTranslit=nśi²|SpaceAfter=No
+9	𗊪	𗊪	NOUN	_	_	11	obl	_	Gloss=country, territory|LTranslit=llo̱ṃ²|SpaceAfter=No
+10	𘋂	𘋂	NOUN	_	_	11	obj	_	Gloss=feast, banquet|LTranslit=phu¹|SpaceAfter=No
+11	𘒜	𘒜	VERB	_	_	0	root	_	Gloss=feast, banquet|LTranslit=the¹
+
+# sent_id = monthly_pleasures_12_I.s04.c01
+# text = 𗩟𗯳𘈇𗧥𗛰𗝘𗑻
+# section = 12月 · A / I · 小节 4
+# text_zh = 年 · 茂 · 老 · 长 · 三 · 竹 · 节
+# text_en = The young and the elders are the joints of three bamboos.
+# reference_zh = 老少好似三节竹，
+# text_ja = 若輩長老は、三竹の骨
+# nishida_page = 72
+1	𗩟	𗩟	NOUN	_	_	2	nmod	_	Gloss=year|LTranslit=tśeh¹|SpaceAfter=No
+2	𗯳	𗯳	ADJ	_	_	7	nsubj	_	Gloss=luxuriant, majestic; young|LTranslit=nwə¹|SpaceAfter=No
+3	𘈇	𘈇	ADJ	_	_	4	compound	_	Gloss=old|LTranslit=ra̱r¹|SpaceAfter=No
+4	𗧥	𗧥	ADJ	_	_	2	conj	_	Gloss=long|LTranslit=rzir²|SpaceAfter=No
+5	𗛰	𗛰	NUM	_	_	6	nummod	_	Gloss=three|LTranslit=re̱r²|SpaceAfter=No
+6	𗝘	𗝘	NOUN	_	_	7	nmod	_	Gloss=bamboo|LTranslit=ṇuə?|SpaceAfter=No
+7	𗑻	𗑻	NOUN	_	_	0	root	_	Gloss=joint|LTranslit=ġha̱h¹
+
+# sent_id = monthly_pleasures_12_I.s05.c01
+# text = 𗩟𘖀𗴵𗖠𘘞𗳝𗛜
+# section = 12月 · A / I · 小节 5
+# text_zh = 年 · 年 · 脑 · 和缓 · 月 · 月 · 圈
+# text_en = At the head of the year [reading uncertain] all is mild, and the months follow one upon another.
+# reference_zh = 岁首月末再相交，
+# text_ja = 歳？　頭は和かで、月を重ねる
+# nishida_page = 73
+1	𗩟	𗩟	NOUN	_	_	2	compound	_	Gloss=year|LTranslit=tśeh¹|SpaceAfter=No
+2	𘖀	𘖀	NOUN	_	_	3	nmod	_	Gloss=year|LTranslit=si²|SpaceAfter=No
+3	𗴵	𗴵	NOUN	_	_	4	nsubj	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+4	𗖠	𗖠	ADJ	_	_	7	advcl	_	Gloss=gentle, mild, kind|LTranslit=ŋwe̱²|SpaceAfter=No
+5	𘘞	𘘞	NOUN	_	_	7	obj	_	Gloss=month|LTranslit=qa̱¹|SpaceAfter=No
+6	𗳝	𗳝	NOUN	_	_	5	compound	_	Gloss=month|LTranslit=wo̱¹|SpaceAfter=No
+7	𗛜	𗛜	VERB	_	_	0	root	_	Gloss=circle, circumference|LTranslit=reṃ²
+
+# sent_id = monthly_pleasures_12_I.s06.c01
+# text = 𗤫𗥂𗚽𗣯𗄊𗴴𘏁𗞝𗴵𗖠
+# section = 12月 · A / I · 小节 6
+# text_zh = 屋 · 屋 · 田野 · 平 · 皆 · 安乐 · 连 · 田野 · 脑 · 和缓
+# text_en = In homes and open fields alike, one joy follows another, and the head of the village is at peace.
+# reference_zh = 宅舍地头皆来同庆聚首乐悠悠。
+# text_ja = 屋舎、曠野ことごとく楽しみを連ね、村の頭は和か
+# nishida_page = 73
+1	𗤫	𗤫	NOUN	_	_	2	compound	_	Gloss=house|LTranslit=rkər²|SpaceAfter=No
+2	𗥂	𗥂	NOUN	_	_	7	nsubj	_	Gloss=house, room|LTranslit=ŋqhe̱¹|SpaceAfter=No
+3	𗚽	𗚽	NOUN	_	_	2	conj	_	Gloss=field, vast|LTranslit=du̱h¹|SpaceAfter=No
+4	𗣯	𗣯	ADJ	_	_	3	amod	_	Gloss=even, smooth|LTranslit=deh¹|SpaceAfter=No
+5	𗄊	𗄊	ADV	_	_	7	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
+6	𗴴	𗴴	NOUN	_	_	7	obj	_	Gloss=peace and happiness|LTranslit=re̱r²|SpaceAfter=No
+7	𘏁	𘏁	VERB	_	_	10	advcl	_	Gloss=link, join|LTranslit=swe̱¹|SpaceAfter=No
+8	𗞝	𗞝	NOUN	_	_	9	nmod	_	Gloss=field, vast|LTranslit=ge²|SpaceAfter=No
+9	𗴵	𗴵	NOUN	_	_	10	nsubj	_	Gloss=brain|LTranslit=lluh²|SpaceAfter=No
+10	𗖠	𗖠	ADJ	_	_	0	root	_	Gloss=gentle, mild, kind|LTranslit=ŋwe̱²
+
+# sent_id = monthly_pleasures_12_II.s01.c01
+# text = 𗎊𗼑𗅁𗏁𗢭𗀐𗦎𗋾𗞞𗇂
+# section = 12月 · B / II · 小节 1
+# text_zh = 腊月 · 月 · 内 · 五 · 九 · 冷 · 流 · 鱼 · 〔离说话人〕 · 散
+# text_en = In the last month, on the five-nine [day?], fish scatter in the cold current.
+# reference_zh = 腊月里五九已过鱼初动，
+# text_ja = 臘月中の五九（日？）は、寒流に魚が散る
+# nishida_page = 71
+1	𗎊	𗎊	NOUN	_	_	2	nmod	_	Gloss=the twelfth moon|LTranslit=re̱r¹|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	10	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗅁	𗅁	ADP	_	_	2	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
+4	𗏁	𗏁	NUM	_	_	5	compound	_	Gloss=five|LTranslit=ŋwə̱¹|SpaceAfter=No
+5	𗢭	𗢭	NUM	_	_	10	obl	_	Gloss=nine|LTranslit=ŋgə¹|SpaceAfter=No
+6	𗀐	𗀐	ADJ	_	_	7	amod	_	Gloss=cold|LTranslit=dźe¹|SpaceAfter=No
+7	𗦎	𗦎	VERB	_	_	10	obl	_	Gloss=flow|LTranslit=ra̱r²|SpaceAfter=No
+8	𗋾	𗋾	NOUN	_	_	10	nsubj	_	Gloss=fish|LTranslit=ẓau̱²|SpaceAfter=No
+9	𗞞	𗞞	AUX	_	_	10	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+10	𗇂	𗇂	VERB	_	_	0	root	_	Gloss=spread, break up|LTranslit=rsa̱r²
+
+# sent_id = monthly_pleasures_12_II.s02.c01
+# text = 𗸴𗜟𘙌𗥖𗗼𗗱𗠗
+# section = 12月 · B / II · 小节 2
+# text_zh = 春 · 〔草木名〕 · 〔向此〕 · 鞭打 · 巫 · 狐 · 霹雳
+# text_en = They strike the spring ox, and the spirit that drives out ghosts frightens the fox.
+# reference_zh = 击打春牛孤鬼惊。
+# text_ja = 春牛を打ち、駆鬼は狐を驚かす
+# nishida_page = 72
+1	𗸴	𗸴	NOUN	_	_	2	nmod	_	Gloss=spring|LTranslit=nwə²|SpaceAfter=No
+2	𗜟	𗜟	NOUN	_	_	4	obj	_	Gloss=grass (tree) name|LTranslit=ŋgiw¹|SpaceAfter=No
+3	𘙌	𘙌	AUX	_	_	4	aux	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kə¹|SpaceAfter=No
+4	𗥖	𗥖	VERB	_	_	7	advcl	_	Gloss=flog, beat|LTranslit=twə¹|SpaceAfter=No
+5	𗗼	𗗼	NOUN	_	_	7	nsubj	_	Gloss=wizard, sorcerer|LTranslit=na̱¹|SpaceAfter=No
+6	𗗱	𗗱	NOUN	_	_	7	obj	_	Gloss=fox|LTranslit=dẓaə̱¹|SpaceAfter=No
+7	𗠗	𗠗	VERB	_	_	0	root	_	Gloss=thunderbolt, thunderclap|LTranslit=pi¹
+
+# sent_id = monthly_pleasures_12_II.s03.c01
+# text = 𗪘𗣟𗫡𗆐𗥦𗰞𘅞𘔚𗂧𘛡𘃡
+# section = 12月 · B / II · 小节 3
+# text_zh = 前 · 占卜 · 到 · 到 · 头 · 黑 · 面 · 红 · 国 · 宴 · 作
+# text_en = The earlier divination comes to pass, and the Black Heads and the Red Faces lay out a feast for the realm.
+# reference_zh = 新年将至黑头赤面国开宴。
+# text_ja = 先卜が到来し、黒頭・赤面は、国筵をはる
+# nishida_page = 72
+1	𗪘	𗪘	NOUN	_	_	2	compound	_	Gloss=before, former times|LTranslit=śi¹|SpaceAfter=No
+2	𗣟	𗣟	NOUN	_	_	4	nsubj	_	Gloss=divination|LTranslit=rver¹|SpaceAfter=No
+3	𗫡	𗫡	VERB	_	_	4	compound	_	Gloss=arrive|LTranslit=nə²|SpaceAfter=No
+4	𗆐	𗆐	VERB	_	_	11	advcl	_	Gloss=arrive, come|LTranslit=lleh²|SpaceAfter=No
+5	𗥦	𗥦	NOUN	_	_	11	nsubj	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+6	𗰞	𗰞	ADJ	_	_	5	amod	_	Gloss=dark; black|LTranslit=naw¹|SpaceAfter=No
+7	𘅞	𘅞	ADJ	_	_	5	conj	_	Gloss=face|LTranslit=rner²|SpaceAfter=No
+8	𘔚	𘔚	ADJ	_	_	7	amod	_	Gloss=red|LTranslit=ne¹|SpaceAfter=No
+9	𗂧	𗂧	NOUN	_	_	11	obl	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
+10	𘛡	𘛡	NOUN	_	_	11	obj	_	Gloss=fete, feast, banquet|LTranslit=dźih¹|SpaceAfter=No
+11	𘃡	𘃡	VERB	_	_	0	root	_	Gloss=do, make; ergative marker|LTranslit=vi¹
+
+# sent_id = monthly_pleasures_12_II.s04.c01
+# text = 𗫏𘒺𘕕𗒱𗔔𗑝𗍊
+# section = 12月 · B / II · 小节 4
+# text_zh = 少 · 老 · 三 · 年 · 竹 · 节 · 如
+# text_en = Young and old are like the joints of three-year-old bamboo.
+# reference_zh = 老少好似三节竹，
+# text_ja = 若老は、三才竹の節骨
+# nishida_page = 72
+1	𗫏	𗫏	NOUN	_	_	6	nsubj	_	Gloss=young|LTranslit=thwih¹|SpaceAfter=No
+2	𘒺	𘒺	NOUN	_	_	1	conj	_	Gloss=old, aged|LTranslit=rna̱r²|SpaceAfter=No
+3	𘕕	𘕕	NUM	_	_	4	nummod	_	Gloss=three|LTranslit=so̱ṃh¹|SpaceAfter=No
+4	𗒱	𗒱	NOUN	_	_	5	nmod	_	Gloss=year, age|LTranslit=świ¹|SpaceAfter=No
+5	𗔔	𗔔	NOUN	_	_	6	nmod	_	Gloss=bamboo|LTranslit=lhuh²|SpaceAfter=No
+6	𗑝	𗑝	NOUN	_	_	0	root	_	Gloss=joint; periods of time|LTranslit=rtsi̱wr¹|SpaceAfter=No
+7	𗍊	𗍊	ADP	_	_	6	case	_	Gloss=as|LTranslit=su²
+
+# sent_id = monthly_pleasures_12_II.s05.c01
+# text = 𗤒𗥦𗌽𗚊𗼑𘂴𘐄
+# section = 12月 · B / II · 小节 5
+# text_zh = 年 · 头 · 〔向说话人〕 · 〔参4423：头／连接处〕 · 月 · 尾 · 系
+# text_en = At the year's beginning they wish for warmth; at the month's end they weave shoes.
+# reference_zh = 岁首月末再相交，
+# text_ja = 年の頭は温さを望み、月の末には履をあむ
+# nishida_page = 73
+# analysis_note = 𗚊 的词典条目互见第 4423 号，日译采用温和义。
+1	𗤒	𗤒	NOUN	_	_	2	nmod	_	Gloss=year|LTranslit=kiw¹|SpaceAfter=No
+2	𗥦	𗥦	NOUN	_	_	4	nsubj	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+3	𗌽	𗌽	AUX	_	_	4	aux	_	Gloss=verb prefix directional marker - toward the speaker|LTranslit=də²|SpaceAfter=No
+4	𗚊	𗚊	ADJ	_	_	7	advcl	_	Gloss=See 4423|LTranslit=rŋu̱r¹|SpaceAfter=No
+5	𗼑	𗼑	NOUN	_	_	6	nmod	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+6	𘂴	𘂴	NOUN	_	_	7	obl	_	Gloss=tail, end|LTranslit=mme¹|SpaceAfter=No
+7	𘐄	𘐄	VERB	_	_	0	root	_	Gloss=tie, weave|LTranslit=lhwa¹
+
+# sent_id = monthly_pleasures_12_II.s06.c01
+# text = 𗹨𗯴𗞝𗥦𗜌𗄭𗱢𗍋𗚽𗥦𗚊
+# section = 12月 · B / II · 小节 6
+# text_zh = 帐 · 〔下方〕 · 田野 · 头 · 齐备 · 聚 · 〔向下〕 · 聚 · 田野 · 头 · 〔参4423：头／连接处〕
+# text_en = Below the dwelling, at the head of the village, they gather the gains [word unclear]; the head of the field is warm.
+# reference_zh = 宅舍地头皆来同庆聚首乐悠悠。
+# text_ja = 宅下、村の頭は利を集め□、野の頭は温か
+# nishida_page = 73
+# analysis_note = 末字 𗚊 的述谓分析依日译。
+1	𗹨	𗹨	NOUN	_	_	8	obl	_	Gloss=tent, house|LTranslit=yeṃ²|SpaceAfter=No
+2	𗯴	𗯴	ADP	_	_	1	case	_	Gloss=locative particle under, below, beneath|LTranslit=khu¹|SpaceAfter=No
+3	𗞝	𗞝	NOUN	_	_	4	nmod	_	Gloss=field, vast|LTranslit=ge²|SpaceAfter=No
+4	𗥦	𗥦	NOUN	_	_	8	nsubj	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+5	𗜌	𗜌	ADJ	_	_	8	advmod	_	Gloss=complete, all|LTranslit=?|SpaceAfter=No
+6	𗄭	𗄭	VERB	_	_	8	compound	_	Gloss=gather|LTranslit=dzəh²|SpaceAfter=No
+7	𗱢	𗱢	AUX	_	_	8	aux	_	Gloss=verb prefix directional marker - downwards|LTranslit=na¹|SpaceAfter=No
+8	𗍋	𗍋	VERB	_	_	11	advcl	_	Gloss=gather|LTranslit=ŋkhə¹|SpaceAfter=No
+9	𗚽	𗚽	NOUN	_	_	10	nmod	_	Gloss=field, vast|LTranslit=du̱h¹|SpaceAfter=No
+10	𗥦	𗥦	NOUN	_	_	11	nsubj	_	Gloss=head|LTranslit=ġhu̱¹|SpaceAfter=No
+11	𗚊	𗚊	ADJ	_	_	0	root	_	Gloss=See 4423|LTranslit=rŋu̱r¹
+
+# sent_id = monthly_pleasures_colophon_01.s01.c01
+# text = 𘘦𗞞𗫉𗐱
+# text_zh = 〔语气助词〕 · 〔离说话人〕 · 乐 · 〔集合复数〕
+# text_en = Ah, what joy!
+# section = 刊记 1 · 小节 1
+# text_ja = 即ち、楽しいかな
+# nishida_page = 73
+1	𘘦	𘘦	SCONJ	_	_	3	advmod	_	Gloss=an auxiliary word that indicates mood|LTranslit=tśhow¹|SpaceAfter=No
+2	𗞞	𗞞	AUX	_	_	3	aux	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=da²|SpaceAfter=No
+3	𗫉	𗫉	ADJ	_	_	0	root	_	Gloss=amusement, happy|LTranslit=mbae̱¹|SpaceAfter=No
+4	𗐱	𗐱	AUX	_	_	3	aux	_	Gloss=collective plural indicator|LTranslit=ni²
+
+# sent_id = monthly_pleasures_colophon_02.s01.c01
+# text = 𗼑𗼑𗫉𗊱𗈪𗱊𘃪
+# section = 刊记 2 · 小节 1
+# text_zh = 月 · 月 · 乐 · 诗 · 一 · 卷 · 终
+# text_en = End of the Ode on Monthly Pleasures, in one scroll.
+# reference_zh = 月月乐诗一卷终。
+# text_ja = 月々楽詩　一巻　終
+# nishida_page = 73
+1	𗼑	𗼑	NOUN	_	_	2	compound	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+2	𗼑	𗼑	NOUN	_	_	3	obl	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+3	𗫉	𗫉	NOUN	_	_	4	nmod	_	Gloss=amusement, happy|LTranslit=mbae̱¹|SpaceAfter=No
+4	𗊱	𗊱	NOUN	_	_	6	nmod	_	Gloss=poetry, poem|LTranslit=dzo²|SpaceAfter=No
+5	𗈪	𗈪	NUM	_	_	6	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
+6	𗱊	𗱊	NOUN	_	_	7	nsubj	_	Gloss=roll|LTranslit=thjɨ̣2|SpaceAfter=No
+7	𘃪	𘃪	NOUN	_	_	0	root	_	Gloss=end; Sofronov's pluperfect marker|LTranslit=dźwa¹
+
+# sent_id = monthly_pleasures_colophon_03.s01.c01
+# text = 𘃪𘀗𘑨𗼴𗀋𗰗𗤁𗤒𗥃𗼑𗾞𗏇𘐘𗅂𗩍
+# section = 刊记 3 · 小节 1
+# text_zh = 终 · 天 · 助 · 苗 · 蛇 · 十 · 六 · 年 · 四 · 月 · 日 · 字 · 刻 · 管理 · 有
+# text_en = End. On a day in the fourth month of the sixteenth year of Qianyou, the Wood Snake year. Held by the Office of Block Engraving.
+# reference_zh = 终。乾祐乙巳十六年四月日，刻字司有。
+# nishida_page = 18
+# analysis_note = 西田龍雄原書第 18 頁直接釋作「刻字司有」。末字據此取有義（李範文編號 2221），刻字司整體作主語。
+1	𘃪	𘃪	NOUN	_	_	15	parataxis	_	Gloss=end; Sofronov's pluperfect marker|LTranslit=dźwa¹|SpaceAfter=No
+2	𘀗	𘀗	PROPN	_	_	3	compound	_	Gloss=sky, heaven|LTranslit=tshwu¹|SpaceAfter=No
+3	𘑨	𘑨	PROPN	_	_	8	nmod	_	Gloss=help, subsidise|LTranslit=ġhwu̱h²|SpaceAfter=No
+4	𗼴	𗼴	NOUN	_	_	5	compound	_	Gloss=seedling|LTranslit=lleh¹|SpaceAfter=No
+5	𗀋	𗀋	NOUN	_	_	8	nmod	_	Gloss=snake|LTranslit=phao̱²|SpaceAfter=No
+6	𗰗	𗰗	NUM	_	_	7	compound	_	Gloss=ten|LTranslit=ġha̱h²|SpaceAfter=No
+7	𗤁	𗤁	NUM	_	_	8	nummod	_	Gloss=six|LTranslit=tśhiw¹|SpaceAfter=No
+8	𗤒	𗤒	NOUN	_	_	10	nmod	_	Gloss=year|LTranslit=kiw¹|SpaceAfter=No
+9	𗥃	𗥃	NUM	_	_	10	nummod	_	Gloss=four|LTranslit=rllər¹|SpaceAfter=No
+10	𗼑	𗼑	NOUN	_	_	11	nmod	_	Gloss=the moon; month|LTranslit=lhih²|SpaceAfter=No
+11	𗾞	𗾞	NOUN	_	_	15	obl	_	Gloss=sun, day|LTranslit=nnə²|SpaceAfter=No
+12	𗏇	𗏇	NOUN	_	_	13	obj	_	Gloss=characters|LTranslit=di²|SpaceAfter=No
+13	𘐘	𘐘	VERB	_	_	14	acl	_	Gloss=carve, engrave, raise|LTranslit=ŋqu̱¹|SpaceAfter=No
+14	𗅂	𗅂	NOUN	_	_	15	nsubj	_	Gloss=manage|LTranslit=rar¹|SpaceAfter=No
+15	𗩍	𗩍	VERB	_	_	0	root	_	Gloss=have, enjoy|LTranslit=nvwə̱¹
+
